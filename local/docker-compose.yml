@@ -1,0 +1,69 @@
+version: "3.8"
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.7.1
+    container_name: "elasticsearch"
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - data_es_aws:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+      - 9300:9300
+    logging:
+      driver: none
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.7.1
+    container_name: kibana
+    environment:
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+    logging:
+      driver: "none"
+  postgres:
+    image: postgres:9.6 
+    container_name: "postgres"
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: acm
+    volumes:
+      - data_pg_aws:/var/lib/postgresql/data/
+    ports:
+      - "5432:5432"
+  pgadmin4:
+    image: "dpage/pgadmin4:4.27"
+    ports:
+      - "80:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@softcentre.ma
+      PGADMIN_DEFAULT_PASSWORD: admin
+    volumes:
+      - data_pgadmin-data:/var/lib/pgadmin
+      - data_pgadmin-config_local.py:/pgadmin4/config_local.py
+      - data_pgadmin-servers.json:/pgadmin4/servers.json
+    logging:
+      driver: "none"
+  # recommendation:
+  #   build:
+  #     context: ../
+  #     dockerfile: ./local/Dockerfile.app-recommendation
+  #   ports:
+  #     - 5004:5000
+  #   depends_on:
+  #     - postgres
+
+volumes:
+  data_es_aws:
+    driver: local
+  data_pg_aws:
+    driver: local
+  # data_pgadmin-data:
+  #   driver: local
+  # data_pgadmin-config_local.py:
+  #   driver: local
+  # data_pgadmin-servers.json:
+  #   driver: local
