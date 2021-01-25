@@ -1,0 +1,5 @@
+setup.py
+main/brr.egg-info/PKG-INFO
+main/brr.egg-info/SOURCES.txt
+main/brr.egg-info/dependency_links.txt
+main/brr.egg-info/top_level.txt

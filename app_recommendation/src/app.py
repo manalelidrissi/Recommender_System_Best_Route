@@ -1,9 +1,8 @@
 import os
 from flask_restplus import Api
 
-from brr_backend import api_rec as recommendation_api
-from brr_backend.document import db
-
+from bestrouterec.document import db
+from bestrouterec import api as recommendation_api
 
 api = Api(title="ACM Recommendation")
 api.add_namespace(recommendation_api)

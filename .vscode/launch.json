@@ -3,27 +3,52 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [{
-        "name": "Python : Current file",
-        "type": "python",
-        "request": "launch",
-        "program": "${file}",
-        "console": "integratedTerminal",
-    },
-    {
-        "name": "ACM - Local - Recommendation",
-        "type": "python",
-        "request": "launch",
-        "module": "flask",
-        "env": {
-            "FLASK_APP": "${workspaceFolder}/src/app.py",
-            "FLASK_ENV": "local",
-            "FLASK_DEBUG": "1",
-        },
-        "envFile": "${workspaceFolder}/local.env",
-        "args": ["run", "--port", "5004", "--no-debugger", "--no-reload"],
-        "jinja": true,
-        "justMyCode": true,
-    },
-]
+    "configurations": [
+        {
+          "type": "python",
+          "request": "launch",
+          "name": "ACM - Local - Recommendation",
+          "program": "app_recommendation/src/app.py",
+          "stopOnEntry": true,
+        }
+    ]
 }
+    // "configurations": [
+
+    //     {
+    //         "name": "Python : Current file",
+    //         "type": "python",
+    //         "request": "launch",
+    //         "program": "${file}",
+    //         "console": "integratedTerminal",
+    //     },
+    //     {
+    //         "name": "ACM - Local - Recommendation",
+    //         "type": "python",
+    //         "request": "launch",
+    //         "module": "flask",
+    //         "env": {
+    //             "FLASK_APP": "app-recommendation/src/app.py",
+    //             "FLASK_ENV": "local",
+    //             "FLASK_DEBUG": "1",
+    //         },
+    //         "envFile": "local.env",
+    //         "args": ["run", "--port", "5004", "--no-debugger", "--no-reload"],
+    //         "jinja": true,
+    //         "justMyCode": true,
+    //     },
+    // ]
+// }
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//       {
+//         "type": "mock",
+//         "request": "launch",
+//         "name": "mock test",
+//         "program": "${workspaceFolder}/readme.md",
+//         "stopOnEntry": true,
+//         "debugServer": 4711
+//       }
+//     ]
+//   }

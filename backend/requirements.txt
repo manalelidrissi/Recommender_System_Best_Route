@@ -14,6 +14,8 @@ postgres==3.0.0
 # Numpy & Cython should stay at the top as some data crunching packages require it
 numpy==1.19.5
 Cython==0.29.16
+GeoPy==2.1.0
+Faker==4.0.0
 pandas==1.2.0
 scikit_learn==0.24.0
 pyLDAvis==2.1.2
