@@ -1,0 +1,5 @@
+setup.py
+main/bestrouterec.egg-info/PKG-INFO
+main/bestrouterec.egg-info/SOURCES.txt
+main/bestrouterec.egg-info/dependency_links.txt
+main/bestrouterec.egg-info/top_level.txt

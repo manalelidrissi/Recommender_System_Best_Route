@@ -1,0 +1,1540 @@
+driver_name;driver_sex;driver_age;driver_is_smoking;from;to;date;time;price
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;27.04.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;27.04.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;27.04.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;27.04.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.04.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;27.04.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;28.04.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;28.04.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;28.04.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;28.04.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;28.04.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.04.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;28.04.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;28.04.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;28.04.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;28.04.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;28.04.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;28.04.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.04.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;28.04.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;29.04.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;29.04.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;29.04.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;29.04.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;29.04.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.04.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;29.04.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;29.04.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;29.04.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;29.04.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;29.04.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;29.04.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;29.04.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.04.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;29.04.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;30.04.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;30.04.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;30.04.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;30.04.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;30.04.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;30.04.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;30.04.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;30.04.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;30.04.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;30.04.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;30.04.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;30.04.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;30.04.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;30.04.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;30.04.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;01.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;01.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;01.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;01.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;01.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;01.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;01.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;01.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;01.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;01.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;01.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;01.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;01.05.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;01.05.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;02.05.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;02.05.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;03.05.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;03.05.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;04.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;04.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;04.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;04.05.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;04.05.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;04.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;04.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;04.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;04.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;04.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;04.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;04.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;04.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;05.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;05.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;05.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;05.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;05.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;05.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;05.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;05.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;05.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;05.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;05.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;05.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;05.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;05.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;06.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;06.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;06.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;06.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;06.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;06.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;06.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;06.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;06.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;06.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;06.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;06.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;06.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;06.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;06.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;07.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;07.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;07.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;07.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;07.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;07.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;07.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;07.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;07.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;07.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;07.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;07.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;07.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;08.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;08.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;08.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;08.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;08.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;08.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;08.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;08.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;08.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;08.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;08.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;08.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;08.05.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;08.05.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;09.05.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;09.05.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;10.05.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;10.05.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;11.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;11.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;11.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;11.05.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;11.05.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;11.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;11.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;11.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;11.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;11.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;11.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;11.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;11.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;12.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;12.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;12.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;12.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;12.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;12.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;12.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;12.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;12.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;12.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;12.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;12.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;12.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;12.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;13.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;13.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;13.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;13.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;13.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;13.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;13.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;13.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;13.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;13.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;13.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;13.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;13.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;13.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;13.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;15.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;15.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;15.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;15.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;15.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;15.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;15.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;15.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;15.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;15.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;15.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;15.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;15.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;15.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;15.05.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;15.05.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;16.05.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;16.05.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;17.05.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;17.05.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;18.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;18.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;18.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;18.05.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;18.05.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;18.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;18.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;18.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;18.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;18.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;18.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;18.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;18.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;18.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;18.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;19.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;19.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;19.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;19.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;19.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;19.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;19.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;19.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;19.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;19.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;19.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;19.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;19.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;19.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;20.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;20.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;20.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;20.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;20.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;20.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;20.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;20.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;20.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;20.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;20.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;20.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;20.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;20.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;20.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;21.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;21.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;21.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;21.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;21.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;21.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;21.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;21.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;21.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;21.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;21.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;21.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;21.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;21.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;21.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;22.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;22.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;22.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;22.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;22.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;22.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;22.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;22.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;22.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;22.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;22.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;22.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;22.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;22.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;22.05.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;22.05.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;23.05.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;23.05.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;24.05.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;24.05.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;25.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;25.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;25.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;25.05.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;25.05.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;25.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;25.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;25.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;25.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;25.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;25.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;25.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;25.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;25.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;25.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;26.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;26.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;26.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;26.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;26.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;26.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;26.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;26.05.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;26.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;26.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;26.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;26.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;26.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;26.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;27.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;27.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;27.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;27.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;27.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;27.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;27.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;27.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;27.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;27.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;27.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;27.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;27.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;28.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;28.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;28.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;28.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;28.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;28.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;28.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;28.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;28.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;28.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;28.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;28.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;28.05.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;29.05.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;29.05.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;29.05.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;29.05.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;29.05.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.05.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;29.05.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;29.05.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;29.05.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;29.05.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;29.05.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;29.05.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;29.05.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.05.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;29.05.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;29.05.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;30.05.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;30.05.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;31.05.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;31.05.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;01.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;01.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;01.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;01.06.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;01.06.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;01.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;01.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;01.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;01.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;01.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;01.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;01.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;01.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;02.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;02.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;02.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;02.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;02.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;02.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;02.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;02.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;02.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;02.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;02.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;02.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;02.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;02.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;03.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;03.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;03.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;03.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;03.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;03.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;03.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;03.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;03.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;03.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;03.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;03.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;03.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;04.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;04.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;04.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;04.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;04.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;04.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;04.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;04.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;04.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;04.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;04.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;04.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;04.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;05.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;05.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;05.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;05.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;05.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;05.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;05.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;05.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;05.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;05.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;05.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;05.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;05.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;05.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;05.06.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;05.06.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;06.06.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;06.06.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;07.06.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;07.06.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;08.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;08.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;08.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;08.06.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;08.06.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;08.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;08.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;08.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;08.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;08.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;08.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;08.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;08.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;09.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;09.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;09.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;09.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;09.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;09.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;09.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;09.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;09.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;09.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;09.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;09.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;09.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;09.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;10.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;10.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;10.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;10.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;10.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;10.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;10.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;10.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;10.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;10.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;10.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;10.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;10.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;11.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;11.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;11.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;11.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;11.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;11.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;11.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;11.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;11.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;11.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;11.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;11.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;11.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;12.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;12.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;12.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;12.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;12.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;12.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;12.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;12.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;12.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;12.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;12.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;12.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;12.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;12.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;12.06.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;12.06.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;13.06.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;13.06.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;16.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;16.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;16.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;16.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;16.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;16.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;16.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;16.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;16.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;16.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;16.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;16.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;16.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;16.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;17.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;17.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;17.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;17.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;17.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;17.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;17.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;17.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;17.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;17.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;17.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;17.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;17.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;17.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;17.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;18.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;18.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;18.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;18.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;18.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;18.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;18.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;18.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;18.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;18.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;18.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;18.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;18.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;18.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;18.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;19.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;19.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;19.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;19.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;19.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;19.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;19.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;19.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;19.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;19.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;19.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;19.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;19.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;19.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;19.06.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;19.06.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;20.06.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;20.06.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;21.06.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;21.06.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;22.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;22.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;22.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;22.06.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;22.06.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;22.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;22.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;22.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;22.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;22.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;22.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;22.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;22.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;22.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;22.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;23.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;23.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;23.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;23.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;23.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;23.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;23.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;23.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;23.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;23.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;23.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;23.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;23.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;23.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;24.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;24.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;24.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;24.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;24.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;24.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;24.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;24.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;24.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;24.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;24.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;24.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;24.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;24.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;24.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;25.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;25.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;25.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;25.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;25.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;25.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;25.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;25.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;25.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;25.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;25.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;25.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;25.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;25.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;25.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;26.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;26.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;26.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;26.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;26.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;26.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;26.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;26.06.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;26.06.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;26.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;26.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;26.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;26.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;26.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;26.06.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;26.06.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;27.06.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;27.06.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;28.06.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;28.06.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;29.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;29.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;29.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;29.06.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;29.06.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;29.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;29.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;29.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;29.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;29.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;29.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;29.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;29.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;30.06.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;30.06.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;30.06.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;30.06.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;30.06.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;30.06.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;30.06.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;30.06.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;30.06.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;30.06.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;30.06.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;30.06.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;30.06.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;30.06.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;01.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;01.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;01.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;01.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;01.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;01.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;01.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;01.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;01.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;01.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;01.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;01.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;01.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;02.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;02.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;02.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;02.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;02.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;02.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;02.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;02.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;02.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;02.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;02.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;02.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;02.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;02.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;02.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;03.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;03.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;03.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;03.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;03.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;03.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;03.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;03.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;03.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;03.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;03.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;03.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;03.07.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;03.07.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;04.07.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;04.07.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;05.07.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;05.07.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;06.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;06.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;06.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;06.07.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;06.07.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;06.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;06.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;06.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;06.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;06.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;06.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;06.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;06.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;06.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;06.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;07.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;07.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;07.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;07.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;07.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;07.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;07.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;07.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;07.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;07.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;07.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;07.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;08.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;08.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;08.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;08.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;08.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;08.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;08.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;08.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;08.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;08.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;08.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;08.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;08.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;09.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;09.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;09.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;09.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;09.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;09.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;09.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;09.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;09.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;09.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;09.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;09.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;09.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;09.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;09.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;10.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;10.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;10.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;10.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;10.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;10.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;10.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;10.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;10.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;10.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;10.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;10.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;10.07.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;10.07.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;11.07.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;11.07.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;12.07.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;12.07.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;13.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;13.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;13.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;13.07.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;13.07.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;13.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;13.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;13.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;13.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;13.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;13.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;13.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;13.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;13.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;13.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;14.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;14.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;14.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;14.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;14.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;14.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;14.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;14.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;14.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;14.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;14.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;14.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;14.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;14.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;15.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;15.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;15.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;15.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;15.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;15.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;15.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;15.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;15.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;15.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;15.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;15.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;15.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;15.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;15.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;16.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;16.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;16.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;16.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;16.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;16.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;16.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;16.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;16.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;16.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;16.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;16.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;16.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;16.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;16.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;17.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;17.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;17.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;17.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;17.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;17.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;17.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;17.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;17.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;17.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;17.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;17.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;17.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;17.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;17.07.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;17.07.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;18.07.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;18.07.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;19.07.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;19.07.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;20.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;20.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;20.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;20.07.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;20.07.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;20.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;20.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;20.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;20.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;20.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;20.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;20.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;20.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;20.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;20.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;21.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;21.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;21.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;21.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;21.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;21.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;21.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;21.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;21.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;21.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;21.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;21.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;21.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;21.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;22.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;22.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;22.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;22.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;22.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;22.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;22.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;22.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;22.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;22.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;22.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;22.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;22.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;22.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;22.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;23.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;23.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;23.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;23.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;23.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;23.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;23.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;23.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;23.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;23.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;23.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;23.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;23.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;23.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;23.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;24.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;24.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;24.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;24.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;24.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;24.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;24.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;24.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;24.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;24.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;24.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;24.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;24.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;24.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;24.07.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;24.07.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;25.07.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;25.07.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;26.07.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;26.07.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;27.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;27.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;27.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;27.07.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;27.07.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;27.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;27.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;27.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;27.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;27.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;27.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;27.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;27.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;28.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;28.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;28.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;28.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;28.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;28.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;28.07.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;28.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;28.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;28.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;28.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;28.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;29.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;29.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;29.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;29.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;29.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;29.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;29.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;29.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;29.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;29.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;29.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;29.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;29.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;29.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;30.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;30.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;30.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;30.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;30.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;30.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;30.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;30.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;30.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;30.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;30.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;30.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;30.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;30.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;30.07.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;31.07.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;31.07.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;31.07.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;31.07.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;31.07.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;31.07.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;31.07.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;31.07.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;31.07.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;31.07.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;31.07.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;31.07.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;31.07.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;31.07.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;31.07.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;31.07.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;01.08.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;01.08.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;02.08.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;02.08.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;03.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;03.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;03.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;03.08.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;03.08.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;03.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;03.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;03.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;03.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;03.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;03.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;03.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;03.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;04.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;04.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;04.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;04.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;04.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;04.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;04.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;04.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;04.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;04.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;04.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;04.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;05.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;05.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;05.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;05.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;05.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;05.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;05.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;05.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;05.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;05.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;05.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;05.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;05.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;05.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;05.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;06.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;06.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;06.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;06.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;06.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;06.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;06.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;06.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;06.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;06.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;06.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;06.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;06.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;06.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;06.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;07.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;07.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;07.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;07.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;07.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;07.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;07.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;07.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;07.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;07.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;07.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;07.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;07.08.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;07.08.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;08.08.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;08.08.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;09.08.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;09.08.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;10.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;10.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;10.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;10.08.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;10.08.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;10.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;10.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;10.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;10.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;10.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;10.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;10.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;10.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;11.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;11.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;11.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;11.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;11.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;11.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;11.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;11.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;11.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;11.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;11.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;11.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;12.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;12.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;12.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;12.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;12.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;12.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;12.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;12.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;12.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;12.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;12.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;12.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;12.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;12.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;12.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;13.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;13.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;13.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;13.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;13.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;13.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;13.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;13.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;13.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;13.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;13.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;13.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;13.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;13.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;13.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;14.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;14.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;14.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;14.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;14.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;14.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;14.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;14.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;14.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;14.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;14.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;14.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;14.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;14.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;14.08.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;14.08.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;15.08.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;15.08.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;16.08.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;16.08.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;17.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;17.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;17.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;17.08.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;17.08.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;17.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;17.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;17.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;17.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;17.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;17.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;17.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;17.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;17.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;17.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;18.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;18.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;18.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;18.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;18.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;18.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;18.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;18.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;18.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;18.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;18.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;18.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;18.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;18.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;19.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;19.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;19.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;19.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;19.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;19.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;19.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;19.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;19.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;19.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;19.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;19.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;19.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;19.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;19.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;20.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;20.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;20.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;20.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;20.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;20.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;20.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;20.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;20.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;20.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;20.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;20.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;20.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;20.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;20.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;21.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;21.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;21.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;21.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;21.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;21.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;21.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;21.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;21.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;21.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;21.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;21.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;21.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;21.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;21.08.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;21.08.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;22.08.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;22.08.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;23.08.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;23.08.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;24.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;24.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;24.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;24.08.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;24.08.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;24.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;24.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;24.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;24.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;24.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;24.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;24.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;24.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;24.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;24.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;25.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;25.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;25.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;25.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;25.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;25.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;25.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;25.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;25.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;25.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;25.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;25.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;25.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;25.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;26.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;26.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;26.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;26.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;26.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;26.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;26.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;26.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;26.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;26.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;26.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;26.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;26.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;26.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;26.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;27.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;27.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;27.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;27.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;27.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;27.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;27.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;27.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;27.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;27.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;27.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;27.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;27.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;27.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;28.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;28.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;28.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;28.08.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;28.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;28.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;28.08.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;28.08.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;28.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;28.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;28.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;28.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;28.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;28.08.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;28.08.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;29.08.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;29.08.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;30.08.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;30.08.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;31.08.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;31.08.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;31.08.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;31.08.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;31.08.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;31.08.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;31.08.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;31.08.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;31.08.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;31.08.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;31.08.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;31.08.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;31.08.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;31.08.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;31.08.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;01.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;01.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;01.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;01.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;01.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;01.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;01.09.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;01.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;01.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;01.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;01.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;01.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;01.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;02.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;02.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;02.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;02.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;02.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;02.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;02.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;02.09.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;02.09.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;02.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;02.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;02.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;02.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;02.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;02.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;03.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;03.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;03.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;03.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;03.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;03.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;03.09.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;03.09.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;03.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;03.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;03.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;03.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;03.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;03.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;04.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;04.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;04.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;04.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;04.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;04.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;04.09.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;04.09.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;04.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;04.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;04.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;04.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;04.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;04.09.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;04.09.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;05.09.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;05.09.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;06.09.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;06.09.2020;20:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;07.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;07.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;07.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;07.09.2020;07:00;100,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;07.09.2020;07:10;10,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;07.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;07.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;07.09.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;07.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;07.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;07.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;07.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;07.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;07.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;08.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;08.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;08.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;08.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;08.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;08.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;08.09.2020;08:30;35,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;08.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;08.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;08.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;08.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;08.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;08.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;09.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;09.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;09.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;09.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;09.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;09.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;09.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;09.09.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;09.09.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;09.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;09.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;09.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;09.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;09.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;09.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;10.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;10.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;10.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;10.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;10.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;10.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;10.09.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;10.09.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;10.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;10.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;10.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;10.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;10.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;10.09.2020;18:00;100,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;11.09.2020;06:15;25,00 Dh
+Youness H.;Homme;30 Ans;Non;Bouznika;Casablanca;11.09.2020;07:00;25,00 Dh
+Taghbalout A.;Homme;36 Ans;Non;Temara;Casablanca;11.09.2020;07:00;30,00 Dh
+ayoub A.;Homme;29 Ans;Non;Casablanca;Rabat;11.09.2020;07:00;100,00 Dh
+Rachid R.;Homme;37 Ans;Non;Oujda;Berkane;11.09.2020;07:15;20,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.09.2020;07:30;10,00 Dh
+Najib M.;Homme;30 Ans;Non;Mohammedia;Rabat;11.09.2020;08:15;25,00 Dh
+baraa;Homme;30 Ans;Non;Rabat;Casablanca;11.09.2020;08:30;35,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;11.09.2020;12:30;10,00 Dh
+baraa;Homme;30 Ans;Non;Casablanca;Rabat;11.09.2020;16:00;35,00 Dh
+Youness H.;Homme;30 Ans;Non;Casablanca;Bouznika;11.09.2020;16:30;25,00 Dh
+Rachid R.;Homme;37 Ans;Non;Berkane;Oujda;11.09.2020;17:30;20,00 Dh
+Najib M.;Homme;30 Ans;Non;Rabat;Mohammedia;11.09.2020;18:00;25,00 Dh
+mohamme S.;Homme;24 Ans;Non;Casablanca;Casablanca;11.09.2020;18:00;10,00 Dh
+ayoub A.;Homme;29 Ans;Non;Rabat;Casablanca;11.09.2020;18:00;100,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Kenitra;Casablanca;11.09.2020;18:00;50,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;12.09.2020;06:15;25,00 Dh
+abdessadek;Homme;39 Ans;Non;Salé;Kenitra;12.09.2020;12:30;10,00 Dh
+Khalid;Homme;36 Ans;Non;Casablanca;Nouasser;13.09.2020;06:15;25,00 Dh
+Abdelilah E.;Homme;38 Ans;Non;Casablanca;Kenitra;13.09.2020;20:00;50,00 Dh
