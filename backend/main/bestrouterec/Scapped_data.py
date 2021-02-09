@@ -13,8 +13,8 @@ from selenium.common.exceptions import NoSuchElementException,StaleElementRefere
 class CTMBot(object):
 	"""docstring for CTMBot"""
 	def __init__(self):
-		self.driver = webdriver.Chrome("C:/Program Files/operadriver.exe")
-		self.out = open('CTM_trips.csv','a')
+		self.driver = webdriver.Chrome("/Users/mac/Downloads/chromedriver")
+		self.out = open('data_files/scrapped_ctm_trips.csv','a')
 		self.driver.maximize_window()
 
 	def search(self,origin,destination):
@@ -66,8 +66,7 @@ bot.close()
 class COVBot(object):
 	"""docstring for COVBot"""
 	def __init__(self):
-		self.driver = webdriver.Chrome("C:/Program Files/operadriver.exe")
-		#self.out = open('COVTrips.csv','a')
+		self.driver = webdriver.Chrome("/Users/mac/Downloads/chromedriver")
 		self.driver.maximize_window()
 		self.driver.get('https://www.comobila.com/covoiturage/trajet/rechercher')
 		
@@ -105,7 +104,7 @@ class COVBot(object):
 		self.driver.quit()
 
 	def saveinfos(self):
-		out = open('COV_trips.csv','w')
+		out = open('data_files/scrapped_cov_trips.csv','w')
 		out.write('driver_name;driver_sex;driver_age;driver_is_smoking;from;to;date;time;price\n')
 		for i in range(len(bot.drivers)):
 			out.write(bot.drivers[i][0]+';'+bot.drivers[i][1].split(' | ')[0]+';'+bot.drivers[i][1].split(' | ')[1]+';'+bot.drivers[i][2].split(' : ')[1]+';'+bot.from_to[i][0]+';'+bot.from_to[i][1]+';'+bot.dates_times[i][0]+';'+bot.dates_times[i][1]+';'+bot.prices[i]+'\n');
@@ -122,10 +121,10 @@ bot.close()
 class ONCFBot(object):
 	"""docstring for ONCFBot"""
 	def __init__(self):
-		self.driver = webdriver.Chrome("C:/Program Files/operadriver.exe")
+		self.driver = webdriver.Chrome("/Users/mac/Downloads/chromedriver")
 		self.driver.maximize_window()
-		self.out = open('ONCF_trips.csv','a')
-		#self.out.write('from;to;depart_time;arrival_time;price\n')
+		self.out = open('data_files/scrapped_oncf_trips.csv','a')
+
 		
 
 	def get_all_gares(self):
@@ -192,3 +191,9 @@ for i in range(43,nbGares):
 			bot.search(gares[i],gares[j])
 bot.close()
 
+
+
+
+# def Load_Data(file_name):
+#     data = genfromtxt(file_name, delimiter=',', skip_header=1, converters={0: lambda s: str(s)})
+#     return data.tolist()

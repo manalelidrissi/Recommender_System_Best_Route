@@ -1,31 +1,22 @@
+from bestrouterec.repository import Repository
+from bestrouterec.data import dataset
+from surprise import KNNBasic
+from datetime import datetime 
+from typing import List
+from bestrouterec.document import Event, Trip
 class ItemBasedCollaborativeFiltering(RecommendationModel):
-    name = RecommendationType.CF_ITEM_BASED
+    name = "item_based"
 
     def __init__(
         self,
-        storage_provider: AbstractStorageProvider,
-        article_repository: ArticleRepository,
-        analytics_repository: AnalyticsRepository,
-        event_repository: EventRepository,
-        fallback: RecommendationModel,
-        **kwargs,
+        repository: Repository
     ):
-        self._storage_provider = storage_provider
-        self._article_repository = article_repository
-        self._analytics_repository = analytics_repository
-        self._event_repository = event_repository
-        self._fallback = fallback
+        self._repository = repository
 
     @timeit
     def train(self, user: User, agents: int = 30, chunksize: int = 20):
 
-        dataset = data.prepare_reader_item_dataset(
-            user=user,
-            article_repository=self._article_repository,
-            event_repository=self._event_repository,
-            agents=agents,
-            chunksize=chunksize,
-        )
+        dataset = dataset(repository=self._repository)
         model = KNNBasic(sim_options={"user_based": False})
 
         trained_model = model.fit(dataset)
@@ -34,69 +25,37 @@ class ItemBasedCollaborativeFiltering(RecommendationModel):
     @timeit
     def top_k(
         self,
-        user: User,
-        content_language: str,
-        reader_id: str,
-        item_id: str,
-        weights: dict = None,
+        departure_point: User,
+        arrival_point: str,
+        passenger_id: str,
+        trip_id:str,
+        departure_time:datetime,
         k: int = 5,
-        by_types: List[str] = None,
-        by_sources: List[str] = None,
-        by_categories: List[str] = None,
+        by_transports: List[str] = None,
+        model=None,
         **kwargs,
-    ) -> List[ArticleMetaData]:
+    ) -> List:
 
-        if not item_id:
-            logger.info("Item_id not provided: fallback to Multi-Criteria")
-            return self._fallback.top_k(
-                user=user,
-                content_language=content_language,
-                reader_id=reader_id,
-                item_id=item_id,
-                k=k,
-                weights=weights,
-            )
 
-        model = storage.load_model(self._storage_provider, model_name=self.name, public_id=user.public_id)
-
-        try:
-            inner_id = model.trainset.to_inner_iid(item_id)
-        except ValueError as e:
-            logger.warning(e)
-            raise ItemNotFound()
-
+        inner_id = model.trainset.to_inner_iid(trip_id)
         neighbors = model.get_neighbors(iid=int(inner_id), k=k * 10)
         item_ids = [model.trainset.to_raw_iid(n) for n in neighbors]
 
-        # only display articles to user that he did not read yet
-        if reader_id:
-            viewed_items = set(
-                [
-                    action.item_id
-                    for action in self._event_repository.get_top(
-                        event=DomainEvent(user_public_id=user.public_id, reader_id=reader_id, type=EventType.VIEWED),
-                        sort=True,
-                        sort_attribute=DomainEvent.timestamp,
-                    )
-                ]
-            )
+        if passenger_id:
+            past_trips = set([action.item_id for action in self.repository.get_top(obj=Event(user_id=passenger_id), table=Event)])
 
-            if item_id:
-                viewed_items.add(item_id)
+            if trip_id:
+                past_trips.add(trip_id)
 
-            item_ids = [a for a in item_ids if a not in viewed_items]
+            trips_ids = [a for a in trips_ids if a not in past_trips]
 
-        if not item_ids:
+        if not trips_ids:
             return []
 
-        items = self._article_repository.get_list(user, item_ids)
-        items = [a for a in items if a]
-        if by_types:
-            items = [a for a in items if a.type in by_types]
+        trips = self._repository.get_list(user_id=passenger_id, items_ids=trips_ids)
+        trips = [a for a in trips if a]
+        if by_transports:
+            trips = [a for a in trips if a.transport in by_transports]
 
-        if by_sources:
-            items = [a for a in items if a.source.title in by_sources]
-
-        items = items[:k]
-        items = self._set_suggested_by(items)
-        return items
+        trips = trips[:k]
+        return trips
