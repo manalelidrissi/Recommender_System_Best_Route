@@ -1,0 +1,5656 @@
+from;to;depart_time;arrival_time;price
+Agadir;Al Hoceima;08:30;05:15;425
+Agadir;Al Hoceima;09:00;05:15;430
+Agadir;Al Hoceima;09:30;05:15;420
+Agadir;Al Hoceima;11:00;05:15;475
+Agadir;Al Hoceima;19:45;18:15;395
+Agadir;Al Hoceima;21:30;18:15;425
+Agadir;Al Hoceima;23:00;18:15;480
+Agadir;Al Hoceima;23:59;18:15;475
+Agadir;Beni Mellal;19:45;03:00;175
+Agadir;Beni Mellal;22:45;06:00;175
+Agadir;Berkane;08:00;07:25;435
+Agadir;Berkane;08:30;07:25;455
+Agadir;Berkane;09:00;07:25;465
+Agadir;Berkane;09:30;07:25;455
+Agadir;Berkane;11:00;07:25;510
+Agadir;Berkane;11:30;07:25;455
+Agadir;Casablanca FAR;08:00;18:30;200
+Agadir;Casablanca FAR;09:00;16:15;230
+Agadir;Casablanca FAR;09:30;15:45;220
+Agadir;Casablanca FAR;11:00;17:00;275
+Agadir;Casablanca FAR;11:15;22:00;200
+Agadir;Casablanca FAR;11:30;19:05;230
+Agadir;Casablanca FAR;13:30;23:15;200
+Agadir;Casablanca FAR;14:00;21:00;220
+Agadir;Casablanca FAR;16:00;22:45;230
+Agadir;Casablanca FAR;17:15;23:59;230
+Agadir;Casablanca FAR;23:45;06:30;220
+Agadir;Casablanca FAR;23:59;06:00;275
+Agadir;Casablanca Ain Sebaa;11:30;19:30;230
+Agadir;Casablanca Ain Sebaa;22:30;10:20;210
+Agadir;Casablanca Ain Sebaa;22:45;10:20;210
+Agadir;Casablanca Ain Sebaa;23:00;10:20;230
+Agadir;Casablanca Ain Sebaa;23:45;09:30;
+Agadir;Casablanca Ain Sebaa;23:45;10:20;210
+Agadir;Casablanca Ain Sebaa;23:45;10:20;
+Agadir;Casablanca Ain Sebaa;23:59;07:30;
+Agadir;Casablanca Ain Sebaa;23:59;09:30;
+Agadir;Casablanca Ain Sebaa;23:59;10:20;
+Agadir;Casablanca Maarif;08:00;17:55;200
+Agadir;Casablanca Maarif;09:00;15:45;230
+Agadir;Casablanca Maarif;09:30;15:25;220
+Agadir;Casablanca Maarif;11:00;16:40;275
+Agadir;Casablanca Maarif;11:15;21:20;200
+Agadir;Casablanca Maarif;11:30;18:30;230
+Agadir;Casablanca Maarif;13:30;22:50;200
+Agadir;Casablanca Maarif;14:00;20:30;220
+Agadir;Casablanca Maarif;16:00;22:15;230
+Agadir;Casablanca Maarif;17:15;23:35;230
+Agadir;Casablanca Maarif;23:45;06:00;220
+Agadir;Casablanca Maarif;23:59;05:30;275
+Agadir;Chefchaouen;02:30;21:00;385
+Agadir;Chefchaouen;05:00;21:00;
+Agadir;Chefchaouen;08:30;03:50;390
+Agadir;Chefchaouen;19:45;15:15;360
+Agadir;Chefchaouen;21:30;15:15;390
+Agadir;Chefchaouen;22:30;13:00;375
+Agadir;Chefchaouen;22:30;15:00;375
+Agadir;Chefchaouen;22:30;18:00;375
+Agadir;Chefchaouen;23:00;15:15;445
+Agadir;Dakhla;10:00;07:05;420
+Agadir;Dakhla;20:15;15:15;410
+Agadir;Dakhla;21:00;17:45;410
+Agadir;Dakhla;22:15;17:45;410
+Agadir;El Hajeb;02:30;16:40;340
+Agadir;El Hajeb;05:00;16:40;
+Agadir;El Hajeb;08:00;00:40;315
+Agadir;El Hajeb;08:30;00:40;
+Agadir;El Hajeb;09:00;00:40;345
+Agadir;El Hajeb;09:30;00:40;335
+Agadir;El Hajeb;11:00;00:40;390
+Agadir;El Hajeb;11:30;00:40;
+Agadir;El Hajeb;23:45;16:40;330
+Agadir;El Hajeb;23:59;16:40;385
+Agadir;Errachidia;02:30;17:45;285
+Agadir;Errachidia;08:00;06:00;420
+Agadir;Errachidia;09:00;06:00;450
+Agadir;Errachidia;09:30;06:00;440
+Agadir;Errachidia;11:00;06:00;495
+Agadir;Errachidia;22:30;17:45;280
+Agadir;Errachidia;22:45;17:45;280
+Agadir;Errachidia;23:00;17:45;300
+Agadir;Errachidia;23:45;17:45;280
+Agadir;Essaouira;08:00;11:00;70
+Agadir;Essaouira;11:15;15:00;70
+Agadir;Essaouira;13:30;17:00;70
+Agadir;Fes;05:00;16:00;
+Agadir;Fes;08:30;20:30;310
+Agadir;Fes;19:45;07:45;280
+Agadir;Fes;21:30;08:45;310
+Agadir;Fes;23:00;09:15;365
+Agadir;Fnidek;08:00;07:00;360
+Agadir;Fnidek;11:15;07:00;360
+Agadir;Fnidek;11:30;07:00;385
+Agadir;Fnidek;14:00;07:00;380
+Agadir;Fnidek;16:00;07:00;390
+Agadir;Guelmim;00:30;04:20;90
+Agadir;Guelmim;01:15;05:20;95
+Agadir;Guelmim;03:15;07:00;90
+Agadir;Guelmim;08:00;12:00;90
+Agadir;Guelmim;10:00;14:50;95
+Agadir;Guelmim;16:00;20:15;95
+Agadir;Guelmim;18:15;23:25;90
+Agadir;Guelmim;20:15;00:50;90
+Agadir;Guelmim;20:30;01:00;90
+Agadir;Guelmim;21:00;01:20;90
+Agadir;Guelmim;21:30;01:35;95
+Agadir;Guelmim;22:15;02:35;90
+Agadir;Ifrane;02:30;15:50;265
+Agadir;Ifrane;02:30;17:00;355
+Agadir;Ifrane;05:00;17:00;
+Agadir;Ifrane;05:00;20:45;
+Agadir;Ifrane;19:45;06:30;260
+Agadir;Ifrane;22:30;15:50;260
+Agadir;Ifrane;22:45;15:50;260
+Agadir;Ifrane;23:00;15:50;280
+Agadir;Ifrane;23:45;15:50;260
+Agadir;Ifrane;23:45;17:00;345
+Agadir;Ifrane;23:59;17:00;400
+Agadir;Kasbat Tadla;02:30;11:50;195
+Agadir;Kasbat Tadla;02:30;16:40;310
+Agadir;Kasbat Tadla;22:30;11:50;190
+Agadir;Kasbat Tadla;22:45;11:50;190
+Agadir;Kasbat Tadla;23:00;11:50;210
+Agadir;Kasbat Tadla;23:45;11:50;190
+Agadir;Kelaa Sraghna;19:45;00:15;145
+Agadir;Kelaa Sraghna;22:45;03:55;145
+Agadir;Khemisset;02:30;13:45;275
+Agadir;Khemisset;02:30;18:55;280
+Agadir;Khemisset;05:00;18:55;
+Agadir;Khemisset;05:00;21:30;
+Agadir;Khemisset;05:00;13:45;
+Agadir;Khemisset;08:30;21:30;320
+Agadir;Khemisset;21:30;10:10;320
+Agadir;Khemisset;23:45;13:45;270
+Agadir;Khenifra;02:30;13:50;240
+Agadir;Khenifra;19:45;04:45;235
+Agadir;Khenifra;22:45;13:50;235
+Agadir;Khenifra;23:00;13:50;255
+Agadir;Khenifra;23:45;13:50;235
+Agadir;Khouribga;02:30;15:00;275
+Agadir;Khouribga;02:30;17:20;275
+Agadir;Khouribga;09:00;19:30;275
+Agadir;Khouribga;09:00;20:45;275
+Agadir;Khouribga;09:30;19:30;265
+Agadir;Khouribga;09:30;20:45;265
+Agadir;Khouribga;11:00;20:45;320
+Agadir;Khouribga;23:45;11:00;270
+Agadir;Khouribga;23:59;11:00;325
+Agadir;Laayoune;00:30;11:00;250
+Agadir;Laayoune;01:15;12:30;260
+Agadir;Laayoune;08:00;20:00;250
+Agadir;Laayoune;10:00;22:35;260
+Agadir;Laayoune;18:15;06:15;250
+Agadir;Laayoune;20:15;07:45;250
+Agadir;Laayoune;21:00;08:20;250
+Agadir;Laayoune;21:30;08:00;260
+Agadir;Laayoune;22:15;09:45;250
+Agadir;Larache;02:30;15:05;330
+Agadir;Larache;05:00;18:30;
+Agadir;Larache;08:30;21:30;325
+Agadir;Larache;09:00;21:30;340
+Agadir;Larache;09:30;21:30;330
+Agadir;Larache;21:30;11:50;305
+Agadir;Larache;22:30;08:35;315
+Agadir;Larache;23:00;11:50;340
+Agadir;Larache;23:00;12:00;360
+Agadir;Larache;23:45;12:00;330
+Agadir;Larache;23:59;11:50;345
+Agadir;Larache;23:59;12:00;385
+Agadir;Marrakech;07:00;11:10;110
+Agadir;Marrakech;08:30;12:00;115
+Agadir;Marrakech;09:00;12:30;115
+Agadir;Marrakech;09:30;12:45;110
+Agadir;Marrakech;11:00;14:45;115
+Agadir;Marrakech;11:30;15:20;115
+Agadir;Marrakech;14:00;17:20;110
+Agadir;Marrakech;15:00;18:45;110
+Agadir;Marrakech;16:00;19:00;115
+Agadir;Marrakech;17:15;20:30;115
+Agadir;Marrakech;19:45;23:15;110
+Agadir;Marrakech;21:30;01:00;115
+Agadir;Marrakech;22:30;01:45;110
+Agadir;Marrakech;22:45;01:45;110
+Agadir;Marrakech;23:00;02:00;130
+Agadir;Marrakech;23:45;02:45;110
+Agadir;Meknes;05:00;14:55;
+Agadir;Meknes;08:30;19:15;300
+Agadir;Meknes;21:30;07:35;300
+Agadir;Midelt;05:00;02:40;
+Agadir;Midelt;08:00;03:40;370
+Agadir;Midelt;08:30;02:40;375
+Agadir;Midelt;08:30;03:40;390
+Agadir;Midelt;09:00;03:40;400
+Agadir;Midelt;09:30;03:40;390
+Agadir;Midelt;11:00;03:40;445
+Agadir;Midelt;11:30;03:40;390
+Agadir;Mrirt;02:30;14:10;245
+Agadir;Mrirt;19:45;05:25;240
+Agadir;Mrirt;22:30;14:10;240
+Agadir;Mrirt;22:45;14:10;240
+Agadir;Mrirt;23:00;14:10;260
+Agadir;Mrirt;23:45;14:10;240
+Agadir;Nador;08:00;06:45;400
+Agadir;Nador;08:30;06:45;425
+Agadir;Nador;09:00;06:45;430
+Agadir;Nador;09:30;06:45;420
+Agadir;Nador;11:00;06:45;475
+Agadir;Nador;11:30;06:45;425
+Agadir;Nador;22:30;20:15;410
+Agadir;Nador;23:00;20:15;490
+Agadir;Nador;23:45;20:15;420
+Agadir;Nador;23:59;20:15;475
+Agadir;Ouarzazate;09:00;16:00;145
+Agadir;Oujda;02:30;21:30;460
+Agadir;Oujda;05:00;21:30;
+Agadir;Oujda;09:30;05:21;440
+Agadir;Oujda;11:00;05:21;495
+Agadir;Oujda;11:30;05:21;450
+Agadir;Oujda;11:30;07:15;520
+Agadir;Oujda;14:00;07:15;510
+Agadir;Oujda;14:00;09:15;450
+Agadir;Oujda;23:00;18:30;495
+Agadir;Oujda;23:45;18:30;450
+Agadir;Oujda;23:59;18:30;505
+Agadir;Rabat;05:00;12:15;
+Agadir;Rabat;08:30;17:00;255
+Agadir;Rabat;11:30;20:30;255
+Agadir;Rabat;21:30;05:15;255
+Agadir;Rabat;22:30;05:50;240
+Agadir;Rabat;23:00;06:15;290
+Agadir;Safi;07:00;14:00;115
+Agadir;Safi;08:00;14:15;115
+Agadir;Safi;11:15;17:20;115
+Agadir;Safi;13:30;19:30;115
+Agadir;Saidia;08:00;08:00;440
+Agadir;Saidia;08:30;08:00;465
+Agadir;Saidia;09:00;08:00;470
+Agadir;Saidia;09:30;08:00;460
+Agadir;Saidia;11:00;08:00;515
+Agadir;Saidia;11:30;08:00;465
+Agadir;Sidi Kacem;05:00;18:50;
+Agadir;Sidi Kacem;08:30;02:20;350
+Agadir;Sidi Kacem;19:45;13:10;320
+Agadir;Sidi Kacem;21:30;13:10;350
+Agadir;Sidi Kacem;22:30;18:55;420
+Agadir;Sidi Kacem;23:00;13:10;405
+Agadir;Souk Larbaa;02:30;17:20;330
+Agadir;Souk Larbaa;05:00;17:20;
+Agadir;Souk Larbaa;05:00;20:40;
+Agadir;Souk Larbaa;21:30;10:15;285
+Agadir;Souk Larbaa;21:30;14:10;345
+Agadir;Souk Larbaa;22:30;10:15;270
+Agadir;Souk Larbaa;23:00;10:15;320
+Agadir;Souk Larbaa;23:00;14:10;425
+Agadir;Souk Larbaa;23:59;10:15;330
+Agadir;Tan Tan;00:30;06:00;130
+Agadir;Tan Tan;01:15;07:15;135
+Agadir;Tan Tan;08:00;14:00;130
+Agadir;Tan Tan;10:00;16:45;135
+Agadir;Tan Tan;16:00;23:00;135
+Agadir;Tan Tan;18:15;01:10;130
+Agadir;Tan Tan;20:15;03:40;130
+Agadir;Tan Tan;20:30;02:50;130
+Agadir;Tan Tan;21:00;03:30;130
+Agadir;Tan Tan;21:30;04:10;135
+Agadir;Tan Tan;22:15;05:00;130
+Agadir;Tanger;02:30;16:30;350
+Agadir;Tanger;02:30;20:15;350
+Agadir;Tanger;05:00;20:15;
+Agadir;Tanger;05:00;23:15;
+Agadir;Tanger;21:30;16:30;400
+Agadir;Tanger;22:30;09:50;340
+Agadir;Tanger;23:00;16:30;485
+Agadir;Tanger;23:45;16:30;340
+Agadir;Tanger;23:59;16:30;395
+Agadir;Taounate;02:30;21:00;380
+Agadir;Taounate;05:00;21:00;
+Agadir;Taza;02:30;18:45;395
+Agadir;Taza;05:00;18:45;
+Agadir;Taza;05:00;21:15;
+Agadir;Taza;09:00;01:30;395
+Agadir;Taza;09:30;01:30;385
+Agadir;Taza;11:00;01:30;440
+Agadir;Taza;11:30;03:40;395
+Agadir;Taza;23:00;14:40;415
+Agadir;Taza;23:00;14:50;415
+Agadir;Taza;23:45;14:50;385
+Agadir;Taza;23:59;14:40;440
+Agadir;Taza;23:59;14:50;440
+Agadir;Tetouan;02:30;17:00;410
+Agadir;Tetouan;09:00;23:00;380
+Agadir;Tetouan;09:30;23:00;370
+Agadir;Tetouan;14:00;05:45;370
+Agadir;Tetouan;16:00;05:45;380
+Agadir;Tetouan;22:30;11:00;350
+Agadir;Tetouan;23:00;16:50;475
+Agadir;Tetouan;23:45;14:00;370
+Agadir;Tetouan;23:45;17:00;400
+Agadir;Tetouan;23:59;14:00;425
+Agadir;Tetouan;23:59;17:00;455
+Agadir;Tiflet;02:30;18:05;270
+Agadir;Tiflet;05:00;18:05;
+Agadir;Tiflet;21:30;11:00;325
+Al Hoceima;Agadir;07:00;03:00;420
+Al Hoceima;Agadir;07:00;05:30;420
+Al Hoceima;Agadir;20:00;15:45;430
+Al Hoceima;Agadir;20:00;17:30;475
+Al Hoceima;Agadir;20:00;19:40;430
+Al Hoceima;Agadir;20:00;20:00;420
+Al Hoceima;Agadir;20:00;22:00;400
+Al Hoceima;Agadir;20:00;22:45;400
+Al Hoceima;Azrou;07:00;17:45;160
+Al Hoceima;Azrou;20:00;07:50;150
+Al Hoceima;Beni Mellal;07:00;23:00;290
+Al Hoceima;Beni Mellal;20:00;14:00;295
+Al Hoceima;Berkane;07:00;07:25;370
+Al Hoceima;Casablanca FAR;07:00;17:30;200
+Al Hoceima;Casablanca FAR;20:00;06:30;200
+Al Hoceima;Casablanca Ain Sebaa;07:00;17:00;200
+Al Hoceima;Casablanca Ain Sebaa;20:00;06:00;200
+Al Hoceima;Casablanca Maarif;07:00;23:10;210
+Al Hoceima;Casablanca Maarif;07:00;23:10;
+Al Hoceima;Casablanca Maarif;07:00;23:15;205
+Al Hoceima;Casablanca Maarif;07:00;23:15;
+Al Hoceima;Casablanca Maarif;20:00;12:40;210
+Al Hoceima;Chefchaouen;13:00;18:30;90
+Al Hoceima;Dakhla;20:00;15:15;815
+Al Hoceima;El Hajeb;07:00;16:40;
+Al Hoceima;Errachidia;07:00;06:00;355
+Al Hoceima;Essaouira;20:00;18:00;340
+Al Hoceima;Essaouira;20:00;19:15;340
+Al Hoceima;Fes;07:00;12:15;115
+Al Hoceima;Fes;20:00;01:45;115
+Al Hoceima;Guelmim;07:00;07:00;500
+Al Hoceima;Guelmim;20:00;20:15;510
+Al Hoceima;Guelmim;20:00;00:50;500
+Al Hoceima;Ifrane;07:00;17:00;155
+Al Hoceima;Ifrane;20:00;07:20;140
+Al Hoceima;Kasbat Tadla;20:00;11:25;200
+Al Hoceima;Kelaa Sraghna;20:00;14:35;255
+Al Hoceima;Khemisset;07:00;18:55;195
+Al Hoceima;Khenifra;20:00;10:10;170
+Al Hoceima;Khouribga;07:00;20:45;245
+Al Hoceima;Khouribga;20:00;11:00;250
+Al Hoceima;Ksar El Kébir;20:00;11:10;210
+Al Hoceima;Larache;07:00;21:30;240
+Al Hoceima;Larache;07:00;21:45;200
+Al Hoceima;Larache;13:00;01:10;160
+Al Hoceima;Larache;20:00;08:35;235
+Al Hoceima;Larache;20:00;11:50;220
+Al Hoceima;Larache;20:00;12:00;240
+Al Hoceima;Larache;20:00;15:05;300
+Al Hoceima;Marrakech;07:00;23:30;290
+Al Hoceima;Marrakech;07:00;00:20;300
+Al Hoceima;Marrakech;07:00;02:15;290
+Al Hoceima;Marrakech;07:00;02:30;300
+Al Hoceima;Marrakech;20:00;11:00;290
+Al Hoceima;Marrakech;20:00;11:45;300
+Al Hoceima;Marrakech;20:00;12:35;290
+Al Hoceima;Marrakech;20:00;15:00;300
+Al Hoceima;Marrakech;20:00;16:00;290
+Al Hoceima;Marrakech;20:00;16:35;300
+Al Hoceima;Meknes;07:00;13:30;130
+Al Hoceima;Meknes;20:00;02:50;130
+Al Hoceima;Midelt;07:00;03:40;305
+Al Hoceima;Mrirt;20:00;08:50;160
+Al Hoceima;Nador;12:45;16:00;50
+Al Hoceima;Ouarzazate;07:00;07:15;370
+Al Hoceima;Oujda;07:00;18:30;150
+Al Hoceima;Rabat;07:00;16:10;170
+Al Hoceima;Rabat;20:00;04:55;170
+Al Hoceima;Safi;07:00;23:15;305
+Al Hoceima;Safi;20:00;13:15;305
+Al Hoceima;Safi;20:00;15:15;300
+Al Hoceima;Safi;20:00;16:50;300
+Al Hoceima;Saidia;07:00;08:00;380
+Al Hoceima;Sidi Kacem;07:00;18:50;155
+Al Hoceima;Souk Larbaa;07:00;20:40;175
+Al Hoceima;Souk Larbaa;20:00;10:15;200
+Al Hoceima;Tan Tan;20:00;23:00;530
+Al Hoceima;Tan Tan;20:00;03:40;520
+Al Hoceima;Tanger;13:00;23:15;140
+Al Hoceima;Tanger;13:00;23:59;140
+Al Hoceima;Taounate;07:00;21:00;150
+Al Hoceima;Taza;07:00;10:00;70
+Al Hoceima;Taza;20:00;23:20;70
+Al Hoceima;Tetouan;13:00;19:15;115
+Al Hoceima;Tiflet;07:00;18:05;185
+Azrou;Al Hoceima;02:15;18:15;
+Azrou;Al Hoceima;06:10;18:15;
+Azrou;Al Hoceima;08:30;18:15;160
+Azrou;Al Hoceima;15:30;05:15;150
+Azrou;Beni Mellal;08:00;12:46;70
+Azrou;Beni Mellal;21:25;02:20;70
+Azrou;Casablanca FAR;02:15;07:30;
+Azrou;Casablanca FAR;08:30;14:00;130
+Azrou;Casablanca Ain Sebaa;02:15;06:50;
+Azrou;Casablanca Ain Sebaa;08:30;13:40;130
+Azrou;Casablanca Maarif;02:15;12:40;
+Azrou;Casablanca Maarif;08:00;18:45;165
+Azrou;Casablanca Maarif;08:30;17:25;135
+Azrou;Casablanca Maarif;08:30;17:25;
+Azrou;Casablanca Maarif;08:30;17:30;130
+Azrou;Casablanca Maarif;15:30;01:00;130
+Azrou;Chefchaouen;02:45;11:40;115
+Azrou;Chefchaouen;02:45;15:15;115
+Azrou;Chefchaouen;06:10;15:15;
+Azrou;Chefchaouen;08:30;21:00;215
+Azrou;Dakhla;02:15;15:15;
+Azrou;Dakhla;02:15;17:45;
+Azrou;Dakhla;08:00;15:15;640
+Azrou;Dakhla;21:25;07:05;670
+Azrou;El Hajeb;02:15;03:00;
+Azrou;El Hajeb;08:30;09:50;25
+Azrou;Errachidia;00:15;04:50;105
+Azrou;Errachidia;01:45;06:00;110
+Azrou;Essaouira;02:15;18:00;
+Azrou;Essaouira;02:15;19:15;
+Azrou;Essaouira;08:30;22:00;275
+Azrou;Essaouira;21:25;11:15;215
+Azrou;Essaouira;21:25;15:00;320
+Azrou;Essaouira;21:25;17:00;320
+Azrou;Fes;02:45;05:15;35
+Azrou;Fes;06:10;07:45;
+Azrou;Fes;15:30;17:30;35
+Azrou;Guelmim;02:15;00:50;
+Azrou;Guelmim;02:15;01:35;
+Azrou;Guelmim;02:15;02:35;
+Azrou;Guelmim;08:00;00:50;330
+Azrou;Guelmim;08:00;01:00;330
+Azrou;Guelmim;08:00;01:35;335
+Azrou;Guelmim;08:00;04:20;330
+Azrou;Guelmim;08:30;05:20;440
+Azrou;Guelmim;08:30;07:00;430
+Azrou;Guelmim;15:30;12:00;415
+Azrou;Guelmim;21:25;14:50;345
+Azrou;Guelmim;21:25;20:15;335
+Azrou;Ifrane;06:10;06:30;
+Azrou;Ifrane;08:30;08:55;15
+Azrou;Ifrane;15:30;15:50;15
+Azrou;Kasbat Tadla;08:00;11:25;55
+Azrou;Kasbat Tadla;21:25;01:35;55
+Azrou;Kelaa Sraghna;08:00;14:35;110
+Azrou;Kelaa Sraghna;21:25;05:25;110
+Azrou;Khemisset;02:15;10:10;
+Azrou;Khemisset;02:45;10:10;50
+Azrou;Khemisset;15:30;21:30;85
+Azrou;Khenifra;08:00;10:10;25
+Azrou;Khenifra;21:25;23:30;25
+Azrou;Khouribga;02:15;11:00;
+Azrou;Khouribga;02:15;15:00;
+Azrou;Khouribga;08:00;16:30;120
+Azrou;Khouribga;08:00;19:20;115
+Azrou;Khouribga;08:30;17:20;175
+Azrou;Khouribga;08:30;19:30;175
+Azrou;Khouribga;08:30;20:45;175
+Azrou;Khouribga;21:25;06:50;115
+Azrou;Ksar El Kébir;02:15;11:10;
+Azrou;Laayoune;15:30;20:00;600
+Azrou;Larache;02:15;11:50;
+Azrou;Larache;02:15;12:00;
+Azrou;Larache;06:10;15:20;
+Azrou;Larache;08:30;15:20;95
+Azrou;Larache;08:30;18:30;165
+Azrou;Marrakech;08:00;16:00;140
+Azrou;Marrakech;21:25;06:00;140
+Azrou;Meknes;02:15;03:45;
+Azrou;Meknes;02:45;04:10;30
+Azrou;Meknes;08:30;10:15;30
+Azrou;Midelt;00:15;02:40;45
+Azrou;Midelt;01:45;03:40;45
+Azrou;Mrirt;08:00;08:50;15
+Azrou;Mrirt;21:25;21:55;15
+Azrou;Nador;02:15;20:15;
+Azrou;Nador;08:30;20:15;170
+Azrou;Ouarzazate;00:15;12:00;200
+Azrou;Oujda;06:10;18:30;
+Azrou;Oujda;08:30;18:30;170
+Azrou;Rabat;02:15;05:50;
+Azrou;Rabat;08:30;12:30;95
+Azrou;Safi;02:15;13:15;
+Azrou;Safi;02:15;15:15;
+Azrou;Safi;02:15;16:50;
+Azrou;Safi;08:30;19:45;235
+Azrou;Safi;08:30;21:00;235
+Azrou;Safi;08:30;23:15;235
+Azrou;Safi;21:25;14:00;190
+Azrou;Sidi Kacem;06:10;13:10;
+Azrou;Sidi Kacem;08:30;13:10;50
+Azrou;Souk Larbaa;02:15;10:15;
+Azrou;Souk Larbaa;06:10;14:10;
+Azrou;Souk Larbaa;08:30;14:10;75
+Azrou;Souk Larbaa;08:30;17:20;150
+Azrou;Tan Tan;02:15;03:40;
+Azrou;Tan Tan;02:15;04:10;
+Azrou;Tan Tan;02:15;05:00;
+Azrou;Tan Tan;08:00;02:50;365
+Azrou;Tan Tan;08:00;03:40;365
+Azrou;Tan Tan;08:00;04:10;365
+Azrou;Tan Tan;08:00;06:00;365
+Azrou;Tan Tan;08:30;07:15;460
+Azrou;Tan Tan;15:30;14:00;435
+Azrou;Tan Tan;21:25;16:45;385
+Azrou;Tan Tan;21:25;23:00;365
+Azrou;Tanger;06:10;16:30;
+Azrou;Tanger;06:10;18:30;
+Azrou;Tanger;08:30;16:30;130
+Azrou;Tanger;08:30;20:15;185
+Azrou;Taounate;15:30;21:00;70
+Azrou;Taza;06:10;14:40;
+Azrou;Taza;06:10;14:50;
+Azrou;Taza;08:30;14:40;105
+Azrou;Taza;08:30;14:50;105
+Azrou;Taza;08:30;17:10;105
+Azrou;Taza;15:30;21:15;85
+Azrou;Tetouan;02:15;17:00;
+Azrou;Tetouan;02:45;13:30;135
+Azrou;Tetouan;02:45;16:50;145
+Azrou;Tetouan;02:45;17:30;135
+Azrou;Tetouan;06:10;16:50;
+Azrou;Tetouan;06:10;17:30;
+Azrou;Tetouan;08:30;17:30;140
+Azrou;Tetouan;08:30;23:00;280
+Azrou;Tiflet;02:15;11:00;
+Azrou;Tiflet;02:45;11:00;55
+Azrou;Tiflet;08:30;18:05;110
+Beni Mellal;Agadir;02:30;09:15;175
+Beni Mellal;Agadir;10:30;18:00;175
+Beni Mellal;Azrou;03:05;06:00;70
+Beni Mellal;Azrou;11:15;15:20;70
+Beni Mellal;Berkane;13:15;07:25;325
+Beni Mellal;Berkane;15:15;07:25;330
+Beni Mellal;Casablanca FAR;05:30;09:00;90
+Beni Mellal;Casablanca FAR;09:00;12:45;90
+Beni Mellal;Casablanca FAR;13:15;17:50;90
+Beni Mellal;Casablanca FAR;15:15;19:30;95
+Beni Mellal;Casablanca FAR;18:15;22:00;90
+Beni Mellal;Casablanca Ain Sebaa;05:30;09:30;90
+Beni Mellal;Casablanca Maarif;05:30;08:40;90
+Beni Mellal;Casablanca Maarif;09:00;12:10;90
+Beni Mellal;Casablanca Maarif;13:15;17:20;90
+Beni Mellal;Casablanca Maarif;15:15;18:45;95
+Beni Mellal;Casablanca Maarif;18:15;21:30;90
+Beni Mellal;Chefchaouen;05:30;21:00;245
+Beni Mellal;Dakhla;05:30;15:15;705
+Beni Mellal;Dakhla;05:30;17:45;705
+Beni Mellal;El Hajeb;05:30;16:40;200
+Beni Mellal;El Hajeb;13:15;00:40;205
+Beni Mellal;Errachidia;13:15;06:00;310
+Beni Mellal;Essaouira;05:30;18:00;230
+Beni Mellal;Essaouira;05:30;19:15;230
+Beni Mellal;Essaouira;09:00;22:00;235
+Beni Mellal;Fes;03:05;07:45;100
+Beni Mellal;Fes;11:15;17:30;100
+Beni Mellal;Fnidek;13:15;07:00;250
+Beni Mellal;Fnidek;15:15;07:00;255
+Beni Mellal;Fnidek;18:15;07:00;250
+Beni Mellal;Guelmim;05:30;00:50;390
+Beni Mellal;Guelmim;05:30;01:35;400
+Beni Mellal;Guelmim;05:30;02:35;390
+Beni Mellal;Guelmim;09:00;05:20;400
+Beni Mellal;Guelmim;10:30;23:25;250
+Beni Mellal;Guelmim;13:15;07:00;390
+Beni Mellal;Guelmim;15:15;12:00;395
+Beni Mellal;Guelmim;18:15;12:00;390
+Beni Mellal;Ifrane;03:05;06:30;80
+Beni Mellal;Ifrane;11:15;15:50;80
+Beni Mellal;Kasbat Tadla;11:15;11:50;15
+Beni Mellal;Kasbat Tadla;13:15;13:30;15
+Beni Mellal;Kelaa Sraghna;02:30;05:25;30
+Beni Mellal;Kelaa Sraghna;10:30;12:20;30
+Beni Mellal;Kelaa Sraghna;12:50;14:35;30
+Beni Mellal;Khemisset;05:30;13:45;135
+Beni Mellal;Khemisset;09:00;18:55;140
+Beni Mellal;Khenifra;03:05;04:45;55
+Beni Mellal;Khenifra;11:15;13:50;55
+Beni Mellal;Khouribga;05:30;06:50;45
+Beni Mellal;Khouribga;09:00;10:25;45
+Beni Mellal;Khouribga;13:15;15:15;45
+Beni Mellal;Khouribga;15:15;16:30;50
+Beni Mellal;Khouribga;18:15;19:20;45
+Beni Mellal;Laayoune;10:30;06:15;420
+Beni Mellal;Larache;05:30;15:05;190
+Beni Mellal;Larache;05:30;18:30;190
+Beni Mellal;Larache;09:00;18:30;190
+Beni Mellal;Larache;09:00;21:30;200
+Beni Mellal;Marrakech;02:30;06:00;65
+Beni Mellal;Marrakech;10:30;14:15;65
+Beni Mellal;Marrakech;12:50;16:00;65
+Beni Mellal;Meknes;05:30;13:40;180
+Beni Mellal;Meknes;05:30;14:55;155
+Beni Mellal;Meknes;05:30;15:30;175
+Beni Mellal;Meknes;05:30;16:45;175
+Beni Mellal;Meknes;05:30;17:55;180
+Beni Mellal;Meknes;09:00;17:55;180
+Beni Mellal;Meknes;09:00;20:00;155
+Beni Mellal;Meknes;13:15;23:40;180
+Beni Mellal;Meknes;15:15;03:05;185
+Beni Mellal;Meknes;18:15;03:05;180
+Beni Mellal;Midelt;13:15;03:40;260
+Beni Mellal;Mrirt;03:05;05:25;60
+Beni Mellal;Mrirt;11:15;14:10;60
+Beni Mellal;Nador;05:30;20:15;290
+Beni Mellal;Nador;13:15;06:45;290
+Beni Mellal;Nador;15:15;06:45;295
+Beni Mellal;Oujda;05:30;21:30;320
+Beni Mellal;Oujda;13:15;05:21;310
+Beni Mellal;Oujda;13:15;07:15;380
+Beni Mellal;Oujda;13:15;09:15;320
+Beni Mellal;Oujda;15:15;05:21;315
+Beni Mellal;Oujda;15:15;07:15;385
+Beni Mellal;Oujda;15:15;09:15;325
+Beni Mellal;Oujda;18:15;09:15;320
+Beni Mellal;Rabat;05:30;10:30;100
+Beni Mellal;Rabat;09:00;15:20;130
+Beni Mellal;Rabat;09:00;15:45;125
+Beni Mellal;Rabat;09:00;16:50;120
+Beni Mellal;Rabat;13:15;20:30;130
+Beni Mellal;Rabat;13:15;21:15;130
+Beni Mellal;Rabat;15:15;21:51;130
+Beni Mellal;Rabat;15:15;22:40;135
+Beni Mellal;Rabat;15:15;23:20;145
+Beni Mellal;Rabat;18:15;00:50;130
+Beni Mellal;Rabat;18:15;01:10;130
+Beni Mellal;Safi;05:30;15:15;190
+Beni Mellal;Safi;05:30;16:50;190
+Beni Mellal;Safi;09:00;19:45;195
+Beni Mellal;Safi;09:00;21:00;195
+Beni Mellal;Safi;13:15;23:15;195
+Beni Mellal;Saidia;13:15;08:00;330
+Beni Mellal;Saidia;15:15;08:00;335
+Beni Mellal;Souk Larbaa;05:30;17:20;190
+Beni Mellal;Tanger;05:30;16:30;210
+Beni Mellal;Tanger;05:30;20:15;210
+Beni Mellal;Tanger;09:00;20:15;210
+Beni Mellal;Taounate;05:30;21:00;240
+Beni Mellal;Taza;05:30;17:10;255
+Beni Mellal;Taza;05:30;18:45;255
+Beni Mellal;Taza;05:30;21:15;255
+Beni Mellal;Taza;09:00;21:15;255
+Beni Mellal;Taza;09:00;01:30;255
+Beni Mellal;Taza;13:15;03:40;255
+Beni Mellal;Taza;13:15;06:30;255
+Beni Mellal;Taza;15:15;03:40;260
+Beni Mellal;Taza;15:15;06:30;260
+Beni Mellal;Taza;18:15;06:30;255
+Beni Mellal;Tetouan;05:30;17:00;270
+Beni Mellal;Tetouan;09:00;23:00;240
+Beni Mellal;Tetouan;13:15;05:45;240
+Beni Mellal;Tetouan;15:15;05:45;245
+Beni Mellal;Tetouan;18:15;05:45;240
+Beni Mellal;Tiflet;09:00;18:05;130
+Berkane;Agadir;19:30;14:30;455
+Berkane;Agadir;19:30;15:45;465
+Berkane;Agadir;19:30;17:30;510
+Berkane;Agadir;19:30;20:00;455
+Berkane;Agadir;19:30;22:00;435
+Berkane;Al Hoceima;19:30;18:15;370
+Berkane;Azrou;19:30;07:50;165
+Berkane;Beni Mellal;19:30;14:00;330
+Berkane;Casablanca FAR;19:30;06:00;235
+Berkane;Casablanca Ain Sebaa;19:30;05:30;235
+Berkane;Dakhla;19:30;15:15;850
+Berkane;El Hajeb;19:30;16:40;345
+Berkane;Essaouira;19:30;18:00;375
+Berkane;Fes;19:30;01:20;130
+Berkane;Guelmim;19:30;20:15;545
+Berkane;Guelmim;19:30;00:50;535
+Berkane;Ifrane;19:30;07:20;155
+Berkane;Kasbat Tadla;19:30;11:25;215
+Berkane;Kelaa Sraghna;19:30;14:35;270
+Berkane;Khenifra;19:30;10:10;185
+Berkane;Khouribga;19:30;11:00;285
+Berkane;Ksar El Kébir;19:30;11:10;240
+Berkane;Larache;19:30;08:35;265
+Berkane;Larache;19:30;11:50;250
+Berkane;Larache;19:30;12:00;270
+Berkane;Larache;19:30;15:05;335
+Berkane;Marrakech;19:30;11:00;325
+Berkane;Marrakech;19:30;11:45;335
+Berkane;Marrakech;19:30;12:35;325
+Berkane;Marrakech;19:30;15:00;335
+Berkane;Marrakech;19:30;16:00;325
+Berkane;Meknes;19:30;02:50;155
+Berkane;Meknes;19:30;07:35;260
+Berkane;Mrirt;19:30;08:50;175
+Berkane;Nador;19:30;06:45;255
+Berkane;Nador;19:30;08:45;250
+Berkane;Oujda;19:30;20:30;25
+Berkane;Rabat;19:30;04:20;200
+Berkane;Safi;19:30;13:15;340
+Berkane;Safi;19:30;15:15;335
+Berkane;Saidia;07:30;08:00;20
+Berkane;Souk Larbaa;19:30;10:15;230
+Berkane;Tan Tan;19:30;23:00;565
+Berkane;Tan Tan;19:30;03:40;555
+Berkane;Tanger;19:30;09:50;290
+Berkane;Tanger;19:30;16:30;355
+Berkane;Tetouan;19:30;11:00;315
+Berkane;Tetouan;19:30;14:00;310
+Berkane;Tetouan;19:30;17:00;415
+Casablanca FAR;Agadir;06:45;17:15;200
+Casablanca FAR;Agadir;07:15;14:30;220
+Casablanca FAR;Agadir;08:00;15:45;230
+Casablanca FAR;Agadir;10:30;22:00;200
+Casablanca FAR;Agadir;11:00;17:30;275
+Casablanca FAR;Agadir;12:00;20:00;220
+Casablanca FAR;Agadir;12:15;19:40;230
+Casablanca FAR;Agadir;12:30;22:45;200
+Casablanca FAR;Agadir;13:30;21:20;230
+Casablanca FAR;Agadir;17:15;01:00;230
+Casablanca FAR;Agadir;19:30;03:00;220
+Casablanca FAR;Agadir;22:50;05:30;220
+Casablanca FAR;Agadir;23:59;06:10;275
+Casablanca FAR;Al Hoceima;07:00;18:15;200
+Casablanca FAR;Al Hoceima;18:00;05:15;200
+Casablanca FAR;Azrou;11:30;17:45;130
+Casablanca FAR;Azrou;19:45;01:40;135
+Casablanca FAR;Beni Mellal;09:00;14:00;95
+Casablanca FAR;Beni Mellal;13:00;17:45;90
+Casablanca FAR;Beni Mellal;15:15;19:00;90
+Casablanca FAR;Beni Mellal;17:30;22:00;90
+Casablanca FAR;Beni Mellal;18:30;23:00;90
+Casablanca FAR;Berkane;20:30;07:25;235
+Casablanca FAR;Casablanca Ain Sebaa;07:15;07:30;
+Casablanca FAR;Casablanca Ain Sebaa;09:15;09:30;
+Casablanca FAR;Casablanca Ain Sebaa;10:00;10:20;
+Casablanca FAR;Casablanca Maarif;00:45;01:00;
+Casablanca FAR;Casablanca Maarif;17:15;17:25;
+Casablanca FAR;Casablanca Maarif;17:30;17:30;
+Casablanca FAR;Casablanca Maarif;22:50;23:15;
+Casablanca FAR;Casablanca Maarif;23:00;23:10;
+Casablanca FAR;Chefchaouen;07:00;18:00;130
+Casablanca FAR;Chefchaouen;07:30;18:00;180
+Casablanca FAR;Chefchaouen;08:00;18:00;175
+Casablanca FAR;Chefchaouen;09:00;18:00;180
+Casablanca FAR;Chefchaouen;09:00;20:30;180
+Casablanca FAR;Chefchaouen;10:00;20:30;180
+Casablanca FAR;Chefchaouen;13:30;21:00;155
+Casablanca FAR;Chefchaouen;17:00;03:50;175
+Casablanca FAR;Chefchaouen;18:00;03:50;180
+Casablanca FAR;Chefchaouen;23:30;11:40;180
+Casablanca FAR;Chefchaouen;23:45;10:30;180
+Casablanca FAR;Dakhla;10:30;17:45;615
+Casablanca FAR;Dakhla;12:00;15:15;615
+Casablanca FAR;El Hajeb;11:30;16:40;110
+Casablanca FAR;El Hajeb;19:45;00:40;115
+Casablanca FAR;Errachidia;00:45;17:45;260
+Casablanca FAR;Errachidia;12:00;04:50;230
+Casablanca FAR;Errachidia;13:00;04:50;205
+Casablanca FAR;Errachidia;14:00;04:50;210
+Casablanca FAR;Errachidia;15:15;04:50;255
+Casablanca FAR;Errachidia;15:30;04:50;185
+Casablanca FAR;Errachidia;18:00;04:50;210
+Casablanca FAR;Errachidia;19:45;06:00;220
+Casablanca FAR;Essaouira;06:45;13:15;140
+Casablanca FAR;Essaouira;10:30;18:00;140
+Casablanca FAR;Essaouira;12:30;19:15;140
+Casablanca FAR;Essaouira;16:00;22:00;145
+Casablanca FAR;Fes;07:00;12:15;100
+Casablanca FAR;Fes;07:30;12:40;100
+Casablanca FAR;Fes;09:00;13:00;100
+Casablanca FAR;Fes;10:00;15:00;100
+Casablanca FAR;Fes;12:00;16:45;100
+Casablanca FAR;Fes;13:00;18:10;95
+Casablanca FAR;Fes;14:00;19:00;100
+Casablanca FAR;Fes;15:15;19:45;125
+Casablanca FAR;Fes;15:30;21:15;75
+Casablanca FAR;Fes;17:00;21:30;95
+Casablanca FAR;Fes;18:00;23:00;100
+Casablanca FAR;Fes;20:30;00:51;95
+Casablanca FAR;Fes;21:15;01:50;100
+Casablanca FAR;Fes;23:30;04:30;100
+Casablanca FAR;Fnidek;23:45;07:00;160
+Casablanca FAR;Guelmim;00:45;12:00;300
+Casablanca FAR;Guelmim;08:00;20:15;310
+Casablanca FAR;Guelmim;10:30;02:35;300
+Casablanca FAR;Guelmim;12:00;00:50;300
+Casablanca FAR;Guelmim;13:30;01:35;310
+Casablanca FAR;Guelmim;17:15;05:20;310
+Casablanca FAR;Guelmim;19:30;07:00;300
+Casablanca FAR;Ifrane;11:30;17:00;125
+Casablanca FAR;Ifrane;12:00;20:45;125
+Casablanca FAR;Ifrane;13:00;20:45;120
+Casablanca FAR;Ifrane;14:00;20:45;125
+Casablanca FAR;Ifrane;23:30;07:20;125
+Casablanca FAR;Kasbat Tadla;13:00;16:40;80
+Casablanca FAR;Kelaa Sraghna;00:45;08:50;125
+Casablanca FAR;Kelaa Sraghna;14:45;00:15;135
+Casablanca FAR;Kelaa Sraghna;16:30;00:15;165
+Casablanca FAR;Kelaa Sraghna;17:15;00:15;135
+Casablanca FAR;Kelaa Sraghna;18:00;00:15;135
+Casablanca FAR;Kelaa Sraghna;18:00;03:55;135
+Casablanca FAR;Kelaa Sraghna;19:30;03:55;125
+Casablanca FAR;Kelaa Sraghna;20:30;03:55;135
+Casablanca FAR;Kelaa Sraghna;22:50;08:50;125
+Casablanca FAR;Kelaa Sraghna;23:00;08:50;135
+Casablanca FAR;Khemisset;08:00;13:45;75
+Casablanca FAR;Khemisset;09:15;13:45;70
+Casablanca FAR;Khemisset;10:00;13:45;75
+Casablanca FAR;Khemisset;15:30;18:55;50
+Casablanca FAR;Khenifra;12:00;23:30;155
+Casablanca FAR;Khenifra;13:00;23:30;150
+Casablanca FAR;Khenifra;14:00;23:30;155
+Casablanca FAR;Khenifra;16:30;04:45;255
+Casablanca FAR;Khenifra;17:15;04:45;225
+Casablanca FAR;Khenifra;17:30;04:45;145
+Casablanca FAR;Khenifra;18:00;04:45;225
+Casablanca FAR;Khenifra;18:30;04:45;145
+Casablanca FAR;Khenifra;21:15;10:10;155
+Casablanca FAR;Khenifra;23:30;10:10;155
+Casablanca FAR;Khouribga;09:00;11:00;50
+Casablanca FAR;Khouribga;13:00;15:00;45
+Casablanca FAR;Khouribga;15:15;17:20;45
+Casablanca FAR;Khouribga;17:30;19:30;45
+Casablanca FAR;Khouribga;18:30;20:45;45
+Casablanca FAR;Ksar El Kébir;07:00;11:10;65
+Casablanca FAR;Laayoune;00:45;20:00;470
+Casablanca FAR;Laayoune;10:30;09:45;470
+Casablanca FAR;Laayoune;12:00;07:45;470
+Casablanca FAR;Laayoune;13:30;08:00;480
+Casablanca FAR;Laayoune;17:15;12:30;480
+Casablanca FAR;Larache;07:00;11:50;70
+Casablanca FAR;Larache;08:00;12:00;110
+Casablanca FAR;Larache;11:00;15:05;100
+Casablanca FAR;Larache;14:30;18:30;100
+Casablanca FAR;Larache;17:30;21:30;110
+Casablanca FAR;Marrakech;00:45;04:15;90
+Casablanca FAR;Marrakech;07:15;11:00;90
+Casablanca FAR;Marrakech;07:30;11:00;90
+Casablanca FAR;Marrakech;08:00;11:45;100
+Casablanca FAR;Marrakech;09:00;12:35;90
+Casablanca FAR;Marrakech;11:00;15:00;100
+Casablanca FAR;Marrakech;12:00;16:00;90
+Casablanca FAR;Marrakech;12:15;16:35;100
+Casablanca FAR;Marrakech;13:30;17:35;100
+Casablanca FAR;Marrakech;14:45;18:00;100
+Casablanca FAR;Marrakech;16:30;19:45;130
+Casablanca FAR;Marrakech;17:15;22:00;100
+Casablanca FAR;Marrakech;18:00;21:30;100
+Casablanca FAR;Marrakech;19:30;23:30;90
+Casablanca FAR;Marrakech;20:30;00:20;100
+Casablanca FAR;Marrakech;22:30;02:15;90
+Casablanca FAR;Marrakech;22:50;02:30;90
+Casablanca FAR;Marrakech;23:00;02:30;100
+Casablanca FAR;Meknes;07:00;10:45;90
+Casablanca FAR;Meknes;07:30;11:15;90
+Casablanca FAR;Meknes;10:00;13:40;90
+Casablanca FAR;Meknes;11:30;15:30;85
+Casablanca FAR;Meknes;13:00;16:45;85
+Casablanca FAR;Meknes;14:00;17:55;90
+Casablanca FAR;Meknes;15:30;20:00;65
+Casablanca FAR;Meknes;18:00;21:45;90
+Casablanca FAR;Meknes;19:45;23:40;90
+Casablanca FAR;Meknes;23:30;03:05;90
+Casablanca FAR;Midelt;14:00;02:40;165
+Casablanca FAR;Midelt;15:15;02:40;210
+Casablanca FAR;Midelt;15:30;02:40;140
+Casablanca FAR;Midelt;18:00;02:40;165
+Casablanca FAR;Midelt;19:45;03:40;170
+Casablanca FAR;Mrirt;10:00;21:55;145
+Casablanca FAR;Mrirt;12:00;21:55;145
+Casablanca FAR;Mrirt;13:00;21:55;140
+Casablanca FAR;Mrirt;14:00;21:55;145
+Casablanca FAR;Mrirt;17:15;05:25;230
+Casablanca FAR;Mrirt;17:30;05:25;150
+Casablanca FAR;Mrirt;18:00;05:25;230
+Casablanca FAR;Mrirt;18:30;05:25;150
+Casablanca FAR;Mrirt;21:15;08:50;145
+Casablanca FAR;Mrirt;23:30;08:50;145
+Casablanca FAR;Nador;10:00;20:15;200
+Casablanca FAR;Nador;21:15;06:45;200
+Casablanca FAR;Ouarzazate;07:30;16:15;155
+Casablanca FAR;Ouarzazate;11:00;19:45;165
+Casablanca FAR;Ouarzazate;20:30;05:10;165
+Casablanca FAR;Ouarzazate;23:00;07:15;165
+Casablanca FAR;Oujda;07:30;18:30;230
+Casablanca FAR;Oujda;12:00;21:30;230
+Casablanca FAR;Oujda;20:30;05:21;220
+Casablanca FAR;Oujda;22:00;07:15;290
+Casablanca FAR;Oujda;23:30;09:15;230
+Casablanca FAR;Rabat;07:00;08:20;40
+Casablanca FAR;Rabat;07:00;08:20;30
+Casablanca FAR;Rabat;07:15;08:45;40
+Casablanca FAR;Rabat;07:30;08:45;40
+Casablanca FAR;Rabat;08:00;09:20;40
+Casablanca FAR;Rabat;09:15;10:30;35
+Casablanca FAR;Rabat;10:00;11:30;40
+Casablanca FAR;Rabat;10:00;11:20;40
+Casablanca FAR;Rabat;11:00;12:25;35
+Casablanca FAR;Rabat;11:15;12:35;50
+Casablanca FAR;Rabat;11:30;12:45;35
+Casablanca FAR;Rabat;12:00;13:15;40
+Casablanca FAR;Rabat;13:00;14:15;35
+Casablanca FAR;Rabat;13:30;14:50;35
+Casablanca FAR;Rabat;14:00;15:20;40
+Casablanca FAR;Rabat;14:30;15:45;35
+Casablanca FAR;Rabat;15:30;16:50;30
+Casablanca FAR;Rabat;17:00;18:15;35
+Casablanca FAR;Rabat;17:30;18:50;40
+Casablanca FAR;Rabat;18:00;19:30;40
+Casablanca FAR;Rabat;19:15;20:30;40
+Casablanca FAR;Rabat;19:45;21:15;40
+Casablanca FAR;Rabat;20:30;21:51;35
+Casablanca FAR;Rabat;21:15;22:40;40
+Casablanca FAR;Rabat;22:00;23:20;50
+Casablanca FAR;Rabat;23:30;00:50;40
+Casablanca FAR;Rabat;23:45;01:10;40
+Casablanca FAR;Saidia;20:30;08:00;240
+Casablanca FAR;Sidi Kacem;07:00;13:10;110
+Casablanca FAR;Sidi Kacem;07:30;13:10;110
+Casablanca FAR;Sidi Kacem;10:00;18:50;110
+Casablanca FAR;Sidi Kacem;11:30;18:50;105
+Casablanca FAR;Sidi Kacem;13:00;18:50;105
+Casablanca FAR;Sidi Kacem;17:00;02:20;135
+Casablanca FAR;Sidi Kacem;18:00;02:20;140
+Casablanca FAR;Sidi Kacem;18:00;02:20;
+Casablanca FAR;Sidi Kacem;19:45;02:20;
+Casablanca FAR;Souk Larbaa;07:00;10:15;55
+Casablanca FAR;Souk Larbaa;13:30;17:20;100
+Casablanca FAR;Tan Tan;00:45;14:00;320
+Casablanca FAR;Tan Tan;08:00;23:00;330
+Casablanca FAR;Tan Tan;10:30;05:00;320
+Casablanca FAR;Tan Tan;12:00;03:40;320
+Casablanca FAR;Tan Tan;13:30;04:10;330
+Casablanca FAR;Tan Tan;17:15;07:15;330
+Casablanca FAR;Tanger;11:00;16:30;120
+Casablanca FAR;Tanger;14:30;20:15;120
+Casablanca FAR;Tanger;23:45;04:45;120
+Casablanca FAR;Taounate;13:00;21:00;150
+Casablanca FAR;Taza;07:00;14:40;165
+Casablanca FAR;Taza;07:30;14:50;165
+Casablanca FAR;Taza;10:00;17:10;165
+Casablanca FAR;Taza;12:00;18:45;165
+Casablanca FAR;Taza;14:00;21:15;165
+Casablanca FAR;Taza;18:00;01:30;165
+Casablanca FAR;Taza;21:15;03:40;165
+Casablanca FAR;Taza;23:30;06:30;165
+Casablanca FAR;Tetouan;07:00;14:00;105
+Casablanca FAR;Tetouan;08:00;14:00;150
+Casablanca FAR;Tetouan;11:15;17:00;180
+Casablanca FAR;Tetouan;17:30;23:00;150
+Casablanca FAR;Tetouan;23:45;05:45;150
+Casablanca FAR;Tiflet;15:30;18:05;40
+Casablanca Ain Sebaa;Agadir;09:30;22:00;200
+Casablanca Ain Sebaa;Agadir;11:00;20:00;220
+Casablanca Ain Sebaa;Agadir;11:45;20:30;230
+Casablanca Ain Sebaa;Agadir;16:45;01:00;230
+Casablanca Ain Sebaa;Agadir;18:30;03:00;220
+Casablanca Ain Sebaa;Agadir;22:15;05:30;220
+Casablanca Ain Sebaa;Al Hoceima;07:15;18:15;200
+Casablanca Ain Sebaa;Al Hoceima;18:25;05:15;200
+Casablanca Ain Sebaa;Azrou;11:55;17:45;130
+Casablanca Ain Sebaa;Azrou;20:15;01:40;135
+Casablanca Ain Sebaa;Berkane;21:00;07:25;235
+Casablanca Ain Sebaa;Casablanca FAR;16:45;17:15;
+Casablanca Ain Sebaa;Casablanca FAR;16:45;17:00;
+Casablanca Ain Sebaa;Casablanca FAR;22:15;22:45;
+Casablanca Ain Sebaa;Casablanca FAR;22:35;22:50;
+Casablanca Ain Sebaa;Casablanca Maarif;16:45;17:30;
+Casablanca Ain Sebaa;Casablanca Maarif;16:45;17:25;
+Casablanca Ain Sebaa;Casablanca Maarif;22:15;23:15;
+Casablanca Ain Sebaa;Casablanca Maarif;22:35;23:10;
+Casablanca Ain Sebaa;Chefchaouen;00:10;10:30;180
+Casablanca Ain Sebaa;Chefchaouen;07:15;18:00;180
+Casablanca Ain Sebaa;Chefchaouen;07:20;18:00;130
+Casablanca Ain Sebaa;Chefchaouen;07:50;18:00;180
+Casablanca Ain Sebaa;Chefchaouen;08:20;18:00;175
+Casablanca Ain Sebaa;Chefchaouen;09:30;18:00;180
+Casablanca Ain Sebaa;Chefchaouen;09:30;20:30;180
+Casablanca Ain Sebaa;Chefchaouen;10:20;20:30;180
+Casablanca Ain Sebaa;Chefchaouen;13:45;21:00;155
+Casablanca Ain Sebaa;Chefchaouen;17:30;03:50;175
+Casablanca Ain Sebaa;Chefchaouen;18:25;03:50;180
+Casablanca Ain Sebaa;Dakhla;09:30;17:45;615
+Casablanca Ain Sebaa;Dakhla;11:00;15:15;615
+Casablanca Ain Sebaa;El Hajeb;11:55;16:40;110
+Casablanca Ain Sebaa;El Hajeb;20:15;00:40;115
+Casablanca Ain Sebaa;Errachidia;12:30;04:50;230
+Casablanca Ain Sebaa;Errachidia;13:25;04:50;205
+Casablanca Ain Sebaa;Errachidia;14:25;04:50;210
+Casablanca Ain Sebaa;Errachidia;15:45;04:50;255
+Casablanca Ain Sebaa;Errachidia;16:00;04:50;185
+Casablanca Ain Sebaa;Errachidia;18:25;04:50;210
+Casablanca Ain Sebaa;Errachidia;20:15;06:00;220
+Casablanca Ain Sebaa;Essaouira;09:30;18:00;140
+Casablanca Ain Sebaa;Fes;07:15;12:15;100
+Casablanca Ain Sebaa;Fes;07:50;12:40;100
+Casablanca Ain Sebaa;Fes;09:30;13:00;100
+Casablanca Ain Sebaa;Fes;10:20;15:00;100
+Casablanca Ain Sebaa;Fes;12:30;16:45;100
+Casablanca Ain Sebaa;Fes;13:25;18:10;95
+Casablanca Ain Sebaa;Fes;14:25;19:00;100
+Casablanca Ain Sebaa;Fes;15:45;19:45;125
+Casablanca Ain Sebaa;Fes;16:00;21:15;75
+Casablanca Ain Sebaa;Fes;17:30;21:30;95
+Casablanca Ain Sebaa;Fes;18:25;23:00;100
+Casablanca Ain Sebaa;Fes;21:00;00:51;95
+Casablanca Ain Sebaa;Fes;21:45;01:50;100
+Casablanca Ain Sebaa;Fes;23:59;04:30;100
+Casablanca Ain Sebaa;Fnidek;00:10;07:00;160
+Casablanca Ain Sebaa;Ifrane;11:55;17:00;125
+Casablanca Ain Sebaa;Ifrane;12:30;20:45;125
+Casablanca Ain Sebaa;Ifrane;13:25;20:45;120
+Casablanca Ain Sebaa;Ifrane;14:25;20:45;125
+Casablanca Ain Sebaa;Ifrane;23:59;07:20;125
+Casablanca Ain Sebaa;Kelaa Sraghna;16:45;00:15;135
+Casablanca Ain Sebaa;Kelaa Sraghna;16:45;03:55;135
+Casablanca Ain Sebaa;Kelaa Sraghna;16:45;05:25;120
+Casablanca Ain Sebaa;Kelaa Sraghna;18:30;03:55;125
+Casablanca Ain Sebaa;Kelaa Sraghna;22:15;08:50;125
+Casablanca Ain Sebaa;Kelaa Sraghna;22:35;08:50;135
+Casablanca Ain Sebaa;Khemisset;09:45;13:45;70
+Casablanca Ain Sebaa;Khemisset;10:20;13:45;75
+Casablanca Ain Sebaa;Khemisset;10:30;13:45;75
+Casablanca Ain Sebaa;Khemisset;16:00;18:55;50
+Casablanca Ain Sebaa;Khenifra;10:20;23:30;155
+Casablanca Ain Sebaa;Khenifra;12:30;23:30;155
+Casablanca Ain Sebaa;Khenifra;13:25;23:30;150
+Casablanca Ain Sebaa;Khenifra;14:25;23:30;155
+Casablanca Ain Sebaa;Khenifra;16:45;04:45;145
+Casablanca Ain Sebaa;Khenifra;21:00;10:10;150
+Casablanca Ain Sebaa;Khenifra;21:45;10:10;155
+Casablanca Ain Sebaa;Khenifra;22:35;13:50;225
+Casablanca Ain Sebaa;Khenifra;23:59;10:10;155
+Casablanca Ain Sebaa;Khouribga;08:15;11:00;50
+Casablanca Ain Sebaa;Khouribga;14:30;17:20;45
+Casablanca Ain Sebaa;Khouribga;16:45;19:30;45
+Casablanca Ain Sebaa;Ksar El Kébir;07:20;11:10;65
+Casablanca Ain Sebaa;Laayoune;09:30;09:45;
+Casablanca Ain Sebaa;Laayoune;11:00;07:45;470
+Casablanca Ain Sebaa;Laayoune;16:45;12:30;480
+Casablanca Ain Sebaa;Larache;07:20;11:50;70
+Casablanca Ain Sebaa;Larache;08:20;12:00;110
+Casablanca Ain Sebaa;Larache;11:30;15:05;100
+Casablanca Ain Sebaa;Larache;15:00;18:30;100
+Casablanca Ain Sebaa;Larache;17:45;21:30;110
+Casablanca Ain Sebaa;Marrakech;11:00;16:00;90
+Casablanca Ain Sebaa;Marrakech;11:45;16:35;100
+Casablanca Ain Sebaa;Marrakech;16:45;22:00;100
+Casablanca Ain Sebaa;Marrakech;18:30;23:30;90
+Casablanca Ain Sebaa;Marrakech;22:15;02:30;90
+Casablanca Ain Sebaa;Marrakech;22:35;02:30;100
+Casablanca Ain Sebaa;Meknes;07:15;10:45;90
+Casablanca Ain Sebaa;Meknes;07:50;11:15;90
+Casablanca Ain Sebaa;Meknes;10:20;13:40;90
+Casablanca Ain Sebaa;Meknes;11:55;15:30;85
+Casablanca Ain Sebaa;Meknes;13:25;16:45;85
+Casablanca Ain Sebaa;Meknes;14:25;17:55;90
+Casablanca Ain Sebaa;Meknes;16:00;20:00;65
+Casablanca Ain Sebaa;Meknes;18:25;21:45;90
+Casablanca Ain Sebaa;Meknes;20:15;23:40;90
+Casablanca Ain Sebaa;Meknes;23:59;03:05;90
+Casablanca Ain Sebaa;Midelt;14:25;02:40;165
+Casablanca Ain Sebaa;Midelt;15:45;02:40;210
+Casablanca Ain Sebaa;Midelt;16:00;02:40;140
+Casablanca Ain Sebaa;Midelt;18:25;02:40;165
+Casablanca Ain Sebaa;Midelt;20:15;03:40;170
+Casablanca Ain Sebaa;Mrirt;10:20;21:55;145
+Casablanca Ain Sebaa;Mrirt;12:30;21:55;145
+Casablanca Ain Sebaa;Mrirt;13:25;21:55;140
+Casablanca Ain Sebaa;Mrirt;14:25;21:55;145
+Casablanca Ain Sebaa;Mrirt;16:45;05:25;150
+Casablanca Ain Sebaa;Mrirt;21:00;08:50;140
+Casablanca Ain Sebaa;Mrirt;21:45;08:50;145
+Casablanca Ain Sebaa;Mrirt;23:59;08:50;145
+Casablanca Ain Sebaa;Nador;10:20;20:15;200
+Casablanca Ain Sebaa;Nador;21:45;06:45;200
+Casablanca Ain Sebaa;Ouarzazate;22:35;07:15;165
+Casablanca Ain Sebaa;Oujda;07:50;18:30;230
+Casablanca Ain Sebaa;Oujda;12:30;21:30;230
+Casablanca Ain Sebaa;Oujda;21:00;05:21;220
+Casablanca Ain Sebaa;Oujda;22:20;07:15;290
+Casablanca Ain Sebaa;Oujda;23:59;09:15;230
+Casablanca Ain Sebaa;Rabat;00:10;01:10;40
+Casablanca Ain Sebaa;Rabat;07:15;08:20;40
+Casablanca Ain Sebaa;Rabat;07:20;08:20;30
+Casablanca Ain Sebaa;Rabat;07:35;08:45;40
+Casablanca Ain Sebaa;Rabat;07:50;08:45;40
+Casablanca Ain Sebaa;Rabat;08:20;09:20;40
+Casablanca Ain Sebaa;Rabat;09:45;10:30;35
+Casablanca Ain Sebaa;Rabat;10:20;11:20;40
+Casablanca Ain Sebaa;Rabat;10:30;11:30;40
+Casablanca Ain Sebaa;Rabat;11:30;12:35;50
+Casablanca Ain Sebaa;Rabat;11:30;12:25;35
+Casablanca Ain Sebaa;Rabat;11:55;12:45;35
+Casablanca Ain Sebaa;Rabat;12:30;13:15;40
+Casablanca Ain Sebaa;Rabat;13:25;14:15;35
+Casablanca Ain Sebaa;Rabat;13:45;14:50;35
+Casablanca Ain Sebaa;Rabat;14:25;15:20;40
+Casablanca Ain Sebaa;Rabat;15:00;15:45;35
+Casablanca Ain Sebaa;Rabat;16:00;16:50;30
+Casablanca Ain Sebaa;Rabat;17:30;18:15;35
+Casablanca Ain Sebaa;Rabat;17:45;18:50;40
+Casablanca Ain Sebaa;Rabat;18:25;19:30;40
+Casablanca Ain Sebaa;Rabat;19:35;20:30;40
+Casablanca Ain Sebaa;Rabat;20:15;21:15;40
+Casablanca Ain Sebaa;Rabat;21:00;21:51;35
+Casablanca Ain Sebaa;Rabat;21:45;22:40;40
+Casablanca Ain Sebaa;Rabat;22:20;23:20;50
+Casablanca Ain Sebaa;Rabat;23:59;00:50;40
+Casablanca Ain Sebaa;Safi;09:30;15:15;100
+Casablanca Ain Sebaa;Safi;16:45;23:15;
+Casablanca Ain Sebaa;Saidia;21:00;08:00;240
+Casablanca Ain Sebaa;Sidi Kacem;07:15;13:10;110
+Casablanca Ain Sebaa;Sidi Kacem;07:50;13:10;110
+Casablanca Ain Sebaa;Sidi Kacem;10:20;18:50;110
+Casablanca Ain Sebaa;Sidi Kacem;11:55;18:50;105
+Casablanca Ain Sebaa;Sidi Kacem;13:25;18:50;105
+Casablanca Ain Sebaa;Sidi Kacem;17:30;02:20;135
+Casablanca Ain Sebaa;Sidi Kacem;18:25;02:20;140
+Casablanca Ain Sebaa;Sidi Kacem;18:25;02:20;
+Casablanca Ain Sebaa;Sidi Kacem;20:15;02:20;
+Casablanca Ain Sebaa;Souk Larbaa;07:20;10:15;55
+Casablanca Ain Sebaa;Souk Larbaa;13:45;17:20;100
+Casablanca Ain Sebaa;Tan Tan;09:30;05:00;
+Casablanca Ain Sebaa;Tan Tan;11:00;03:40;320
+Casablanca Ain Sebaa;Tan Tan;16:45;07:15;330
+Casablanca Ain Sebaa;Tanger;00:10;04:45;120
+Casablanca Ain Sebaa;Tanger;11:30;16:30;120
+Casablanca Ain Sebaa;Tanger;15:00;20:15;120
+Casablanca Ain Sebaa;Taounate;13:25;21:00;150
+Casablanca Ain Sebaa;Taza;07:15;14:40;165
+Casablanca Ain Sebaa;Taza;07:50;14:50;165
+Casablanca Ain Sebaa;Taza;10:20;17:10;165
+Casablanca Ain Sebaa;Taza;12:30;18:45;165
+Casablanca Ain Sebaa;Taza;14:25;21:15;165
+Casablanca Ain Sebaa;Taza;18:25;01:30;165
+Casablanca Ain Sebaa;Taza;21:45;03:40;165
+Casablanca Ain Sebaa;Taza;23:59;06:30;165
+Casablanca Ain Sebaa;Tetouan;00:10;05:45;150
+Casablanca Ain Sebaa;Tetouan;07:20;14:00;105
+Casablanca Ain Sebaa;Tetouan;08:20;14:00;150
+Casablanca Ain Sebaa;Tetouan;11:30;17:00;180
+Casablanca Ain Sebaa;Tetouan;17:45;23:00;150
+Casablanca Ain Sebaa;Tiflet;16:00;18:05;40
+Casablanca Maarif;Agadir;00:15;06:10;275
+Casablanca Maarif;Agadir;07:15;17:15;200
+Casablanca Maarif;Agadir;07:45;14:30;220
+Casablanca Maarif;Agadir;08:30;15:45;230
+Casablanca Maarif;Agadir;11:00;22:00;
+Casablanca Maarif;Agadir;11:30;17:30;275
+Casablanca Maarif;Agadir;12:30;20:00;220
+Casablanca Maarif;Agadir;12:45;20:30;230
+Casablanca Maarif;Agadir;13:00;22:45;200
+Casablanca Maarif;Agadir;14:00;21:20;230
+Casablanca Maarif;Agadir;17:50;01:00;230
+Casablanca Maarif;Agadir;20:00;03:00;220
+Casablanca Maarif;Agadir;23:20;05:30;220
+Casablanca Maarif;Al Hoceima;17:15;05:15;200
+Casablanca Maarif;Azrou;07:00;17:45;135
+Casablanca Maarif;Azrou;07:00;17:45;
+Casablanca Maarif;Azrou;08:45;17:45;130
+Casablanca Maarif;Azrou;08:45;17:45;
+Casablanca Maarif;Azrou;09:15;17:45;120
+Casablanca Maarif;Azrou;09:20;17:45;135
+Casablanca Maarif;Azrou;09:20;17:45;
+Casablanca Maarif;Azrou;11:15;21:15;135
+Casablanca Maarif;Azrou;17:15;00:10;120
+Casablanca Maarif;Azrou;17:15;01:40;140
+Casablanca Maarif;Azrou;18:35;01:40;140
+Casablanca Maarif;Azrou;19:00;06:00;160
+Casablanca Maarif;Azrou;23:15;07:50;135
+Casablanca Maarif;Beni Mellal;09:25;14:00;95
+Casablanca Maarif;Beni Mellal;13:20;17:45;90
+Casablanca Maarif;Beni Mellal;15:45;19:00;90
+Casablanca Maarif;Beni Mellal;18:00;22:00;90
+Casablanca Maarif;Beni Mellal;19:00;23:00;90
+Casablanca Maarif;Berkane;17:15;07:25;240
+Casablanca Maarif;Berkane;18:35;07:25;240
+Casablanca Maarif;Casablanca FAR;07:00;07:10;
+Casablanca Maarif;Casablanca FAR;08:45;09:00;
+Casablanca Maarif;Casablanca FAR;09:20;09:45;
+Casablanca Maarif;Casablanca Ain Sebaa;07:00;07:30;
+Casablanca Maarif;Casablanca Ain Sebaa;08:45;09:30;
+Casablanca Maarif;Casablanca Ain Sebaa;09:20;10:20;
+Casablanca Maarif;Chefchaouen;06:30;18:00;130
+Casablanca Maarif;Chefchaouen;08:15;18:00;180
+Casablanca Maarif;Chefchaouen;08:15;20:30;180
+Casablanca Maarif;Chefchaouen;08:45;21:00;155
+Casablanca Maarif;Chefchaouen;08:45;21:00;
+Casablanca Maarif;Chefchaouen;09:15;20:30;180
+Casablanca Maarif;Chefchaouen;09:15;21:00;160
+Casablanca Maarif;Chefchaouen;09:20;21:00;160
+Casablanca Maarif;Chefchaouen;09:20;21:00;
+Casablanca Maarif;Chefchaouen;11:15;21:00;160
+Casablanca Maarif;Chefchaouen;17:15;03:50;180
+Casablanca Maarif;Chefchaouen;23:15;11:40;180
+Casablanca Maarif;Dakhla;11:00;17:45;615
+Casablanca Maarif;Dakhla;12:30;15:15;615
+Casablanca Maarif;El Hajeb;06:30;16:40;105
+Casablanca Maarif;El Hajeb;07:00;16:40;115
+Casablanca Maarif;El Hajeb;07:00;16:40;
+Casablanca Maarif;El Hajeb;08:45;16:40;110
+Casablanca Maarif;El Hajeb;08:45;16:40;
+Casablanca Maarif;El Hajeb;09:15;16:40;115
+Casablanca Maarif;El Hajeb;09:15;16:40;
+Casablanca Maarif;El Hajeb;09:20;16:40;115
+Casablanca Maarif;El Hajeb;09:20;16:40;
+Casablanca Maarif;El Hajeb;17:15;00:40;
+Casablanca Maarif;El Hajeb;18:35;00:40;
+Casablanca Maarif;Errachidia;01:10;17:45;260
+Casablanca Maarif;Errachidia;13:30;06:00;220
+Casablanca Maarif;Errachidia;17:15;04:50;210
+Casablanca Maarif;Errachidia;17:15;06:00;225
+Casablanca Maarif;Errachidia;18:35;06:00;225
+Casablanca Maarif;Errachidia;23:00;17:45;260
+Casablanca Maarif;Errachidia;23:15;17:45;270
+Casablanca Maarif;Errachidia;23:20;17:45;260
+Casablanca Maarif;Essaouira;07:15;13:15;140
+Casablanca Maarif;Essaouira;11:00;18:00;140
+Casablanca Maarif;Essaouira;13:00;19:15;140
+Casablanca Maarif;Essaouira;16:30;22:00;145
+Casablanca Maarif;Fes;08:15;13:00;100
+Casablanca Maarif;Fes;09:15;15:00;100
+Casablanca Maarif;Fes;11:15;16:45;100
+Casablanca Maarif;Fes;17:15;23:00;100
+Casablanca Maarif;Fes;23:15;04:30;100
+Casablanca Maarif;Fnidek;17:15;07:00;170
+Casablanca Maarif;Fnidek;18:35;07:00;170
+Casablanca Maarif;Guelmim;01:10;12:00;300
+Casablanca Maarif;Guelmim;08:30;20:15;310
+Casablanca Maarif;Guelmim;11:00;02:35;300
+Casablanca Maarif;Guelmim;12:30;00:50;300
+Casablanca Maarif;Guelmim;14:00;01:35;310
+Casablanca Maarif;Guelmim;17:50;05:20;310
+Casablanca Maarif;Guelmim;20:00;07:00;300
+Casablanca Maarif;Ifrane;06:30;17:00;120
+Casablanca Maarif;Ifrane;07:00;17:00;130
+Casablanca Maarif;Ifrane;07:00;17:00;
+Casablanca Maarif;Ifrane;08:45;17:00;125
+Casablanca Maarif;Ifrane;08:45;17:00;
+Casablanca Maarif;Ifrane;09:15;17:00;115
+Casablanca Maarif;Ifrane;09:20;17:00;130
+Casablanca Maarif;Ifrane;09:20;17:00;
+Casablanca Maarif;Ifrane;11:15;20:45;125
+Casablanca Maarif;Ifrane;23:15;07:20;125
+Casablanca Maarif;Kasbat Tadla;13:20;16:40;80
+Casablanca Maarif;Kelaa Sraghna;01:10;08:50;125
+Casablanca Maarif;Kelaa Sraghna;15:15;00:15;135
+Casablanca Maarif;Kelaa Sraghna;17:00;00:15;165
+Casablanca Maarif;Kelaa Sraghna;17:50;00:15;135
+Casablanca Maarif;Kelaa Sraghna;18:30;00:15;135
+Casablanca Maarif;Kelaa Sraghna;18:30;03:55;135
+Casablanca Maarif;Kelaa Sraghna;20:00;03:55;125
+Casablanca Maarif;Kelaa Sraghna;21:00;03:55;135
+Casablanca Maarif;Kelaa Sraghna;23:15;08:50;135
+Casablanca Maarif;Kelaa Sraghna;23:20;08:50;125
+Casablanca Maarif;Khemisset;06:30;13:45;65
+Casablanca Maarif;Khemisset;07:00;13:45;75
+Casablanca Maarif;Khemisset;08:45;13:45;70
+Casablanca Maarif;Khemisset;09:15;13:45;75
+Casablanca Maarif;Khemisset;09:20;13:45;75
+Casablanca Maarif;Khemisset;13:30;18:55;60
+Casablanca Maarif;Khenifra;01:10;13:50;215
+Casablanca Maarif;Khenifra;09:15;23:30;155
+Casablanca Maarif;Khenifra;11:15;23:30;155
+Casablanca Maarif;Khenifra;15:15;04:45;225
+Casablanca Maarif;Khenifra;17:00;04:45;255
+Casablanca Maarif;Khenifra;17:50;04:45;225
+Casablanca Maarif;Khenifra;18:00;04:45;145
+Casablanca Maarif;Khenifra;18:30;04:45;225
+Casablanca Maarif;Khenifra;19:00;04:45;145
+Casablanca Maarif;Khenifra;23:15;10:10;155
+Casablanca Maarif;Khouribga;09:25;11:00;50
+Casablanca Maarif;Khouribga;13:20;15:00;45
+Casablanca Maarif;Khouribga;15:45;17:20;45
+Casablanca Maarif;Khouribga;18:00;19:30;45
+Casablanca Maarif;Khouribga;19:00;20:45;45
+Casablanca Maarif;Ksar El Kébir;06:30;11:10;65
+Casablanca Maarif;Laayoune;01:10;20:00;470
+Casablanca Maarif;Laayoune;11:00;09:45;470
+Casablanca Maarif;Laayoune;12:30;07:45;470
+Casablanca Maarif;Laayoune;14:00;08:00;480
+Casablanca Maarif;Laayoune;17:50;12:30;480
+Casablanca Maarif;Larache;06:30;11:50;70
+Casablanca Maarif;Larache;13:30;18:30;100
+Casablanca Maarif;Marrakech;01:10;04:15;90
+Casablanca Maarif;Marrakech;07:45;11:00;90
+Casablanca Maarif;Marrakech;08:00;11:00;90
+Casablanca Maarif;Marrakech;08:30;11:45;100
+Casablanca Maarif;Marrakech;09:30;12:35;90
+Casablanca Maarif;Marrakech;11:20;15:00;100
+Casablanca Maarif;Marrakech;12:30;16:00;90
+Casablanca Maarif;Marrakech;12:45;16:35;100
+Casablanca Maarif;Marrakech;14:00;17:35;100
+Casablanca Maarif;Marrakech;15:15;18:00;100
+Casablanca Maarif;Marrakech;17:00;19:45;130
+Casablanca Maarif;Marrakech;17:50;22:00;100
+Casablanca Maarif;Marrakech;18:30;21:30;100
+Casablanca Maarif;Marrakech;20:00;23:30;90
+Casablanca Maarif;Marrakech;21:00;00:20;100
+Casablanca Maarif;Marrakech;23:00;02:15;90
+Casablanca Maarif;Marrakech;23:15;02:30;100
+Casablanca Maarif;Marrakech;23:20;02:30;90
+Casablanca Maarif;Meknes;09:15;13:40;90
+Casablanca Maarif;Meknes;17:15;21:45;90
+Casablanca Maarif;Meknes;23:15;03:05;90
+Casablanca Maarif;Midelt;11:15;02:40;185
+Casablanca Maarif;Midelt;13:30;03:40;170
+Casablanca Maarif;Midelt;17:15;02:40;165
+Casablanca Maarif;Midelt;17:15;03:40;175
+Casablanca Maarif;Midelt;18:35;03:40;175
+Casablanca Maarif;Mrirt;01:10;14:10;220
+Casablanca Maarif;Mrirt;09:15;21:55;145
+Casablanca Maarif;Mrirt;11:15;21:55;145
+Casablanca Maarif;Mrirt;15:15;05:25;230
+Casablanca Maarif;Mrirt;17:00;05:25;260
+Casablanca Maarif;Mrirt;17:50;05:25;230
+Casablanca Maarif;Mrirt;18:00;05:25;150
+Casablanca Maarif;Mrirt;18:30;05:25;230
+Casablanca Maarif;Mrirt;19:00;05:25;150
+Casablanca Maarif;Mrirt;23:15;08:50;145
+Casablanca Maarif;Nador;09:15;20:15;200
+Casablanca Maarif;Nador;17:15;06:45;210
+Casablanca Maarif;Nador;17:15;08:45;220
+Casablanca Maarif;Nador;18:35;06:45;210
+Casablanca Maarif;Ouarzazate;08:00;16:15;155
+Casablanca Maarif;Ouarzazate;11:20;19:45;165
+Casablanca Maarif;Ouarzazate;21:00;05:10;165
+Casablanca Maarif;Ouarzazate;23:15;07:15;165
+Casablanca Maarif;Oujda;11:15;21:30;230
+Casablanca Maarif;Oujda;23:15;09:15;230
+Casablanca Maarif;Rabat;06:30;08:20;30
+Casablanca Maarif;Rabat;07:00;08:45;40
+Casablanca Maarif;Rabat;08:45;10:30;35
+Casablanca Maarif;Rabat;09:15;11:20;40
+Casablanca Maarif;Rabat;09:20;11:30;40
+Casablanca Maarif;Rabat;11:15;13:15;40
+Casablanca Maarif;Rabat;13:30;15:45;35
+Casablanca Maarif;Rabat;17:15;19:30;40
+Casablanca Maarif;Rabat;18:35;20:30;40
+Casablanca Maarif;Rabat;23:15;00:50;40
+Casablanca Maarif;Safi;07:15;10:50;100
+Casablanca Maarif;Safi;08:50;13:15;105
+Casablanca Maarif;Safi;11:00;15:15;100
+Casablanca Maarif;Safi;13:00;16:50;100
+Casablanca Maarif;Safi;16:30;19:45;105
+Casablanca Maarif;Safi;17:30;21:00;105
+Casablanca Maarif;Safi;19:35;23:15;105
+Casablanca Maarif;Saidia;17:15;08:00;250
+Casablanca Maarif;Saidia;18:35;08:00;250
+Casablanca Maarif;Sidi Kacem;08:15;18:50;140
+Casablanca Maarif;Sidi Kacem;09:15;18:50;110
+Casablanca Maarif;Sidi Kacem;11:15;02:20;245
+Casablanca Maarif;Sidi Kacem;13:30;00:40;200
+Casablanca Maarif;Sidi Kacem;17:15;02:20;140
+Casablanca Maarif;Sidi Kacem;17:15;02:20;
+Casablanca Maarif;Sidi Kacem;23:15;13:10;140
+Casablanca Maarif;Souk Larbaa;06:30;10:15;55
+Casablanca Maarif;Souk Larbaa;11:15;17:20;95
+Casablanca Maarif;Tan Tan;01:10;14:00;320
+Casablanca Maarif;Tan Tan;08:30;23:00;330
+Casablanca Maarif;Tan Tan;11:00;05:00;320
+Casablanca Maarif;Tan Tan;12:30;03:40;320
+Casablanca Maarif;Tan Tan;14:00;04:10;330
+Casablanca Maarif;Tan Tan;17:50;07:15;330
+Casablanca Maarif;Tanger;06:30;16:30;120
+Casablanca Maarif;Tanger;06:30;16:45;130
+Casablanca Maarif;Tanger;07:00;16:30;130
+Casablanca Maarif;Tanger;07:00;16:30;
+Casablanca Maarif;Tanger;08:45;16:30;125
+Casablanca Maarif;Tanger;08:45;16:30;
+Casablanca Maarif;Tanger;09:15;16:30;130
+Casablanca Maarif;Tanger;09:20;16:30;130
+Casablanca Maarif;Tanger;09:20;16:30;
+Casablanca Maarif;Tanger;13:30;20:15;120
+Casablanca Maarif;Tanger;23:15;09:50;130
+Casablanca Maarif;Taounate;07:00;21:00;150
+Casablanca Maarif;Taounate;07:00;21:00;
+Casablanca Maarif;Taounate;08:15;21:00;135
+Casablanca Maarif;Taounate;08:45;21:00;145
+Casablanca Maarif;Taounate;08:45;21:00;
+Casablanca Maarif;Taounate;09:15;21:00;150
+Casablanca Maarif;Taounate;09:20;21:00;150
+Casablanca Maarif;Taounate;09:20;21:00;
+Casablanca Maarif;Taounate;11:15;21:00;135
+Casablanca Maarif;Taza;09:15;17:10;165
+Casablanca Maarif;Taza;11:15;18:45;165
+Casablanca Maarif;Taza;17:15;01:30;165
+Casablanca Maarif;Taza;23:15;06:30;165
+Casablanca Maarif;Tetouan;06:30;14:00;105
+Casablanca Maarif;Tetouan;07:00;14:00;150
+Casablanca Maarif;Tetouan;07:00;17:00;180
+Casablanca Maarif;Tetouan;07:00;17:00;
+Casablanca Maarif;Tetouan;08:45;17:00;175
+Casablanca Maarif;Tetouan;08:45;17:00;
+Casablanca Maarif;Tetouan;09:15;17:00;180
+Casablanca Maarif;Tetouan;09:20;17:00;180
+Casablanca Maarif;Tetouan;09:20;17:00;
+Casablanca Maarif;Tetouan;11:15;23:00;150
+Casablanca Maarif;Tetouan;13:30;23:00;145
+Casablanca Maarif;Tetouan;18:35;05:45;150
+Casablanca Maarif;Tetouan;23:15;11:00;155
+Casablanca Maarif;Tiflet;11:15;18:05;55
+Casablanca Maarif;Tiflet;13:30;18:05;50
+Chefchaouen;Agadir;07:00;21:00;375
+Chefchaouen;Agadir;07:00;01:00;375
+Chefchaouen;Agadir;10:45;06:30;390
+Chefchaouen;Agadir;12:15;05:30;375
+Chefchaouen;Agadir;13:15;06:30;385
+Chefchaouen;Agadir;13:15;07:20;440
+Chefchaouen;Agadir;13:15;07:45;375
+Chefchaouen;Agadir;13:15;09:15;355
+Chefchaouen;Agadir;15:10;07:20;440
+Chefchaouen;Agadir;15:10;09:15;355
+Chefchaouen;Al Hoceima;06:30;12:35;90
+Chefchaouen;Azrou;13:15;21:15;110
+Chefchaouen;Azrou;15:10;21:15;110
+Chefchaouen;Azrou;15:10;00:10;110
+Chefchaouen;Beni Mellal;07:00;19:00;245
+Chefchaouen;Beni Mellal;07:00;22:00;220
+Chefchaouen;Beni Mellal;07:00;23:00;245
+Chefchaouen;Berkane;15:10;07:25;205
+Chefchaouen;Berkane;18:10;07:25;205
+Chefchaouen;Casablanca FAR;04:00;11:45;
+Chefchaouen;Casablanca FAR;07:00;13:00;155
+Chefchaouen;Casablanca FAR;10:45;20:30;180
+Chefchaouen;Casablanca FAR;12:15;22:00;130
+Chefchaouen;Casablanca FAR;15:30;23:20;180
+Chefchaouen;Casablanca FAR;20:40;05:45;175
+Chefchaouen;Casablanca FAR;20:40;06:15;210
+Chefchaouen;Casablanca Ain Sebaa;04:00;11:15;
+Chefchaouen;Casablanca Ain Sebaa;07:00;12:20;155
+Chefchaouen;Casablanca Ain Sebaa;15:30;23:00;180
+Chefchaouen;Casablanca Ain Sebaa;20:40;05:10;175
+Chefchaouen;Casablanca Maarif;07:00;17:25;160
+Chefchaouen;Casablanca Maarif;07:00;17:30;155
+Chefchaouen;Casablanca Maarif;12:15;23:15;165
+Chefchaouen;Casablanca Maarif;13:15;01:00;170
+Chefchaouen;El Hajeb;07:00;16:40;195
+Chefchaouen;Errachidia;10:45;04:50;210
+Chefchaouen;Errachidia;13:15;04:50;205
+Chefchaouen;Errachidia;15:10;04:50;205
+Chefchaouen;Essaouira;07:00;22:00;300
+Chefchaouen;Fnidek;04:00;07:00;
+Chefchaouen;Guelmim;07:00;05:20;455
+Chefchaouen;Guelmim;10:45;12:00;460
+Chefchaouen;Guelmim;13:15;12:00;455
+Chefchaouen;Ifrane;13:15;20:45;100
+Chefchaouen;Ifrane;15:10;20:45;100
+Chefchaouen;Kasbat Tadla;10:45;01:35;165
+Chefchaouen;Kasbat Tadla;13:15;01:35;160
+Chefchaouen;Kasbat Tadla;15:10;01:35;160
+Chefchaouen;Kelaa Sraghna;10:45;05:25;220
+Chefchaouen;Kelaa Sraghna;13:15;05:25;215
+Chefchaouen;Kelaa Sraghna;15:10;05:25;215
+Chefchaouen;Khemisset;07:00;13:45;155
+Chefchaouen;Khemisset;10:45;21:30;130
+Chefchaouen;Khemisset;13:15;21:30;125
+Chefchaouen;Khenifra;10:45;23:30;135
+Chefchaouen;Khenifra;13:15;23:30;130
+Chefchaouen;Khenifra;15:10;23:30;130
+Chefchaouen;Khouribga;07:00;17:20;200
+Chefchaouen;Khouribga;07:00;19:30;195
+Chefchaouen;Khouribga;07:00;20:45;200
+Chefchaouen;Ksar El Kébir;12:15;17:50;65
+Chefchaouen;Laayoune;10:45;20:00;645
+Chefchaouen;Laayoune;13:15;20:00;640
+Chefchaouen;Larache;04:00;07:45;
+Chefchaouen;Larache;12:15;16:45;60
+Chefchaouen;Larache;12:15;18:10;70
+Chefchaouen;Larache;15:30;21:40;90
+Chefchaouen;Larache;20:40;01:00;90
+Chefchaouen;Larache;20:40;01:10;75
+Chefchaouen;Marrakech;07:00;18:00;270
+Chefchaouen;Marrakech;07:00;19:45;285
+Chefchaouen;Marrakech;07:00;21:30;255
+Chefchaouen;Marrakech;07:00;22:00;270
+Chefchaouen;Marrakech;12:15;02:30;275
+Chefchaouen;Marrakech;13:15;02:45;270
+Chefchaouen;Marrakech;13:15;04:15;265
+Chefchaouen;Marrakech;13:15;04:45;340
+Chefchaouen;Marrakech;15:10;04:45;340
+Chefchaouen;Marrakech;15:10;06:00;245
+Chefchaouen;Meknes;07:00;14:55;175
+Chefchaouen;Meknes;07:00;15:30;175
+Chefchaouen;Meknes;10:45;17:30;105
+Chefchaouen;Meknes;13:15;19:30;105
+Chefchaouen;Meknes;13:15;20:15;100
+Chefchaouen;Meknes;15:10;22:30;100
+Chefchaouen;Meknes;18:10;01:00;105
+Chefchaouen;Meknes;18:10;01:20;100
+Chefchaouen;Meknes;18:10;02:50;100
+Chefchaouen;Meknes;20:40;04:45;155
+Chefchaouen;Midelt;10:45;02:40;165
+Chefchaouen;Midelt;13:15;02:40;160
+Chefchaouen;Midelt;15:10;02:40;160
+Chefchaouen;Mrirt;10:45;21:55;125
+Chefchaouen;Mrirt;13:15;21:55;120
+Chefchaouen;Mrirt;15:10;21:55;120
+Chefchaouen;Nador;06:30;16:00;135
+Chefchaouen;Nador;18:10;06:45;200
+Chefchaouen;Nador;18:10;08:45;195
+Chefchaouen;Oujda;10:45;20:30;185
+Chefchaouen;Oujda;15:30;05:45;300
+Chefchaouen;Rabat;07:00;11:15;120
+Chefchaouen;Safi;07:00;19:45;260
+Chefchaouen;Safi;07:00;21:00;260
+Chefchaouen;Saidia;15:10;08:00;215
+Chefchaouen;Saidia;18:10;08:00;215
+Chefchaouen;Sidi Kacem;04:00;13:15;
+Chefchaouen;Sidi Kacem;10:45;18:50;120
+Chefchaouen;Sidi Kacem;15:30;00:40;135
+Chefchaouen;Sidi Kacem;18:10;02:20;115
+Chefchaouen;Souk Larbaa;04:00;12:15;
+Chefchaouen;Souk Larbaa;12:15;18:20;75
+Chefchaouen;Souk Larbaa;15:30;23:40;110
+Chefchaouen;Tan Tan;07:00;07:15;480
+Chefchaouen;Tan Tan;10:45;14:00;480
+Chefchaouen;Tan Tan;13:15;14:00;475
+Chefchaouen;Taounate;10:45;21:00;115
+Chefchaouen;Taounate;13:15;21:00;110
+Chefchaouen;Taza;10:45;17:30;125
+Chefchaouen;Taza;13:15;21:15;125
+Chefchaouen;Taza;15:10;01:30;125
+Chefchaouen;Taza;18:10;01:30;125
+Chefchaouen;Taza;18:10;03:40;125
+Chefchaouen;Taza;18:10;05:00;120
+Chefchaouen;Tetouan;04:00;05:00;
+Chefchaouen;Tetouan;12:15;13:30;25
+Chefchaouen;Tetouan;15:30;16:50;30
+Chefchaouen;Tetouan;18:30;19:40;25
+Chefchaouen;Tetouan;18:45;19:15;25
+Chefchaouen;Tetouan;20:40;22:00;30
+Chefchaouen;Tiflet;07:00;18:05;135
+Dakhla;Agadir;12:30;09:15;410
+Dakhla;Agadir;15:00;11:00;410
+Dakhla;Agadir;17:00;11:30;420
+Dakhla;Agadir;23:00;18:00;410
+Dakhla;Al Hoceima;12:30;05:15;815
+Dakhla;Azrou;12:30;01:40;750
+Dakhla;Azrou;23:00;06:00;660
+Dakhla;Beni Mellal;12:30;22:00;705
+Dakhla;Beni Mellal;12:30;23:00;705
+Dakhla;Berkane;12:30;07:25;850
+Dakhla;Casablanca FAR;12:30;15:45;615
+Dakhla;Casablanca FAR;15:00;22:00;615
+Dakhla;Casablanca Ain Sebaa;12:30;19:30;640
+Dakhla;Casablanca Ain Sebaa;15:00;19:30;640
+Dakhla;El Hajeb;12:30;00:40;730
+Dakhla;Errachidia;12:30;06:00;835
+Dakhla;Essaouira;12:30;17:00;480
+Dakhla;Essaouira;15:00;15:00;460
+Dakhla;Essaouira;17:00;17:00;490
+Dakhla;Fes;12:30;21:30;710
+Dakhla;Fes;12:30;23:00;715
+Dakhla;Fes;12:30;00:51;710
+Dakhla;Fes;12:30;01:50;715
+Dakhla;Fes;15:00;04:30;715
+Dakhla;Fes;23:00;07:45;690
+Dakhla;Fes;23:00;08:45;720
+Dakhla;Fes;23:00;09:15;775
+Dakhla;Fnidek;15:00;07:00;775
+Dakhla;Guelmim;12:30;03:45;350
+Dakhla;Guelmim;15:00;06:00;350
+Dakhla;Guelmim;17:00;07:45;355
+Dakhla;Guelmim;23:00;13:45;350
+Dakhla;Ifrane;23:00;06:30;670
+Dakhla;Kelaa Sraghna;23:00;00:15;555
+Dakhla;Kelaa Sraghna;23:00;03:55;555
+Dakhla;Kelaa Sraghna;23:00;03:55;
+Dakhla;Khenifra;23:00;04:45;645
+Dakhla;Khouribga;12:30;19:30;660
+Dakhla;Khouribga;12:30;20:45;660
+Dakhla;Laayoune;12:30;21:10;180
+Dakhla;Laayoune;15:00;23:20;180
+Dakhla;Laayoune;17:00;01:00;195
+Dakhla;Laayoune;23:00;07:00;180
+Dakhla;Larache;12:30;21:30;725
+Dakhla;Larache;23:00;08:35;725
+Errachidia;Agadir;06:30;20:30;285
+Errachidia;Agadir;06:30;21:00;285
+Errachidia;Agadir;06:30;21:20;285
+Errachidia;Agadir;06:30;00:15;280
+Errachidia;Agadir;06:30;01:00;285
+Errachidia;Agadir;22:15;17:30;495
+Errachidia;Agadir;22:15;20:00;440
+Errachidia;Agadir;22:15;20:30;450
+Errachidia;Agadir;22:15;21:20;450
+Errachidia;Agadir;22:15;22:00;420
+Errachidia;Al Hoceima;22:15;18:15;355
+Errachidia;Beni Mellal;22:15;14:00;315
+Errachidia;Beni Mellal;22:15;17:45;310
+Errachidia;Casablanca FAR;06:30;21:00;260
+Errachidia;Casablanca FAR;22:00;12:00;225
+Errachidia;Casablanca FAR;22:00;12:30;225
+Errachidia;Casablanca FAR;22:00;13:30;185
+Errachidia;Casablanca FAR;22:15;07:30;220
+Errachidia;Casablanca Ain Sebaa;22:00;11:45;225
+Errachidia;Casablanca Ain Sebaa;22:00;12:00;225
+Errachidia;Casablanca Ain Sebaa;22:15;06:50;220
+Errachidia;Casablanca Maarif;06:30;20:30;
+Errachidia;Casablanca Maarif;06:30;22:15;270
+Errachidia;Casablanca Maarif;06:30;23:35;270
+Errachidia;Casablanca Maarif;22:15;12:40;225
+Errachidia;Chefchaouen;22:00;11:40;210
+Errachidia;Chefchaouen;22:00;15:15;210
+Errachidia;Chefchaouen;22:15;21:00;375
+Errachidia;Dakhla;22:15;15:15;835
+Errachidia;El Hajeb;22:15;03:00;120
+Errachidia;Essaouira;22:15;18:00;360
+Errachidia;Essaouira;22:15;19:15;360
+Errachidia;Fes;22:00;05:15;130
+Errachidia;Fes;22:15;05:20;150
+Errachidia;Fes;22:15;08:45;155
+Errachidia;Guelmim;06:30;01:35;365
+Errachidia;Guelmim;06:30;04:20;360
+Errachidia;Guelmim;06:30;05:20;365
+Errachidia;Guelmim;22:15;00:50;520
+Errachidia;Guelmim;22:15;01:35;530
+Errachidia;Ifrane;22:00;07:20;155
+Errachidia;Kasbat Tadla;22:00;11:25;215
+Errachidia;Kasbat Tadla;22:15;16:40;300
+Errachidia;Kelaa Sraghna;22:00;14:35;270
+Errachidia;Khemisset;22:00;10:10;140
+Errachidia;Khemisset;22:15;10:10;145
+Errachidia;Khenifra;22:00;10:10;185
+Errachidia;Khouribga;22:15;11:00;270
+Errachidia;Khouribga;22:15;15:00;265
+Errachidia;Ksar El Kébir;22:15;11:10;225
+Errachidia;Larache;22:00;15:20;215
+Errachidia;Larache;22:15;11:50;235
+Errachidia;Larache;22:15;12:00;255
+Errachidia;Larache;22:15;15:05;320
+Errachidia;Marrakech;06:30;16:45;170
+Errachidia;Marrakech;22:15;12:35;310
+Errachidia;Marrakech;22:15;15:00;320
+Errachidia;Meknes;22:00;04:10;120
+Errachidia;Meknes;22:15;03:45;125
+Errachidia;Midelt;22:00;23:50;45
+Errachidia;Midelt;22:15;23:50;55
+Errachidia;Mrirt;22:00;08:50;175
+Errachidia;Nador;22:15;20:15;355
+Errachidia;Ouarzazate;06:30;12:00;95
+Errachidia;Oujda;22:15;18:30;380
+Errachidia;Oujda;22:15;21:30;450
+Errachidia;Rabat;22:15;05:50;185
+Errachidia;Safi;22:15;13:15;325
+Errachidia;Safi;22:15;15:15;320
+Errachidia;Safi;22:15;16:50;320
+Errachidia;Sidi Kacem;22:00;13:10;170
+Errachidia;Souk Larbaa;22:00;14:10;190
+Errachidia;Souk Larbaa;22:15;10:15;215
+Errachidia;Souk Larbaa;22:15;17:20;320
+Errachidia;Tan Tan;06:30;04:10;395
+Errachidia;Tan Tan;06:30;06:00;395
+Errachidia;Tan Tan;06:30;07:15;395
+Errachidia;Tan Tan;22:15;03:40;540
+Errachidia;Tan Tan;22:15;04:10;550
+Errachidia;Tanger;22:00;16:30;250
+Errachidia;Tanger;22:00;18:30;255
+Errachidia;Tanger;22:15;16:30;340
+Errachidia;Taounate;22:15;21:00;370
+Errachidia;Taza;22:15;14:40;315
+Errachidia;Taza;22:15;14:50;315
+Errachidia;Taza;22:15;17:10;315
+Errachidia;Taza;22:15;18:45;385
+Errachidia;Tetouan;22:00;13:30;230
+Errachidia;Tetouan;22:00;16:50;240
+Errachidia;Tetouan;22:00;17:30;230
+Errachidia;Tetouan;22:15;17:00;400
+Errachidia;Tiflet;22:00;11:00;145
+Errachidia;Tiflet;22:15;11:00;150
+Essaouira;Agadir;14:00;17:15;70
+Essaouira;Agadir;18:30;22:00;70
+Essaouira;Agadir;19:30;22:45;70
+Essaouira;Al Hoceima;07:45;05:15;345
+Essaouira;Azrou;07:45;01:40;280
+Essaouira;Azrou;11:30;01:40;275
+Essaouira;Azrou;14:00;06:00;320
+Essaouira;Azrou;17:00;06:00;215
+Essaouira;Beni Mellal;07:45;19:00;235
+Essaouira;Beni Mellal;07:45;22:00;235
+Essaouira;Beni Mellal;07:45;23:00;235
+Essaouira;Berkane;11:30;07:25;375
+Essaouira;Casablanca FAR;07:45;14:00;145
+Essaouira;Casablanca FAR;11:30;18:30;140
+Essaouira;Casablanca FAR;15:15;22:00;140
+Essaouira;Casablanca FAR;17:15;23:15;140
+Essaouira;Casablanca Maarif;07:45;13:40;145
+Essaouira;Casablanca Maarif;11:30;17:55;140
+Essaouira;Casablanca Maarif;15:15;21:20;140
+Essaouira;Casablanca Maarif;17:15;22:50;140
+Essaouira;Dakhla;12:45;15:15;575
+Essaouira;Dakhla;14:00;15:15;480
+Essaouira;Dakhla;14:00;17:45;480
+Essaouira;Dakhla;18:30;17:45;460
+Essaouira;El Hajeb;07:45;00:40;260
+Essaouira;El Hajeb;11:30;00:40;255
+Essaouira;Errachidia;07:45;06:00;365
+Essaouira;Errachidia;11:30;06:00;360
+Essaouira;Fes;07:45;19:45;270
+Essaouira;Fes;07:45;21:15;220
+Essaouira;Fes;07:45;21:30;240
+Essaouira;Fes;07:45;23:00;245
+Essaouira;Fes;11:30;00:51;235
+Essaouira;Fes;11:30;01:50;240
+Essaouira;Fes;11:30;04:30;240
+Essaouira;Fes;14:00;07:45;350
+Essaouira;Fes;15:15;04:30;240
+Essaouira;Fes;18:30;09:15;435
+Essaouira;Fnidek;11:30;07:00;300
+Essaouira;Fnidek;15:15;07:00;300
+Essaouira;Guelmim;12:45;00:50;265
+Essaouira;Guelmim;14:00;23:25;160
+Essaouira;Guelmim;14:00;00:50;160
+Essaouira;Guelmim;14:00;01:00;160
+Essaouira;Guelmim;14:00;01:20;160
+Essaouira;Guelmim;14:00;01:35;165
+Essaouira;Guelmim;17:00;04:20;265
+Essaouira;Guelmim;18:30;02:35;150
+Essaouira;Guelmim;19:30;04:20;160
+Essaouira;Guelmim;19:30;05:20;165
+Essaouira;Guelmim;19:30;07:00;160
+Essaouira;Ifrane;14:00;06:30;330
+Essaouira;Ifrane;17:00;06:30;225
+Essaouira;Kelaa Sraghna;14:00;00:15;215
+Essaouira;Kelaa Sraghna;17:00;00:15;110
+Essaouira;Kelaa Sraghna;18:30;03:55;215
+Essaouira;Khemisset;07:45;18:55;195
+Essaouira;Khemisset;19:30;13:45;
+Essaouira;Khenifra;14:00;04:45;305
+Essaouira;Khenifra;17:00;04:45;200
+Essaouira;Khouribga;07:45;17:20;190
+Essaouira;Khouribga;07:45;19:30;190
+Essaouira;Khouribga;07:45;20:45;190
+Essaouira;Laayoune;18:30;09:45;310
+Essaouira;Larache;07:45;21:30;255
+Essaouira;Larache;14:00;08:35;385
+Essaouira;Larache;18:30;08:35;385
+Essaouira;Marrakech;12:45;15:45;75
+Essaouira;Marrakech;17:00;19:30;75
+Essaouira;Meknes;07:45;20:00;210
+Essaouira;Meknes;07:45;21:45;235
+Essaouira;Meknes;07:45;23:40;235
+Essaouira;Meknes;11:30;23:40;230
+Essaouira;Meknes;11:30;03:05;230
+Essaouira;Meknes;15:15;03:05;230
+Essaouira;Midelt;07:45;03:40;315
+Essaouira;Midelt;11:30;03:40;310
+Essaouira;Mrirt;14:00;05:25;310
+Essaouira;Mrirt;17:00;05:25;205
+Essaouira;Nador;11:30;06:45;340
+Essaouira;Oujda;11:30;05:21;360
+Essaouira;Oujda;11:30;07:15;430
+Essaouira;Oujda;11:30;09:15;370
+Essaouira;Oujda;15:15;09:15;370
+Essaouira;Rabat;07:45;16:50;175
+Essaouira;Rabat;07:45;18:15;180
+Essaouira;Rabat;07:45;18:50;185
+Essaouira;Rabat;07:45;19:30;185
+Essaouira;Rabat;11:30;21:15;180
+Essaouira;Rabat;11:30;21:51;175
+Essaouira;Rabat;11:30;22:40;180
+Essaouira;Rabat;11:30;23:20;190
+Essaouira;Rabat;15:15;00:50;180
+Essaouira;Rabat;15:15;01:10;180
+Essaouira;Safi;07:45;09:45;60
+Essaouira;Safi;11:30;14:15;55
+Essaouira;Safi;15:15;17:20;55
+Essaouira;Safi;17:15;19:30;55
+Essaouira;Saidia;11:30;08:00;380
+Essaouira;Tan Tan;12:45;02:50;300
+Essaouira;Tan Tan;14:00;01:10;200
+Essaouira;Tan Tan;14:00;02:50;200
+Essaouira;Tan Tan;14:00;03:30;200
+Essaouira;Tan Tan;14:00;03:40;200
+Essaouira;Tan Tan;14:00;04:10;205
+Essaouira;Tan Tan;17:00;06:00;300
+Essaouira;Tan Tan;17:00;07:15;300
+Essaouira;Tan Tan;18:30;05:00;170
+Essaouira;Tan Tan;19:30;06:00;200
+Essaouira;Tan Tan;19:30;07:15;205
+Essaouira;Tanger;14:00;09:50;410
+Essaouira;Tanger;18:30;09:50;410
+Essaouira;Taza;07:45;01:30;310
+Essaouira;Taza;11:30;03:40;305
+Essaouira;Taza;11:30;06:30;305
+Essaouira;Taza;15:15;06:30;305
+Essaouira;Tetouan;07:45;23:00;295
+Essaouira;Tetouan;11:30;05:45;290
+Essaouira;Tetouan;14:00;11:00;420
+Essaouira;Tetouan;15:15;05:45;290
+Essaouira;Tetouan;18:30;11:00;420
+Essaouira;Tiflet;07:45;18:05;185
+Fes;Agadir;10:15;21:00;310
+Fes;Agadir;18:30;06:30;310
+Fes;Agadir;20:00;09:15;280
+Fes;Agadir;21:30;07:20;365
+Fes;Al Hoceima;12:30;18:15;115
+Fes;Al Hoceima;23:15;05:15;115
+Fes;Azrou;06:30;07:50;35
+Fes;Azrou;20:00;21:15;35
+Fes;Azrou;21:30;00:10;35
+Fes;Beni Mellal;06:30;12:46;100
+Fes;Beni Mellal;20:00;02:20;100
+Fes;Berkane;01:00;07:25;130
+Fes;Casablanca FAR;01:30;06:00;95
+Fes;Casablanca FAR;02:00;06:30;100
+Fes;Casablanca FAR;03:00;07:00;100
+Fes;Casablanca FAR;05:00;09:15;100
+Fes;Casablanca FAR;07:00;12:00;95
+Fes;Casablanca FAR;08:00;13:30;75
+Fes;Casablanca FAR;08:15;12:30;95
+Fes;Casablanca FAR;09:15;14:00;100
+Fes;Casablanca FAR;11:00;15:00;125
+Fes;Casablanca FAR;12:30;17:30;100
+Fes;Casablanca FAR;13:30;18:00;100
+Fes;Casablanca FAR;15:00;20:00;100
+Fes;Casablanca FAR;16:20;20:30;100
+Fes;Casablanca FAR;19:15;00:30;95
+Fes;Casablanca FAR;19:45;23:59;100
+Fes;Casablanca Ain Sebaa;01:30;05:30;95
+Fes;Casablanca Ain Sebaa;02:00;06:00;100
+Fes;Casablanca Ain Sebaa;03:00;06:20;
+Fes;Casablanca Ain Sebaa;05:00;08:45;100
+Fes;Casablanca Ain Sebaa;07:00;11:45;95
+Fes;Casablanca Ain Sebaa;08:00;13:05;75
+Fes;Casablanca Ain Sebaa;08:15;12:00;95
+Fes;Casablanca Ain Sebaa;09:15;13:30;100
+Fes;Casablanca Ain Sebaa;11:00;14:30;125
+Fes;Casablanca Ain Sebaa;12:30;17:00;100
+Fes;Casablanca Ain Sebaa;13:30;17:30;
+Fes;Casablanca Ain Sebaa;15:00;19:35;100
+Fes;Casablanca Ain Sebaa;16:20;20:00;
+Fes;Casablanca Ain Sebaa;19:45;23:30;100
+Fes;Chefchaouen;08:00;11:40;80
+Fes;Chefchaouen;11:00;15:15;80
+Fes;Chefchaouen;14:00;18:00;80
+Fes;Chefchaouen;16:15;20:30;80
+Fes;Chefchaouen;23:45;03:50;80
+Fes;Dakhla;01:30;15:15;710
+Fes;Dakhla;02:00;15:15;715
+Fes;Dakhla;03:00;15:15;715
+Fes;Dakhla;05:00;15:15;715
+Fes;Dakhla;05:00;17:45;715
+Fes;Dakhla;10:15;17:45;720
+Fes;Dakhla;18:30;07:05;730
+Fes;Dakhla;19:15;07:05;760
+Fes;Dakhla;20:00;07:05;700
+Fes;Dakhla;21:30;07:05;785
+Fes;El Hajeb;12:30;16:40;
+Fes;El Hajeb;21:30;00:40;
+Fes;Errachidia;18:30;06:00;155
+Fes;Errachidia;19:15;06:00;150
+Fes;Errachidia;21:30;04:50;130
+Fes;Essaouira;03:00;18:00;240
+Fes;Essaouira;05:00;18:00;240
+Fes;Essaouira;05:00;19:15;240
+Fes;Essaouira;07:00;22:00;240
+Fes;Essaouira;08:00;22:00;220
+Fes;Essaouira;08:15;22:00;240
+Fes;Essaouira;09:15;22:00;245
+Fes;Essaouira;11:00;22:00;270
+Fes;Essaouira;21:30;11:00;435
+Fes;Essaouira;21:30;11:15;340
+Fes;Fnidek;13:30;07:00;260
+Fes;Fnidek;15:00;07:00;260
+Fes;Fnidek;16:20;07:00;260
+Fes;Guelmim;02:00;20:15;410
+Fes;Guelmim;03:00;20:15;410
+Fes;Guelmim;08:15;01:35;405
+Fes;Guelmim;10:15;01:35;405
+Fes;Guelmim;10:15;02:35;400
+Fes;Guelmim;10:15;04:20;400
+Fes;Guelmim;11:00;05:20;435
+Fes;Guelmim;12:30;07:00;400
+Fes;Guelmim;13:30;07:00;400
+Fes;Guelmim;19:15;12:00;380
+Fes;Guelmim;21:30;14:50;460
+Fes;Ifrane;06:30;07:20;25
+Fes;Ifrane;20:00;20:45;25
+Fes;Kasbat Tadla;06:30;11:25;85
+Fes;Kasbat Tadla;20:00;01:35;85
+Fes;Kelaa Sraghna;06:30;14:35;140
+Fes;Kelaa Sraghna;20:00;05:25;140
+Fes;Khemisset;08:00;10:10;30
+Fes;Khemisset;19:15;21:30;50
+Fes;Khenifra;06:30;10:10;55
+Fes;Khenifra;20:00;23:30;55
+Fes;Khouribga;01:30;11:00;145
+Fes;Khouribga;02:00;11:00;150
+Fes;Khouribga;03:00;11:00;150
+Fes;Khouribga;07:00;15:00;140
+Fes;Khouribga;08:00;17:20;120
+Fes;Khouribga;08:15;17:20;140
+Fes;Khouribga;09:15;17:20;145
+Fes;Khouribga;10:15;19:30;155
+Fes;Khouribga;11:00;19:30;170
+Fes;Khouribga;12:30;20:45;145
+Fes;Ksar El Kébir;00:30;04:30;
+Fes;Ksar El Kébir;21:30;04:30;
+Fes;Ksar El Kébir;23:59;04:30;
+Fes;Laayoune;19:15;20:00;565
+Fes;Marrakech;06:30;16:00;170
+Fes;Marrakech;10:15;18:00;195
+Fes;Marrakech;18:30;02:45;195
+Fes;Marrakech;19:15;04:15;190
+Fes;Marrakech;20:00;06:00;170
+Fes;Marrakech;21:30;04:45;265
+Fes;Meknes;00:30;01:20;25
+Fes;Meknes;02:00;02:50;25
+Fes;Meknes;08:00;09:00;20
+Fes;Meknes;10:30;11:30;25
+Fes;Meknes;12:30;13:30;25
+Fes;Meknes;16:30;17:30;25
+Fes;Meknes;18:30;19:30;30
+Fes;Meknes;19:15;20:15;25
+Fes;Meknes;21:30;22:30;25
+Fes;Meknes;23:59;01:00;30
+Fes;Midelt;19:15;03:40;105
+Fes;Midelt;21:30;02:40;85
+Fes;Mrirt;06:30;08:50;45
+Fes;Mrirt;20:00;21:55;45
+Fes;Nador;02:00;06:45;125
+Fes;Nador;03:30;08:45;120
+Fes;Nador;15:15;20:15;125
+Fes;Ouarzazate;12:30;07:15;280
+Fes;Ouarzazate;13:30;07:15;280
+Fes;Ouarzazate;16:20;07:15;280
+Fes;Ouarzazate;18:30;16:00;455
+Fes;Ouarzazate;19:15;16:00;445
+Fes;Ouarzazate;21:30;12:00;225
+Fes;Ouarzazate;21:30;16:00;510
+Fes;Oujda;01:00;05:21;120
+Fes;Oujda;02:15;05:45;140
+Fes;Oujda;04:45;09:15;130
+Fes;Oujda;13:00;18:30;130
+Fes;Oujda;15:45;20:30;120
+Fes;Oujda;17:00;21:30;130
+Fes;Rabat;01:30;04:20;75
+Fes;Rabat;02:00;04:55;80
+Fes;Rabat;03:00;05:10;80
+Fes;Rabat;05:00;07:45;80
+Fes;Rabat;07:00;09:45;75
+Fes;Rabat;08:00;12:10;50
+Fes;Rabat;08:15;11:00;75
+Fes;Rabat;09:15;12:10;80
+Fes;Rabat;10:15;13:15;80
+Fes;Rabat;12:30;16:10;80
+Fes;Rabat;13:30;16:30;80
+Fes;Rabat;16:20;19:00;80
+Fes;Rabat;18:30;22:00;80
+Fes;Rabat;19:15;23:10;75
+Fes;Rabat;19:45;22:20;80
+Fes;Rabat;21:30;00:10;105
+Fes;Safi;01:30;13:15;200
+Fes;Safi;02:00;13:15;205
+Fes;Safi;03:00;13:15;205
+Fes;Safi;05:00;15:15;200
+Fes;Safi;08:15;19:45;200
+Fes;Safi;09:15;19:45;205
+Fes;Safi;11:00;19:45;230
+Fes;Safi;11:00;21:00;230
+Fes;Safi;12:30;23:15;205
+Fes;Safi;13:30;23:15;205
+Fes;Saidia;01:00;08:00;140
+Fes;Sidi Kacem;00:30;02:20;40
+Fes;Sidi Kacem;10:30;13:10;40
+Fes;Sidi Kacem;16:30;18:50;40
+Fes;Souk Larbaa;00:30;03:30;60
+Fes;Souk Larbaa;10:30;14:10;60
+Fes;Souk Larbaa;16:30;20:40;60
+Fes;Tan Tan;02:00;23:00;430
+Fes;Tan Tan;03:00;23:00;430
+Fes;Tan Tan;08:15;04:10;425
+Fes;Tan Tan;10:15;04:10;445
+Fes;Tan Tan;10:15;05:00;440
+Fes;Tan Tan;10:15;06:00;440
+Fes;Tan Tan;10:15;07:15;445
+Fes;Tan Tan;11:00;07:15;455
+Fes;Tan Tan;19:15;14:00;400
+Fes;Tan Tan;20:00;16:45;415
+Fes;Tan Tan;21:30;16:45;500
+Fes;Tanger;00:30;06:30;120
+Fes;Tanger;10:30;16:30;120
+Fes;Tanger;11:00;18:30;125
+Fes;Tanger;16:15;23:15;125
+Fes;Tanger;16:30;23:15;120
+Fes;Tanger;23:59;05:15;145
+Fes;Taounate;18:15;21:00;35
+Fes;Taza;02:00;03:40;50
+Fes;Taza;03:30;05:00;45
+Fes;Taza;04:45;06:30;50
+Fes;Taza;12:30;14:40;50
+Fes;Taza;13:00;14:50;50
+Fes;Taza;15:15;17:10;50
+Fes;Taza;15:45;17:30;45
+Fes;Taza;17:00;18:45;50
+Fes;Taza;19:45;21:15;50
+Fes;Taza;23:15;01:30;50
+Fes;Tetouan;08:00;13:30;100
+Fes;Tetouan;10:30;17:30;100
+Fes;Tetouan;11:00;16:50;110
+Fes;Tetouan;14:00;19:40;100
+Fes;Tetouan;16:15;22:00;110
+Fes;Tetouan;23:45;05:00;100
+Fes;Tetouan;23:59;06:15;140
+Fes;Tiflet;08:00;11:00;40
+Fnidek;Agadir;16:30;07:20;420
+Fnidek;Agadir;16:30;07:45;
+Fnidek;Casablanca FAR;16:30;23:20;160
+Fnidek;Casablanca Ain Sebaa;16:30;23:00;160
+Fnidek;Casablanca Maarif;16:30;01:00;
+Fnidek;Fes;16:30;02:00;160
+Fnidek;Fes;16:30;04:30;210
+Fnidek;Fes;16:30;05:20;120
+Fnidek;Guelmim;16:30;12:00;460
+Fnidek;Larache;16:30;21:40;80
+Fnidek;Larache;16:30;01:10;65
+Fnidek;Marrakech;16:30;04:15;270
+Fnidek;Marrakech;16:30;04:45;320
+Fnidek;Meknes;16:30;01:00;150
+Fnidek;Meknes;16:30;03:05;190
+Fnidek;Meknes;16:30;04:45;120
+Fnidek;Nador;16:30;06:45;300
+Fnidek;Oujda;16:30;05:45;290
+Fnidek;Rabat;16:30;21:50;130
+Fnidek;Tan Tan;16:30;14:00;485
+Fnidek;Tanger;16:30;20:10;55
+Fnidek;Taza;16:30;03:40;260
+Fnidek;Taza;16:30;06:30;260
+Fnidek;Tetouan;16:30;17:15;20
+Guelmim;Agadir;00:30;04:45;90
+Guelmim;Agadir;02:30;06:15;90
+Guelmim;Agadir;03:15;06:40;90
+Guelmim;Agadir;03:50;09:15;90
+Guelmim;Agadir;05:10;10:15;90
+Guelmim;Agadir;06:15;11:00;90
+Guelmim;Agadir;08:00;11:30;95
+Guelmim;Agadir;10:30;15:45;95
+Guelmim;Agadir;14:00;18:00;90
+Guelmim;Agadir;17:20;22:30;90
+Guelmim;Agadir;19:30;23:40;90
+Guelmim;Agadir;22:00;02:15;95
+Guelmim;Al Hoceima;03:50;05:15;500
+Guelmim;Azrou;00:30;17:45;390
+Guelmim;Azrou;00:30;21:15;405
+Guelmim;Azrou;03:50;01:40;435
+Guelmim;Azrou;10:30;06:00;335
+Guelmim;Azrou;14:00;06:00;340
+Guelmim;Azrou;17:20;15:20;330
+Guelmim;Azrou;19:30;15:20;330
+Guelmim;Azrou;19:30;17:45;430
+Guelmim;Azrou;22:00;15:20;335
+Guelmim;Azrou;22:00;17:45;440
+Guelmim;Beni Mellal;00:30;22:00;430
+Guelmim;Beni Mellal;03:50;22:00;390
+Guelmim;Beni Mellal;03:50;23:00;390
+Guelmim;Beni Mellal;17:20;06:00;250
+Guelmim;Beni Mellal;19:30;14:00;395
+Guelmim;Beni Mellal;22:00;17:45;400
+Guelmim;Beni Mellal;22:00;19:00;400
+Guelmim;Berkane;03:50;07:25;535
+Guelmim;Casablanca FAR;03:50;15:45;300
+Guelmim;Casablanca FAR;06:15;22:00;300
+Guelmim;Casablanca FAR;10:30;22:45;310
+Guelmim;Casablanca FAR;19:30;06:30;300
+Guelmim;Casablanca FAR;22:00;09:45;310
+Guelmim;Casablanca Ain Sebaa;00:30;16:05;365
+Guelmim;Casablanca Ain Sebaa;00:30;16:40;365
+Guelmim;Casablanca Ain Sebaa;00:30;16:45;
+Guelmim;Casablanca Ain Sebaa;00:30;17:00;370
+Guelmim;Casablanca Ain Sebaa;00:30;17:30;
+Guelmim;Casablanca Ain Sebaa;02:30;19:30;290
+Guelmim;Casablanca Ain Sebaa;03:15;19:30;320
+Guelmim;Casablanca Ain Sebaa;03:50;19:30;320
+Guelmim;Casablanca Ain Sebaa;05:10;19:30;320
+Guelmim;Casablanca Ain Sebaa;06:15;19:30;320
+Guelmim;Casablanca Ain Sebaa;19:30;09:30;
+Guelmim;Casablanca Ain Sebaa;22:00;10:20;310
+Guelmim;Casablanca Maarif;03:50;15:25;300
+Guelmim;Casablanca Maarif;06:15;21:20;
+Guelmim;Casablanca Maarif;10:30;22:15;310
+Guelmim;Casablanca Maarif;19:30;06:00;300
+Guelmim;Casablanca Maarif;22:00;09:15;310
+Guelmim;Chefchaouen;00:30;21:00;450
+Guelmim;Chefchaouen;22:00;21:00;465
+Guelmim;Dakhla;01:00;15:15;350
+Guelmim;Dakhla;01:30;17:45;350
+Guelmim;Dakhla;02:40;17:45;350
+Guelmim;Dakhla;15:10;07:05;355
+Guelmim;El Hajeb;00:30;16:40;405
+Guelmim;El Hajeb;00:30;16:40;
+Guelmim;El Hajeb;03:50;00:40;415
+Guelmim;El Hajeb;19:30;16:40;410
+Guelmim;El Hajeb;22:00;16:40;420
+Guelmim;Errachidia;03:50;06:00;520
+Guelmim;Errachidia;17:20;17:45;360
+Guelmim;Errachidia;19:30;17:45;360
+Guelmim;Errachidia;22:00;17:45;365
+Guelmim;Essaouira;00:30;11:00;160
+Guelmim;Essaouira;00:30;11:15;265
+Guelmim;Essaouira;02:30;11:00;160
+Guelmim;Essaouira;02:30;15:00;265
+Guelmim;Essaouira;03:15;11:00;160
+Guelmim;Essaouira;03:15;15:00;265
+Guelmim;Essaouira;03:50;17:00;160
+Guelmim;Essaouira;05:10;17:00;160
+Guelmim;Essaouira;06:15;15:00;165
+Guelmim;Essaouira;08:00;17:00;165
+Guelmim;Essaouira;22:00;11:00;165
+Guelmim;Fes;00:30;16:00;370
+Guelmim;Fes;02:30;20:30;400
+Guelmim;Fes;03:15;20:30;400
+Guelmim;Fes;03:50;21:30;395
+Guelmim;Fes;03:50;23:00;400
+Guelmim;Fes;14:00;07:45;370
+Guelmim;Fes;14:00;08:45;400
+Guelmim;Fes;17:20;09:15;455
+Guelmim;Fes;19:30;12:40;400
+Guelmim;Fes;19:30;13:00;400
+Guelmim;Fes;22:00;16:45;410
+Guelmim;Fnidek;06:15;07:00;460
+Guelmim;Fnidek;10:30;07:00;470
+Guelmim;Ifrane;00:30;17:00;385
+Guelmim;Ifrane;00:30;20:45;395
+Guelmim;Ifrane;10:30;06:30;345
+Guelmim;Ifrane;14:00;06:30;350
+Guelmim;Ifrane;17:20;15:50;340
+Guelmim;Ifrane;19:30;15:50;340
+Guelmim;Ifrane;19:30;17:00;425
+Guelmim;Ifrane;22:00;15:50;345
+Guelmim;Ifrane;22:00;17:00;435
+Guelmim;Kasbat Tadla;17:20;11:50;270
+Guelmim;Kasbat Tadla;19:30;11:50;270
+Guelmim;Kasbat Tadla;22:00;11:50;275
+Guelmim;Kasbat Tadla;22:00;16:40;390
+Guelmim;Kelaa Sraghna;10:30;00:15;230
+Guelmim;Kelaa Sraghna;14:00;00:15;235
+Guelmim;Kelaa Sraghna;17:20;03:55;240
+Guelmim;Kelaa Sraghna;19:30;08:50;225
+Guelmim;Kelaa Sraghna;22:00;08:50;230
+Guelmim;Khemisset;00:30;13:45;335
+Guelmim;Khemisset;22:00;18:55;360
+Guelmim;Khenifra;00:30;23:30;425
+Guelmim;Khenifra;10:30;04:45;320
+Guelmim;Khenifra;14:00;04:45;325
+Guelmim;Khenifra;17:20;13:50;315
+Guelmim;Khenifra;19:30;13:50;315
+Guelmim;Khenifra;22:00;13:50;320
+Guelmim;Khouribga;00:30;19:30;405
+Guelmim;Khouribga;03:50;19:30;345
+Guelmim;Khouribga;03:50;20:45;345
+Guelmim;Khouribga;17:20;10:25;295
+Guelmim;Khouribga;19:30;11:00;350
+Guelmim;Khouribga;22:00;15:00;355
+Guelmim;Khouribga;22:00;17:20;355
+Guelmim;Khouribga;22:00;19:30;410
+Guelmim;Laayoune;00:45;07:30;180
+Guelmim;Laayoune;01:00;07:45;180
+Guelmim;Laayoune;01:30;08:20;180
+Guelmim;Laayoune;01:50;08:00;190
+Guelmim;Laayoune;02:40;09:45;180
+Guelmim;Laayoune;02:45;10:45;180
+Guelmim;Laayoune;04:30;11:00;180
+Guelmim;Laayoune;05:30;12:30;190
+Guelmim;Laayoune;12:15;20:00;180
+Guelmim;Laayoune;15:10;22:35;190
+Guelmim;Laayoune;23:40;06:15;180
+Guelmim;Larache;00:30;18:30;400
+Guelmim;Larache;00:30;21:45;425
+Guelmim;Larache;03:50;21:30;410
+Guelmim;Larache;14:00;08:35;405
+Guelmim;Larache;19:30;12:00;410
+Guelmim;Larache;19:30;15:05;400
+Guelmim;Larache;22:00;15:05;410
+Guelmim;Larache;22:00;18:30;410
+Guelmim;Marrakech;00:30;08:00;190
+Guelmim;Marrakech;02:30;10:00;190
+Guelmim;Marrakech;03:15;11:10;190
+Guelmim;Marrakech;03:50;12:45;190
+Guelmim;Marrakech;10:30;19:00;195
+Guelmim;Marrakech;17:20;01:45;190
+Guelmim;Marrakech;19:30;02:45;190
+Guelmim;Marrakech;22:00;05:45;195
+Guelmim;Meknes;00:30;14:55;360
+Guelmim;Meknes;03:50;21:45;390
+Guelmim;Meknes;03:50;23:40;390
+Guelmim;Meknes;06:15;03:05;390
+Guelmim;Meknes;19:30;11:15;390
+Guelmim;Meknes;19:30;13:40;390
+Guelmim;Meknes;19:30;15:30;385
+Guelmim;Meknes;22:00;15:30;395
+Guelmim;Meknes;22:00;16:45;395
+Guelmim;Meknes;22:00;17:55;400
+Guelmim;Meknes;22:00;19:15;395
+Guelmim;Midelt;00:30;02:40;455
+Guelmim;Midelt;03:50;03:40;470
+Guelmim;Mrirt;00:30;21:55;415
+Guelmim;Mrirt;10:30;05:25;325
+Guelmim;Mrirt;14:00;05:25;330
+Guelmim;Mrirt;17:20;14:10;320
+Guelmim;Mrirt;19:30;14:10;320
+Guelmim;Mrirt;22:00;14:10;325
+Guelmim;Nador;03:50;06:45;500
+Guelmim;Nador;19:30;20:15;500
+Guelmim;Ouarzazate;00:30;16:00;
+Guelmim;Ouarzazate;02:30;16:00;
+Guelmim;Ouarzazate;03:15;16:00;
+Guelmim;Ouarzazate;03:50;16:00;
+Guelmim;Oujda;00:30;21:30;500
+Guelmim;Oujda;03:50;05:21;520
+Guelmim;Oujda;06:15;09:15;530
+Guelmim;Oujda;19:30;18:30;530
+Guelmim;Oujda;19:30;21:30;530
+Guelmim;Oujda;22:00;21:30;540
+Guelmim;Rabat;00:30;12:15;330
+Guelmim;Rabat;22:00;11:30;335
+Guelmim;Safi;03:15;14:00;205
+Guelmim;Safi;06:15;17:20;195
+Guelmim;Saidia;03:50;08:00;540
+Guelmim;Sidi Kacem;00:30;18:50;380
+Guelmim;Souk Larbaa;00:30;17:20;385
+Guelmim;Souk Larbaa;00:30;20:40;405
+Guelmim;Souk Larbaa;22:00;17:20;410
+Guelmim;Tan Tan;00:45;02:40;50
+Guelmim;Tan Tan;01:00;03:40;50
+Guelmim;Tan Tan;01:15;02:50;50
+Guelmim;Tan Tan;01:30;03:30;50
+Guelmim;Tan Tan;01:50;04:10;55
+Guelmim;Tan Tan;02:40;05:00;50
+Guelmim;Tan Tan;02:45;05:55;50
+Guelmim;Tan Tan;04:30;06:00;50
+Guelmim;Tan Tan;05:30;07:15;55
+Guelmim;Tan Tan;12:15;14:00;50
+Guelmim;Tan Tan;15:10;16:45;55
+Guelmim;Tan Tan;20:30;23:00;55
+Guelmim;Tan Tan;23:40;01:10;50
+Guelmim;Tanger;00:30;20:15;420
+Guelmim;Tanger;00:30;23:15;460
+Guelmim;Tanger;14:00;09:50;430
+Guelmim;Tanger;19:30;16:30;420
+Guelmim;Tanger;22:00;16:30;430
+Guelmim;Tanger;22:00;20:15;430
+Guelmim;Taounate;00:30;21:00;440
+Guelmim;Taounate;22:00;21:00;460
+Guelmim;Taza;00:30;18:45;420
+Guelmim;Taza;00:30;21:15;420
+Guelmim;Taza;03:50;01:30;465
+Guelmim;Taza;03:50;03:40;465
+Guelmim;Taza;06:15;06:30;465
+Guelmim;Taza;19:30;14:50;465
+Guelmim;Taza;19:30;17:10;465
+Guelmim;Taza;19:30;18:45;465
+Guelmim;Taza;22:00;18:45;475
+Guelmim;Taza;22:00;21:15;475
+Guelmim;Tetouan;03:50;23:00;450
+Guelmim;Tetouan;06:15;05:45;450
+Guelmim;Tetouan;10:30;05:45;460
+Guelmim;Tetouan;14:00;11:00;440
+Guelmim;Tetouan;19:30;14:00;450
+Guelmim;Tetouan;19:30;17:00;480
+Guelmim;Tetouan;22:00;17:00;490
+Guelmim;Tiflet;00:30;18:05;345
+Guelmim;Tiflet;22:00;18:05;350
+Ifrane;Agadir;06:35;21:00;335
+Ifrane;Agadir;07:30;20:00;260
+Ifrane;Agadir;07:30;20:15;
+Ifrane;Agadir;07:30;20:30;265
+Ifrane;Agadir;07:30;21:00;265
+Ifrane;Agadir;07:30;21:20;265
+Ifrane;Agadir;07:30;00:15;260
+Ifrane;Agadir;09:10;01:00;355
+Ifrane;Agadir;16:00;06:30;335
+Ifrane;Agadir;16:00;07:20;390
+Ifrane;Agadir;16:00;07:45;325
+Ifrane;Agadir;21:00;09:15;260
+Ifrane;Al Hoceima;06:35;18:15;140
+Ifrane;Al Hoceima;09:10;18:15;155
+Ifrane;Al Hoceima;16:00;05:15;140
+Ifrane;Azrou;07:30;07:50;15
+Ifrane;Azrou;17:15;17:45;15
+Ifrane;Azrou;21:00;21:15;15
+Ifrane;Beni Mellal;07:30;12:46;80
+Ifrane;Beni Mellal;21:00;02:20;80
+Ifrane;Casablanca FAR;06:35;12:30;120
+Ifrane;Casablanca FAR;06:35;14:00;125
+Ifrane;Casablanca FAR;09:10;14:00;125
+Ifrane;Casablanca FAR;16:00;23:59;125
+Ifrane;Casablanca Ain Sebaa;06:35;12:00;120
+Ifrane;Casablanca Ain Sebaa;06:35;13:30;125
+Ifrane;Casablanca Ain Sebaa;09:10;13:40;125
+Ifrane;Casablanca Ain Sebaa;16:00;23:30;125
+Ifrane;Casablanca Maarif;09:10;17:25;130
+Ifrane;Casablanca Maarif;09:10;17:25;
+Ifrane;Casablanca Maarif;09:10;17:30;125
+Ifrane;Casablanca Maarif;16:00;01:00;120
+Ifrane;Chefchaouen;06:35;15:15;105
+Ifrane;Chefchaouen;09:10;21:00;210
+Ifrane;Dakhla;07:30;15:15;650
+Ifrane;Dakhla;21:00;07:05;680
+Ifrane;El Hajeb;09:10;09:50;20
+Ifrane;Errachidia;09:10;06:00;345
+Ifrane;Errachidia;16:00;04:50;155
+Ifrane;Errachidia;21:00;17:45;320
+Ifrane;Essaouira;09:10;22:00;270
+Ifrane;Essaouira;21:00;11:15;225
+Ifrane;Essaouira;21:00;15:00;330
+Ifrane;Essaouira;21:00;17:00;330
+Ifrane;Fes;06:35;07:45;25
+Ifrane;Fes;16:00;17:30;25
+Ifrane;Guelmim;07:30;00:50;340
+Ifrane;Guelmim;07:30;01:00;340
+Ifrane;Guelmim;07:30;01:35;345
+Ifrane;Guelmim;07:30;04:20;340
+Ifrane;Guelmim;09:10;05:20;435
+Ifrane;Guelmim;09:10;07:00;425
+Ifrane;Guelmim;16:00;12:00;405
+Ifrane;Guelmim;21:00;14:50;355
+Ifrane;Guelmim;21:00;20:15;345
+Ifrane;Kasbat Tadla;07:30;11:25;65
+Ifrane;Kasbat Tadla;21:00;01:35;65
+Ifrane;Kelaa Sraghna;07:30;14:35;120
+Ifrane;Kelaa Sraghna;21:00;05:25;120
+Ifrane;Khemisset;16:00;21:30;75
+Ifrane;Khenifra;07:30;10:10;35
+Ifrane;Khenifra;21:00;23:30;35
+Ifrane;Khouribga;07:30;16:30;130
+Ifrane;Khouribga;07:30;19:20;125
+Ifrane;Khouribga;09:10;17:20;170
+Ifrane;Khouribga;09:10;19:30;170
+Ifrane;Khouribga;09:10;20:45;170
+Ifrane;Khouribga;21:00;06:50;125
+Ifrane;Laayoune;16:00;20:00;590
+Ifrane;Larache;06:35;15:20;110
+Ifrane;Larache;09:10;15:20;90
+Ifrane;Larache;09:10;18:30;160
+Ifrane;Marrakech;07:30;16:00;150
+Ifrane;Marrakech;21:00;06:00;150
+Ifrane;Meknes;09:10;10:15;25
+Ifrane;Midelt;16:00;02:40;110
+Ifrane;Mrirt;07:30;08:50;25
+Ifrane;Mrirt;21:00;21:55;25
+Ifrane;Nador;09:10;20:15;165
+Ifrane;Rabat;06:35;11:00;100
+Ifrane;Rabat;06:35;12:10;105
+Ifrane;Rabat;09:10;12:30;90
+Ifrane;Safi;09:10;19:45;230
+Ifrane;Safi;09:10;21:00;230
+Ifrane;Safi;09:10;23:15;230
+Ifrane;Safi;21:00;14:00;200
+Ifrane;Sidi Kacem;06:35;13:10;65
+Ifrane;Sidi Kacem;09:10;13:10;45
+Ifrane;Souk Larbaa;06:35;14:10;85
+Ifrane;Souk Larbaa;09:10;14:10;70
+Ifrane;Souk Larbaa;09:10;17:20;145
+Ifrane;Tan Tan;07:30;02:50;375
+Ifrane;Tan Tan;07:30;03:40;375
+Ifrane;Tan Tan;07:30;04:10;375
+Ifrane;Tan Tan;07:30;06:00;375
+Ifrane;Tan Tan;09:10;07:15;455
+Ifrane;Tan Tan;16:00;14:00;425
+Ifrane;Tan Tan;21:00;16:45;395
+Ifrane;Tan Tan;21:00;23:00;375
+Ifrane;Tanger;06:35;16:30;145
+Ifrane;Tanger;06:35;18:30;150
+Ifrane;Tanger;09:10;16:30;125
+Ifrane;Tanger;09:10;20:15;180
+Ifrane;Taounate;16:00;21:00;60
+Ifrane;Taza;06:35;14:40;75
+Ifrane;Taza;06:35;14:50;75
+Ifrane;Taza;09:10;14:40;100
+Ifrane;Taza;09:10;14:50;100
+Ifrane;Taza;09:10;17:10;100
+Ifrane;Taza;16:00;21:15;75
+Ifrane;Tiflet;09:10;18:05;105
+Kasbat Tadla;Agadir;01:45;09:15;180
+Kasbat Tadla;Agadir;11:30;20:00;190
+Kasbat Tadla;Agadir;11:30;20:15;
+Kasbat Tadla;Agadir;11:30;20:30;195
+Kasbat Tadla;Agadir;11:30;21:00;195
+Kasbat Tadla;Agadir;11:30;21:20;195
+Kasbat Tadla;Agadir;11:30;00:15;190
+Kasbat Tadla;Al Hoceima;12:00;05:15;200
+Kasbat Tadla;Azrou;01:45;06:00;85
+Kasbat Tadla;Azrou;12:00;15:20;55
+Kasbat Tadla;Beni Mellal;01:45;02:20;15
+Kasbat Tadla;Beni Mellal;11:30;12:46;15
+Kasbat Tadla;Beni Mellal;16:45;17:45;
+Kasbat Tadla;Berkane;13:45;07:25;315
+Kasbat Tadla;Casablanca FAR;13:45;17:50;80
+Kasbat Tadla;Casablanca FAR;16:45;22:00;
+Kasbat Tadla;Casablanca Ain Sebaa;01:45;09:30;105
+Kasbat Tadla;Casablanca Maarif;13:45;17:20;80
+Kasbat Tadla;Casablanca Maarif;16:45;21:30;
+Kasbat Tadla;Dakhla;01:45;07:05;600
+Kasbat Tadla;Dakhla;11:30;15:15;580
+Kasbat Tadla;El Hajeb;13:45;00:40;195
+Kasbat Tadla;Errachidia;01:45;17:45;250
+Kasbat Tadla;Errachidia;12:00;04:50;215
+Kasbat Tadla;Errachidia;13:45;06:00;300
+Kasbat Tadla;Essaouira;01:45;11:15;155
+Kasbat Tadla;Essaouira;01:45;15:00;250
+Kasbat Tadla;Essaouira;01:45;17:00;250
+Kasbat Tadla;Fes;12:00;17:30;85
+Kasbat Tadla;Fnidek;13:45;07:00;240
+Kasbat Tadla;Guelmim;01:45;14:50;275
+Kasbat Tadla;Guelmim;01:45;20:15;275
+Kasbat Tadla;Guelmim;11:30;00:50;270
+Kasbat Tadla;Guelmim;11:30;01:00;270
+Kasbat Tadla;Guelmim;11:30;01:35;275
+Kasbat Tadla;Guelmim;11:30;04:20;270
+Kasbat Tadla;Guelmim;13:45;07:00;380
+Kasbat Tadla;Ifrane;01:45;06:30;95
+Kasbat Tadla;Ifrane;12:00;15:50;65
+Kasbat Tadla;Kelaa Sraghna;01:45;05:25;45
+Kasbat Tadla;Kelaa Sraghna;11:30;14:35;45
+Kasbat Tadla;Khemisset;01:45;13:45;240
+Kasbat Tadla;Khemisset;12:00;21:30;135
+Kasbat Tadla;Khenifra;01:45;04:45;70
+Kasbat Tadla;Khenifra;12:00;13:50;40
+Kasbat Tadla;Khouribga;13:45;15:15;35
+Kasbat Tadla;Laayoune;12:00;20:00;650
+Kasbat Tadla;Marrakech;01:45;06:00;80
+Kasbat Tadla;Marrakech;11:30;16:00;80
+Kasbat Tadla;Meknes;12:00;19:30;115
+Kasbat Tadla;Meknes;12:00;20:15;110
+Kasbat Tadla;Meknes;12:00;22:30;110
+Kasbat Tadla;Midelt;12:00;02:40;170
+Kasbat Tadla;Midelt;13:45;03:40;250
+Kasbat Tadla;Mrirt;01:45;05:25;75
+Kasbat Tadla;Mrirt;12:00;14:10;45
+Kasbat Tadla;Nador;13:45;06:45;280
+Kasbat Tadla;Rabat;01:45;10:30;115
+Kasbat Tadla;Rabat;13:45;20:30;120
+Kasbat Tadla;Rabat;13:45;21:15;120
+Kasbat Tadla;Rabat;13:45;21:51;115
+Kasbat Tadla;Rabat;13:45;22:40;120
+Kasbat Tadla;Rabat;13:45;23:20;130
+Kasbat Tadla;Rabat;13:45;00:50;120
+Kasbat Tadla;Rabat;13:45;01:10;120
+Kasbat Tadla;Safi;01:45;14:00;130
+Kasbat Tadla;Safi;01:45;17:20;295
+Kasbat Tadla;Safi;13:45;23:15;185
+Kasbat Tadla;Saidia;13:45;08:00;320
+Kasbat Tadla;Tan Tan;01:45;16:45;315
+Kasbat Tadla;Tan Tan;01:45;23:00;305
+Kasbat Tadla;Tan Tan;11:30;02:50;305
+Kasbat Tadla;Tan Tan;11:30;03:40;305
+Kasbat Tadla;Tan Tan;11:30;04:10;305
+Kasbat Tadla;Tan Tan;11:30;06:00;305
+Kasbat Tadla;Taounate;12:00;21:00;120
+Kasbat Tadla;Taza;12:00;21:15;135
+Kasbat Tadla;Taza;12:00;01:30;135
+Kasbat Tadla;Tetouan;13:45;05:45;230
+Kelaa Sraghna;Agadir;05:30;09:15;145
+Kelaa Sraghna;Agadir;12:25;18:00;145
+Kelaa Sraghna;Al Hoceima;00:20;18:15;255
+Kelaa Sraghna;Al Hoceima;09:00;05:15;255
+Kelaa Sraghna;Azrou;00:20;06:00;110
+Kelaa Sraghna;Azrou;09:00;15:20;110
+Kelaa Sraghna;Beni Mellal;00:20;03:00;30
+Kelaa Sraghna;Beni Mellal;04:00;06:00;30
+Kelaa Sraghna;Beni Mellal;09:00;11:10;30
+Kelaa Sraghna;Casablanca FAR;00:20;09:00;120
+Kelaa Sraghna;Casablanca FAR;05:30;12:00;135
+Kelaa Sraghna;Casablanca FAR;05:30;13:45;165
+Kelaa Sraghna;Casablanca FAR;12:25;19:05;135
+Kelaa Sraghna;Casablanca FAR;12:25;19:30;125
+Kelaa Sraghna;Casablanca FAR;12:25;20:00;125
+Kelaa Sraghna;Casablanca FAR;12:25;21:00;125
+Kelaa Sraghna;Casablanca FAR;14:45;20:00;125
+Kelaa Sraghna;Casablanca FAR;14:45;21:00;125
+Kelaa Sraghna;Casablanca FAR;14:45;22:45;135
+Kelaa Sraghna;Casablanca Ain Sebaa;00:20;09:30;120
+Kelaa Sraghna;Casablanca Ain Sebaa;00:20;12:00;235
+Kelaa Sraghna;Casablanca Ain Sebaa;12:25;19:30;135
+Kelaa Sraghna;Casablanca Maarif;05:30;11:15;135
+Kelaa Sraghna;Casablanca Maarif;05:30;13:15;165
+Kelaa Sraghna;Casablanca Maarif;12:25;18:30;135
+Kelaa Sraghna;Casablanca Maarif;12:25;19:00;125
+Kelaa Sraghna;Casablanca Maarif;12:25;19:30;125
+Kelaa Sraghna;Casablanca Maarif;14:45;19:30;125
+Kelaa Sraghna;Casablanca Maarif;14:45;20:30;
+Kelaa Sraghna;Casablanca Maarif;14:45;22:15;135
+Kelaa Sraghna;Dakhla;05:30;07:05;565
+Kelaa Sraghna;Dakhla;12:25;15:15;535
+Kelaa Sraghna;Dakhla;12:25;15:15;
+Kelaa Sraghna;Dakhla;12:25;17:45;555
+Kelaa Sraghna;Dakhla;12:25;17:45;
+Kelaa Sraghna;Dakhla;14:45;15:15;535
+Kelaa Sraghna;Errachidia;05:30;17:45;205
+Kelaa Sraghna;Essaouira;05:30;11:15;110
+Kelaa Sraghna;Essaouira;05:30;15:00;215
+Kelaa Sraghna;Fes;00:20;07:45;140
+Kelaa Sraghna;Fes;09:00;17:30;140
+Kelaa Sraghna;Guelmim;05:30;14:50;240
+Kelaa Sraghna;Guelmim;05:30;20:15;230
+Kelaa Sraghna;Guelmim;12:25;23:25;240
+Kelaa Sraghna;Guelmim;14:45;00:50;225
+Kelaa Sraghna;Guelmim;14:45;01:00;225
+Kelaa Sraghna;Guelmim;14:45;01:35;230
+Kelaa Sraghna;Guelmim;14:45;04:20;225
+Kelaa Sraghna;Ifrane;00:20;06:30;120
+Kelaa Sraghna;Ifrane;09:00;15:50;120
+Kelaa Sraghna;Kasbat Tadla;09:00;11:50;45
+Kelaa Sraghna;Khemisset;05:30;13:45;195
+Kelaa Sraghna;Khemisset;09:00;21:30;190
+Kelaa Sraghna;Khouribga;00:20;06:50;75
+Kelaa Sraghna;Khouribga;00:20;10:25;75
+Kelaa Sraghna;Khouribga;04:00;10:25;75
+Kelaa Sraghna;Khouribga;09:00;15:15;75
+Kelaa Sraghna;Khouribga;09:00;16:30;80
+Kelaa Sraghna;Laayoune;12:25;06:15;405
+Kelaa Sraghna;Larache;00:20;15:20;225
+Kelaa Sraghna;Larache;12:25;08:35;460
+Kelaa Sraghna;Marrakech;05:30;06:00;35
+Kelaa Sraghna;Marrakech;12:25;14:15;35
+Kelaa Sraghna;Marrakech;14:45;16:00;35
+Kelaa Sraghna;Meknes;00:20;11:30;165
+Kelaa Sraghna;Meknes;00:20;13:30;165
+Kelaa Sraghna;Meknes;09:00;19:30;170
+Kelaa Sraghna;Meknes;09:00;20:15;165
+Kelaa Sraghna;Meknes;09:00;22:30;165
+Kelaa Sraghna;Midelt;09:00;02:40;225
+Kelaa Sraghna;Mrirt;00:20;05:25;100
+Kelaa Sraghna;Mrirt;09:00;14:10;100
+Kelaa Sraghna;Oujda;00:20;18:30;270
+Kelaa Sraghna;Rabat;00:20;10:30;130
+Kelaa Sraghna;Rabat;05:30;12:15;175
+Kelaa Sraghna;Rabat;12:25;20:30;185
+Kelaa Sraghna;Safi;05:30;14:00;85
+Kelaa Sraghna;Safi;05:30;17:20;260
+Kelaa Sraghna;Safi;05:30;19:30;260
+Kelaa Sraghna;Sidi Kacem;00:20;13:10;180
+Kelaa Sraghna;Souk Larbaa;00:20;14:10;200
+Kelaa Sraghna;Tan Tan;05:30;16:45;280
+Kelaa Sraghna;Tan Tan;05:30;23:00;260
+Kelaa Sraghna;Tan Tan;12:25;01:10;265
+Kelaa Sraghna;Tan Tan;14:45;02:50;260
+Kelaa Sraghna;Tan Tan;14:45;03:40;260
+Kelaa Sraghna;Tan Tan;14:45;04:10;260
+Kelaa Sraghna;Tan Tan;14:45;06:00;260
+Kelaa Sraghna;Tanger;00:20;16:30;260
+Kelaa Sraghna;Tanger;00:20;18:30;265
+Kelaa Sraghna;Tanger;12:25;09:50;485
+Kelaa Sraghna;Taounate;09:00;21:00;175
+Kelaa Sraghna;Taza;00:20;14:40;190
+Kelaa Sraghna;Taza;00:20;14:50;190
+Kelaa Sraghna;Taza;09:00;21:15;190
+Kelaa Sraghna;Taza;09:00;01:30;190
+Kelaa Sraghna;Tetouan;00:20;16:50;250
+Kelaa Sraghna;Tetouan;00:20;17:30;240
+Kelaa Sraghna;Tetouan;12:25;11:00;495
+Khemisset;Agadir;10:20;01:00;280
+Khemisset;Agadir;10:20;03:00;270
+Khemisset;Agadir;14:00;06:30;360
+Khemisset;Azrou;14:00;17:45;50
+Khemisset;Azrou;19:00;00:10;50
+Khemisset;Beni Mellal;10:20;19:00;140
+Khemisset;Beni Mellal;10:20;22:00;140
+Khemisset;Beni Mellal;10:20;23:00;140
+Khemisset;Berkane;19:00;07:25;160
+Khemisset;Casablanca FAR;10:20;13:30;50
+Khemisset;Casablanca FAR;21:40;00:30;65
+Khemisset;Casablanca Ain Sebaa;10:20;13:05;50
+Khemisset;Casablanca Maarif;21:40;01:00;65
+Khemisset;Dakhla;21:40;07:05;725
+Khemisset;El Hajeb;14:00;16:40;
+Khemisset;Errachidia;19:00;04:50;140
+Khemisset;Errachidia;19:00;06:00;145
+Khemisset;Essaouira;10:20;22:00;195
+Khemisset;Essaouira;21:40;11:15;235
+Khemisset;Essaouira;21:40;15:00;
+Khemisset;Essaouira;21:40;17:00;
+Khemisset;Fes;14:00;16:00;50
+Khemisset;Fes;19:00;21:15;30
+Khemisset;Guelmim;10:20;05:20;360
+Khemisset;Guelmim;10:20;07:00;350
+Khemisset;Guelmim;21:40;12:00;340
+Khemisset;Ifrane;14:00;17:00;45
+Khemisset;Kasbat Tadla;14:00;01:35;135
+Khemisset;Kasbat Tadla;21:40;11:50;240
+Khemisset;Kelaa Sraghna;14:00;05:25;190
+Khemisset;Kelaa Sraghna;21:40;08:50;195
+Khemisset;Khenifra;14:00;23:30;105
+Khemisset;Khouribga;10:20;17:20;95
+Khemisset;Khouribga;10:20;19:30;95
+Khemisset;Khouribga;10:20;20:45;95
+Khemisset;Ksar El Kébir;19:00;04:30;
+Khemisset;Laayoune;21:40;20:00;530
+Khemisset;Larache;10:20;18:30;95
+Khemisset;Larache;10:20;21:30;160
+Khemisset;Larache;14:00;21:45;85
+Khemisset;Larache;19:00;03:30;130
+Khemisset;Larache;19:00;05:10;85
+Khemisset;Marrakech;10:20;18:00;150
+Khemisset;Marrakech;10:20;19:45;180
+Khemisset;Marrakech;10:20;21:30;150
+Khemisset;Marrakech;21:40;04:15;160
+Khemisset;Midelt;14:00;02:40;135
+Khemisset;Midelt;19:00;02:40;95
+Khemisset;Midelt;19:00;03:40;100
+Khemisset;Mrirt;14:00;21:55;95
+Khemisset;Nador;19:00;06:45;155
+Khemisset;Ouarzazate;21:40;16:00;
+Khemisset;Oujda;14:00;21:30;180
+Khemisset;Oujda;19:00;05:21;150
+Khemisset;Oujda;19:00;05:45;180
+Khemisset;Rabat;10:20;12:10;25
+Khemisset;Rabat;21:40;23:10;35
+Khemisset;Safi;10:20;19:45;155
+Khemisset;Safi;10:20;21:00;155
+Khemisset;Safi;10:20;23:15;155
+Khemisset;Saidia;19:00;08:00;170
+Khemisset;Souk Larbaa;10:20;17:20;80
+Khemisset;Souk Larbaa;14:00;20:40;65
+Khemisset;Souk Larbaa;19:00;03:30;65
+Khemisset;Tan Tan;10:20;07:15;380
+Khemisset;Tan Tan;21:40;14:00;375
+Khemisset;Tanger;10:20;20:15;115
+Khemisset;Tanger;14:00;23:15;120
+Khemisset;Tanger;19:00;05:15;145
+Khemisset;Tanger;19:00;06:30;120
+Khemisset;Taounate;10:20;21:00;135
+Khemisset;Taounate;14:00;21:00;85
+Khemisset;Taza;14:00;18:45;100
+Khemisset;Taza;14:00;21:15;100
+Khemisset;Taza;19:00;01:30;95
+Khemisset;Tetouan;10:20;23:00;200
+Khemisset;Tetouan;19:00;05:00;130
+Khemisset;Tetouan;19:00;06:15;150
+Khemisset;Tiflet;10:20;11:00;15
+Khenifra;Agadir;05:00;21:00;365
+Khenifra;Agadir;10:15;20:00;235
+Khenifra;Agadir;10:15;20:30;240
+Khenifra;Agadir;10:15;21:00;240
+Khenifra;Agadir;10:15;21:20;240
+Khenifra;Agadir;10:15;00:15;235
+Khenifra;Agadir;23:45;09:15;235
+Khenifra;Al Hoceima;05:00;18:15;170
+Khenifra;Al Hoceima;14:00;05:15;170
+Khenifra;Azrou;05:00;06:00;25
+Khenifra;Azrou;14:00;15:20;25
+Khenifra;Beni Mellal;10:15;12:46;55
+Khenifra;Beni Mellal;23:45;02:20;55
+Khenifra;Casablanca FAR;05:00;12:30;150
+Khenifra;Casablanca FAR;05:00;14:00;155
+Khenifra;Casablanca FAR;05:00;15:00;180
+Khenifra;Casablanca FAR;10:15;19:30;150
+Khenifra;Casablanca FAR;10:15;20:00;215
+Khenifra;Casablanca FAR;10:15;21:00;215
+Khenifra;Casablanca FAR;10:15;22:00;145
+Khenifra;Casablanca FAR;14:00;23:59;155
+Khenifra;Casablanca FAR;14:00;00:30;150
+Khenifra;Casablanca FAR;23:45;09:00;145
+Khenifra;Casablanca Ain Sebaa;05:00;12:00;150
+Khenifra;Casablanca Ain Sebaa;05:00;13:30;155
+Khenifra;Casablanca Ain Sebaa;05:00;14:30;180
+Khenifra;Casablanca Ain Sebaa;14:00;23:30;155
+Khenifra;Casablanca Ain Sebaa;23:45;09:30;145
+Khenifra;Casablanca Maarif;10:15;18:45;150
+Khenifra;Casablanca Maarif;10:15;19:30;215
+Khenifra;Casablanca Maarif;10:15;20:30;
+Khenifra;Casablanca Maarif;10:15;21:30;145
+Khenifra;Casablanca Maarif;10:15;22:15;225
+Khenifra;Casablanca Maarif;10:15;23:35;225
+Khenifra;Casablanca Maarif;14:00;01:00;150
+Khenifra;Casablanca Maarif;23:45;08:40;145
+Khenifra;Casablanca Maarif;23:45;11:15;225
+Khenifra;Casablanca Maarif;23:45;13:15;255
+Khenifra;Chefchaouen;05:00;15:15;135
+Khenifra;Dakhla;10:15;15:15;625
+Khenifra;Dakhla;23:45;07:05;655
+Khenifra;Essaouira;23:45;11:15;200
+Khenifra;Essaouira;23:45;15:00;305
+Khenifra;Essaouira;23:45;17:00;305
+Khenifra;Fes;05:00;07:45;55
+Khenifra;Fes;14:00;17:30;55
+Khenifra;Guelmim;10:15;00:50;315
+Khenifra;Guelmim;10:15;01:00;315
+Khenifra;Guelmim;10:15;01:35;320
+Khenifra;Guelmim;10:15;04:20;315
+Khenifra;Guelmim;14:00;12:00;435
+Khenifra;Guelmim;23:45;14:50;330
+Khenifra;Guelmim;23:45;20:15;320
+Khenifra;Ifrane;05:00;06:30;35
+Khenifra;Ifrane;14:00;15:50;35
+Khenifra;Kasbat Tadla;10:15;11:25;40
+Khenifra;Kasbat Tadla;23:45;01:35;40
+Khenifra;Kelaa Sraghna;10:15;14:35;90
+Khenifra;Kelaa Sraghna;23:45;05:25;90
+Khenifra;Khemisset;14:00;21:30;105
+Khenifra;Khouribga;10:15;16:30;105
+Khenifra;Khouribga;10:15;19:20;100
+Khenifra;Khouribga;23:45;06:50;100
+Khenifra;Laayoune;14:00;20:00;620
+Khenifra;Larache;05:00;15:20;140
+Khenifra;Marrakech;10:15;16:00;125
+Khenifra;Marrakech;23:45;06:00;125
+Khenifra;Meknes;05:00;11:30;80
+Khenifra;Meknes;05:00;13:30;80
+Khenifra;Meknes;14:00;19:30;85
+Khenifra;Meknes;14:00;20:15;80
+Khenifra;Meknes;14:00;22:30;80
+Khenifra;Midelt;14:00;02:40;140
+Khenifra;Mrirt;05:00;05:25;
+Khenifra;Mrirt;14:00;14:10;15
+Khenifra;Oujda;05:00;18:30;185
+Khenifra;Rabat;05:00;11:00;130
+Khenifra;Rabat;05:00;12:10;135
+Khenifra;Rabat;05:00;13:15;135
+Khenifra;Rabat;14:00;22:00;135
+Khenifra;Rabat;14:00;22:20;135
+Khenifra;Rabat;14:00;23:10;130
+Khenifra;Rabat;14:00;00:10;160
+Khenifra;Safi;23:45;14:00;175
+Khenifra;Safi;23:45;17:20;350
+Khenifra;Safi;23:45;19:30;350
+Khenifra;Sidi Kacem;05:00;13:10;95
+Khenifra;Souk Larbaa;05:00;14:10;115
+Khenifra;Tan Tan;10:15;02:50;350
+Khenifra;Tan Tan;10:15;03:40;350
+Khenifra;Tan Tan;10:15;04:10;350
+Khenifra;Tan Tan;10:15;06:00;350
+Khenifra;Tan Tan;14:00;14:00;455
+Khenifra;Tan Tan;23:45;16:45;370
+Khenifra;Tan Tan;23:45;23:00;350
+Khenifra;Tanger;05:00;16:30;175
+Khenifra;Tanger;05:00;18:30;180
+Khenifra;Taounate;14:00;21:00;90
+Khenifra;Taza;05:00;14:40;105
+Khenifra;Taza;05:00;14:50;105
+Khenifra;Taza;14:00;21:15;105
+Khenifra;Taza;14:00;01:30;105
+Khenifra;Tetouan;05:00;16:50;165
+Khenifra;Tetouan;05:00;17:30;155
+Khouribga;Al Hoceima;10:30;05:15;245
+Khouribga;Azrou;07:00;17:45;175
+Khouribga;Azrou;15:30;01:40;180
+Khouribga;Azrou;19:45;06:00;115
+Khouribga;Azrou;21:00;06:00;115
+Khouribga;Beni Mellal;11:15;14:00;50
+Khouribga;Beni Mellal;15:15;17:45;45
+Khouribga;Beni Mellal;17:30;19:00;45
+Khouribga;Beni Mellal;19:45;22:00;45
+Khouribga;Beni Mellal;21:00;23:00;45
+Khouribga;Berkane;15:30;07:25;280
+Khouribga;Berkane;16:40;07:25;285
+Khouribga;Casablanca FAR;07:00;09:00;45
+Khouribga;Casablanca FAR;10:30;12:45;45
+Khouribga;Casablanca FAR;15:30;17:50;45
+Khouribga;Casablanca FAR;16:40;19:30;50
+Khouribga;Casablanca FAR;19:45;22:00;45
+Khouribga;Casablanca Ain Sebaa;07:00;09:30;45
+Khouribga;Casablanca Maarif;07:00;08:40;45
+Khouribga;Casablanca Maarif;10:30;12:10;45
+Khouribga;Casablanca Maarif;15:30;17:20;45
+Khouribga;Casablanca Maarif;16:40;18:45;50
+Khouribga;Casablanca Maarif;19:45;21:30;45
+Khouribga;Chefchaouen;07:00;21:00;200
+Khouribga;Dakhla;07:00;15:15;660
+Khouribga;Dakhla;07:00;17:45;660
+Khouribga;El Hajeb;07:00;16:40;155
+Khouribga;El Hajeb;15:30;00:40;160
+Khouribga;Errachidia;15:30;06:00;265
+Khouribga;Essaouira;07:00;18:00;185
+Khouribga;Essaouira;07:00;19:15;185
+Khouribga;Essaouira;10:30;22:00;190
+Khouribga;Fes;07:00;15:00;145
+Khouribga;Fes;07:00;16:00;150
+Khouribga;Fes;07:00;16:45;145
+Khouribga;Fes;10:30;19:00;145
+Khouribga;Fes;10:30;19:45;170
+Khouribga;Fes;15:30;00:51;140
+Khouribga;Fes;15:30;01:50;145
+Khouribga;Fes;16:40;00:51;145
+Khouribga;Fes;16:40;01:50;150
+Khouribga;Fes;19:45;04:30;145
+Khouribga;Fnidek;15:30;07:00;205
+Khouribga;Fnidek;16:40;07:00;210
+Khouribga;Fnidek;19:45;07:00;205
+Khouribga;Guelmim;07:00;00:50;345
+Khouribga;Guelmim;07:00;01:35;355
+Khouribga;Guelmim;07:00;02:35;345
+Khouribga;Guelmim;07:00;05:20;410
+Khouribga;Guelmim;10:30;05:20;355
+Khouribga;Guelmim;15:30;07:00;345
+Khouribga;Guelmim;16:40;12:00;350
+Khouribga;Guelmim;19:45;12:00;345
+Khouribga;Ifrane;07:00;17:00;170
+Khouribga;Ifrane;19:45;06:30;125
+Khouribga;Ifrane;21:00;06:30;125
+Khouribga;Kasbat Tadla;15:15;16:40;35
+Khouribga;Kelaa Sraghna;19:45;05:25;75
+Khouribga;Kelaa Sraghna;21:00;05:25;75
+Khouribga;Khemisset;07:00;13:45;110
+Khouribga;Khemisset;10:30;18:55;95
+Khouribga;Khenifra;19:45;04:45;100
+Khouribga;Khenifra;21:00;04:45;100
+Khouribga;Larache;07:00;15:05;145
+Khouribga;Larache;07:00;18:30;145
+Khouribga;Larache;10:30;18:30;145
+Khouribga;Larache;10:30;21:30;155
+Khouribga;Marrakech;07:00;15:00;145
+Khouribga;Marrakech;07:00;16:00;135
+Khouribga;Marrakech;07:00;16:35;145
+Khouribga;Marrakech;10:30;18:00;145
+Khouribga;Marrakech;10:30;19:45;175
+Khouribga;Marrakech;15:30;23:30;135
+Khouribga;Marrakech;15:30;00:20;145
+Khouribga;Marrakech;16:40;00:20;150
+Khouribga;Marrakech;19:45;02:30;145
+Khouribga;Marrakech;19:45;04:15;135
+Khouribga;Meknes;07:00;13:40;135
+Khouribga;Meknes;07:00;14:55;130
+Khouribga;Meknes;07:00;15:30;130
+Khouribga;Meknes;07:00;16:45;130
+Khouribga;Meknes;07:00;17:55;135
+Khouribga;Meknes;10:30;17:55;135
+Khouribga;Meknes;10:30;20:00;110
+Khouribga;Meknes;15:30;23:40;135
+Khouribga;Meknes;16:40;03:05;140
+Khouribga;Meknes;19:45;03:05;135
+Khouribga;Midelt;15:30;03:40;215
+Khouribga;Mrirt;19:45;05:25;105
+Khouribga;Mrirt;21:00;05:25;105
+Khouribga;Nador;07:00;20:15;245
+Khouribga;Nador;15:30;06:45;245
+Khouribga;Nador;16:40;06:45;250
+Khouribga;Oujda;07:00;21:30;275
+Khouribga;Oujda;15:30;05:21;265
+Khouribga;Oujda;15:30;07:15;335
+Khouribga;Oujda;15:30;09:15;275
+Khouribga;Oujda;16:40;05:21;270
+Khouribga;Oujda;16:40;07:15;340
+Khouribga;Oujda;16:40;09:15;280
+Khouribga;Oujda;19:45;09:15;275
+Khouribga;Rabat;07:00;10:30;75
+Khouribga;Rabat;10:30;15:20;85
+Khouribga;Rabat;10:30;15:45;80
+Khouribga;Rabat;15:30;20:30;85
+Khouribga;Rabat;15:30;21:15;85
+Khouribga;Rabat;16:40;21:51;85
+Khouribga;Rabat;19:45;00:50;85
+Khouribga;Rabat;19:45;01:10;85
+Khouribga;Safi;07:00;15:15;145
+Khouribga;Safi;07:00;16:50;145
+Khouribga;Safi;10:30;19:45;150
+Khouribga;Safi;10:30;21:00;150
+Khouribga;Safi;15:30;23:15;150
+Khouribga;Saidia;15:30;08:00;285
+Khouribga;Saidia;16:40;08:00;290
+Khouribga;Souk Larbaa;07:00;17:20;145
+Khouribga;Tan Tan;07:00;03:40;365
+Khouribga;Tan Tan;07:00;04:10;375
+Khouribga;Tan Tan;07:00;05:00;365
+Khouribga;Tan Tan;07:00;07:15;435
+Khouribga;Tan Tan;10:30;07:15;375
+Khouribga;Tan Tan;16:40;14:00;370
+Khouribga;Tan Tan;19:45;14:00;365
+Khouribga;Tanger;07:00;16:30;165
+Khouribga;Tanger;07:00;20:15;165
+Khouribga;Tanger;10:30;20:15;165
+Khouribga;Taounate;07:00;21:00;195
+Khouribga;Taza;07:00;17:10;210
+Khouribga;Taza;07:00;18:45;210
+Khouribga;Taza;07:00;21:15;210
+Khouribga;Taza;10:30;21:15;210
+Khouribga;Taza;10:30;01:30;210
+Khouribga;Taza;15:30;03:40;210
+Khouribga;Taza;15:30;06:30;210
+Khouribga;Taza;16:40;03:40;215
+Khouribga;Taza;16:40;06:30;215
+Khouribga;Taza;19:45;06:30;210
+Khouribga;Tetouan;07:00;17:00;225
+Khouribga;Tetouan;10:30;23:00;195
+Khouribga;Tetouan;15:30;05:45;195
+Khouribga;Tetouan;16:40;05:45;200
+Khouribga;Tetouan;19:45;05:45;195
+Khouribga;Tiflet;10:30;18:05;85
+Ksar El Kébir;Agadir;11:15;05:30;390
+Ksar El Kébir;Agadir;18:00;05:30;280
+Ksar El Kébir;Agadir;18:00;06:10;340
+Ksar El Kébir;Agadir;18:00;06:30;295
+Ksar El Kébir;Agadir;18:00;07:20;330
+Ksar El Kébir;Agadir;18:00;07:45;
+Ksar El Kébir;Azrou;18:00;01:40;140
+Ksar El Kébir;Berkane;18:00;07:25;240
+Ksar El Kébir;Casablanca FAR;18:00;22:00;65
+Ksar El Kébir;Casablanca Ain Sebaa;18:00;21:20;65
+Ksar El Kébir;Casablanca Maarif;18:00;23:10;80
+Ksar El Kébir;Casablanca Maarif;18:00;23:15;75
+Ksar El Kébir;Casablanca Maarif;18:00;01:00;
+Ksar El Kébir;Chefchaouen;04:40;15:00;
+Ksar El Kébir;Chefchaouen;11:15;18:00;65
+Ksar El Kébir;El Hajeb;18:00;00:40;
+Ksar El Kébir;Errachidia;18:00;06:00;225
+Ksar El Kébir;Fes;04:40;16:00;
+Ksar El Kébir;Fes;18:00;00:51;115
+Ksar El Kébir;Fes;18:00;01:50;120
+Ksar El Kébir;Fes;18:00;04:30;120
+Ksar El Kébir;Fnidek;18:00;07:00;170
+Ksar El Kébir;Guelmim;18:00;12:00;370
+Ksar El Kébir;Larache;04:40;05:10;
+Ksar El Kébir;Larache;11:15;11:50;15
+Ksar El Kébir;Marrakech;18:00;02:30;190
+Ksar El Kébir;Marrakech;18:00;02:45;190
+Ksar El Kébir;Marrakech;18:00;04:15;180
+Ksar El Kébir;Marrakech;18:00;04:45;230
+Ksar El Kébir;Meknes;18:00;23:40;100
+Ksar El Kébir;Meknes;18:00;03:05;100
+Ksar El Kébir;Midelt;18:00;03:40;175
+Ksar El Kébir;Nador;18:00;06:45;210
+Ksar El Kébir;Ouarzazate;18:00;07:15;240
+Ksar El Kébir;Oujda;11:15;05:45;310
+Ksar El Kébir;Oujda;18:00;05:21;225
+Ksar El Kébir;Oujda;18:00;07:15;295
+Ksar El Kébir;Oujda;18:00;09:15;235
+Ksar El Kébir;Rabat;18:00;20:15;40
+Ksar El Kébir;Saidia;18:00;08:00;250
+Ksar El Kébir;Sidi Kacem;04:40;13:15;
+Ksar El Kébir;Souk Larbaa;18:00;18:20;15
+Ksar El Kébir;Tan Tan;18:00;14:00;395
+Ksar El Kébir;Tanger;04:40;06:30;
+Ksar El Kébir;Tanger;11:15;16:45;65
+Ksar El Kébir;Tanger;11:15;18:30;65
+Ksar El Kébir;Tanger;11:15;20:10;75
+Ksar El Kébir;Taza;18:00;03:40;170
+Ksar El Kébir;Taza;18:00;06:30;170
+Laayoune;Agadir;01:15;11:30;260
+Laayoune;Agadir;07:15;18:00;250
+Laayoune;Agadir;10:30;22:30;250
+Laayoune;Agadir;15:00;02:15;
+Laayoune;Agadir;17:30;04:45;
+Laayoune;Agadir;20:30;06:40;250
+Laayoune;Agadir;21:15;09:15;250
+Laayoune;Agadir;21:30;08:45;
+Laayoune;Agadir;22:30;10:15;250
+Laayoune;Agadir;23:15;11:30;260
+Laayoune;Agadir;23:30;11:00;250
+Laayoune;Azrou;17:30;21:15;
+Laayoune;Azrou;17:30;00:10;
+Laayoune;Beni Mellal;10:30;06:00;420
+Laayoune;Casablanca FAR;15:00;09:45;
+Laayoune;Casablanca FAR;21:15;15:45;470
+Laayoune;Casablanca FAR;21:30;16:15;
+Laayoune;Casablanca FAR;23:30;22:00;470
+Laayoune;Casablanca Ain Sebaa;15:00;10:20;
+Laayoune;Casablanca Ain Sebaa;17:30;22:00;
+Laayoune;Casablanca Maarif;15:00;09:15;
+Laayoune;Casablanca Maarif;21:15;15:25;470
+Laayoune;Casablanca Maarif;21:30;15:45;
+Laayoune;Casablanca Maarif;23:30;21:20;470
+Laayoune;Dakhla;08:00;15:15;180
+Laayoune;Dakhla;08:30;17:45;180
+Laayoune;Dakhla;10:00;17:45;180
+Laayoune;Dakhla;22:45;07:05;195
+Laayoune;Errachidia;17:30;04:50;
+Laayoune;Essaouira;23:30;15:00;310
+Laayoune;Fes;17:30;16:00;
+Laayoune;Guelmim;01:15;07:45;190
+Laayoune;Guelmim;07:15;13:45;180
+Laayoune;Guelmim;10:30;17:10;180
+Laayoune;Guelmim;15:00;21:50;
+Laayoune;Guelmim;17:30;00:15;
+Laayoune;Guelmim;20:30;02:55;180
+Laayoune;Guelmim;21:15;03:45;180
+Laayoune;Guelmim;22:30;05:00;180
+Laayoune;Guelmim;23:30;06:00;180
+Laayoune;Ifrane;17:30;20:45;
+Laayoune;Kasbat Tadla;17:30;01:35;
+Laayoune;Kelaa Sraghna;10:30;03:55;405
+Laayoune;Khemisset;17:30;21:30;
+Laayoune;Khemisset;17:30;13:45;
+Laayoune;Khenifra;17:30;23:30;
+Laayoune;Larache;17:30;21:45;
+Laayoune;Marrakech;10:30;01:45;360
+Laayoune;Marrakech;15:00;05:45;
+Laayoune;Marrakech;17:30;08:00;
+Laayoune;Marrakech;20:30;11:10;360
+Laayoune;Marrakech;21:15;12:45;360
+Laayoune;Marrakech;21:30;12:30;
+Laayoune;Meknes;17:30;17:30;
+Laayoune;Meknes;17:30;19:30;
+Laayoune;Meknes;17:30;20:15;
+Laayoune;Meknes;17:30;22:30;
+Laayoune;Meknes;17:30;14:55;
+Laayoune;Midelt;17:30;02:40;
+Laayoune;Mrirt;17:30;21:55;
+Laayoune;Oujda;17:30;21:30;
+Laayoune;Rabat;15:00;11:30;
+Laayoune;Rabat;17:30;12:15;
+Laayoune;Sidi Kacem;17:30;18:50;
+Laayoune;Souk Larbaa;17:30;20:40;
+Laayoune;Tan Tan;01:15;05:30;145
+Laayoune;Tan Tan;07:15;11:45;140
+Laayoune;Tan Tan;10:30;14:40;140
+Laayoune;Tan Tan;15:00;19:45;
+Laayoune;Tan Tan;17:30;22:00;
+Laayoune;Tan Tan;20:30;01:20;140
+Laayoune;Tan Tan;21:15;02:35;140
+Laayoune;Tan Tan;22:30;02:50;140
+Laayoune;Tan Tan;23:15;04:20;145
+Laayoune;Tan Tan;23:30;04:25;140
+Laayoune;Tanger;17:30;23:15;
+Laayoune;Taounate;17:30;21:00;
+Laayoune;Taza;17:30;18:45;
+Laayoune;Taza;17:30;21:15;
+Larache;Agadir;01:15;14:30;320
+Larache;Agadir;01:15;15:45;330
+Larache;Agadir;01:15;17:15;300
+Larache;Agadir;08:00;20:30;325
+Larache;Agadir;08:00;21:00;325
+Larache;Agadir;08:00;21:20;340
+Larache;Agadir;13:00;03:00;330
+Larache;Agadir;17:00;06:10;
+Larache;Agadir;17:00;06:30;
+Larache;Agadir;17:00;07:20;
+Larache;Agadir;17:00;07:45;
+Larache;Agadir;18:15;05:30;315
+Larache;Al Hoceima;01:15;18:15;240
+Larache;Al Hoceima;13:00;05:15;240
+Larache;Al Hoceima;16:30;05:15;195
+Larache;Al Hoceima;21:45;12:35;165
+Larache;Azrou;01:10;07:50;120
+Larache;Azrou;08:00;17:45;165
+Larache;Azrou;11:15;17:45;95
+Larache;Azrou;11:15;21:15;120
+Larache;Azrou;16:30;00:10;95
+Larache;Azrou;16:30;01:40;100
+Larache;Azrou;17:00;01:40;
+Larache;Azrou;18:15;01:40;165
+Larache;Azrou;21:45;07:50;155
+Larache;Azrou;22:30;07:50;120
+Larache;Beni Mellal;01:15;14:00;195
+Larache;Beni Mellal;08:00;17:45;200
+Larache;Beni Mellal;08:00;19:00;200
+Larache;Beni Mellal;08:00;22:00;170
+Larache;Beni Mellal;13:00;23:00;200
+Larache;Berkane;13:00;07:25;345
+Larache;Berkane;16:30;07:25;215
+Larache;Berkane;17:00;07:25;
+Larache;Berkane;18:15;07:25;265
+Larache;Casablanca FAR;01:15;05:45;100
+Larache;Casablanca FAR;08:00;11:45;110
+Larache;Casablanca FAR;13:00;17:15;110
+Larache;Casablanca FAR;17:00;22:00;
+Larache;Casablanca FAR;18:15;22:45;100
+Larache;Casablanca Ain Sebaa;01:15;05:10;100
+Larache;Casablanca Ain Sebaa;08:00;11:15;
+Larache;Casablanca Ain Sebaa;13:00;16:45;
+Larache;Casablanca Ain Sebaa;17:00;21:20;
+Larache;Casablanca Ain Sebaa;18:15;22:10;100
+Larache;Casablanca Maarif;08:00;12:40;110
+Larache;Casablanca Maarif;17:00;23:10;
+Larache;Casablanca Maarif;18:15;23:15;100
+Larache;Chefchaouen;03:45;10:30;90
+Larache;Chefchaouen;08:45;13:00;70
+Larache;Chefchaouen;08:45;15:00;70
+Larache;Chefchaouen;12:00;18:00;60
+Larache;Chefchaouen;12:15;18:00;75
+Larache;Dakhla;01:15;17:45;715
+Larache;Dakhla;18:15;07:05;735
+Larache;El Hajeb;08:00;16:40;145
+Larache;El Hajeb;11:15;16:40;
+Larache;El Hajeb;16:30;00:40;
+Larache;El Hajeb;17:00;00:40;
+Larache;El Hajeb;18:15;00:40;
+Larache;Errachidia;11:15;04:50;215
+Larache;Errachidia;13:00;06:00;255
+Larache;Errachidia;16:30;04:50;185
+Larache;Errachidia;16:30;06:00;190
+Larache;Errachidia;17:00;06:00;
+Larache;Errachidia;18:15;06:00;250
+Larache;Essaouira;01:15;13:15;240
+Larache;Essaouira;01:15;18:00;240
+Larache;Essaouira;08:00;22:00;255
+Larache;Essaouira;18:15;11:00;385
+Larache;Fes;01:10;05:20;85
+Larache;Fes;11:15;16:00;85
+Larache;Fes;16:30;21:40;85
+Larache;Fes;21:45;02:00;120
+Larache;Fes;22:30;03:15;85
+Larache;Fnidek;17:00;07:00;
+Larache;Fnidek;18:15;07:00;195
+Larache;Guelmim;01:15;20:15;410
+Larache;Guelmim;01:15;02:35;400
+Larache;Guelmim;08:00;01:35;420
+Larache;Guelmim;08:00;05:20;405
+Larache;Guelmim;11:15;12:00;435
+Larache;Guelmim;13:00;07:00;410
+Larache;Guelmim;17:00;12:00;
+Larache;Guelmim;18:15;12:00;395
+Larache;Guelmim;18:15;14:50;410
+Larache;Ifrane;01:10;07:20;110
+Larache;Ifrane;08:00;17:00;160
+Larache;Ifrane;11:15;17:00;90
+Larache;Ifrane;11:15;20:45;110
+Larache;Ifrane;21:45;07:20;145
+Larache;Ifrane;22:30;07:20;110
+Larache;Kasbat Tadla;01:10;11:25;170
+Larache;Kasbat Tadla;08:00;16:40;190
+Larache;Kasbat Tadla;11:15;01:35;170
+Larache;Kasbat Tadla;21:45;11:25;205
+Larache;Kasbat Tadla;22:30;11:25;170
+Larache;Kelaa Sraghna;01:10;14:35;225
+Larache;Kelaa Sraghna;11:15;05:25;225
+Larache;Kelaa Sraghna;18:15;08:50;245
+Larache;Kelaa Sraghna;21:45;14:35;260
+Larache;Kelaa Sraghna;22:30;14:35;225
+Larache;Khemisset;01:10;10:10;85
+Larache;Khemisset;08:00;13:45;105
+Larache;Khemisset;13:00;18:55;95
+Larache;Khenifra;01:10;10:10;140
+Larache;Khenifra;11:15;23:30;140
+Larache;Khenifra;21:45;10:10;175
+Larache;Khenifra;22:30;10:10;140
+Larache;Khouribga;01:15;11:00;150
+Larache;Khouribga;08:00;15:00;155
+Larache;Khouribga;08:00;17:20;155
+Larache;Khouribga;08:00;19:30;145
+Larache;Khouribga;13:00;20:45;155
+Larache;Laayoune;11:15;20:00;650
+Larache;Marrakech;01:15;11:00;190
+Larache;Marrakech;01:15;11:45;200
+Larache;Marrakech;01:15;12:35;190
+Larache;Marrakech;08:00;16:35;220
+Larache;Marrakech;08:00;17:35;210
+Larache;Marrakech;08:00;18:00;220
+Larache;Marrakech;13:00;23:30;200
+Larache;Marrakech;17:00;02:30;
+Larache;Marrakech;17:00;02:45;
+Larache;Marrakech;17:00;04:15;
+Larache;Marrakech;18:15;02:30;210
+Larache;Meknes;01:10;04:45;65
+Larache;Meknes;11:15;14:45;65
+Larache;Meknes;16:30;20:20;65
+Larache;Meknes;21:45;01:00;110
+Larache;Meknes;22:30;02:05;65
+Larache;Midelt;11:15;02:40;170
+Larache;Midelt;13:00;03:40;205
+Larache;Midelt;16:30;02:40;140
+Larache;Midelt;16:30;03:40;145
+Larache;Midelt;17:00;03:40;
+Larache;Midelt;18:15;03:40;200
+Larache;Mrirt;01:10;08:50;130
+Larache;Mrirt;11:15;21:55;130
+Larache;Mrirt;21:45;08:50;165
+Larache;Mrirt;22:30;08:50;130
+Larache;Nador;08:00;20:15;240
+Larache;Nador;16:30;06:45;210
+Larache;Nador;17:00;06:45;
+Larache;Nador;18:15;06:45;235
+Larache;Nador;22:30;08:45;180
+Larache;Ouarzazate;13:00;07:15;270
+Larache;Ouarzazate;17:00;07:15;
+Larache;Ouarzazate;18:15;07:15;265
+Larache;Ouarzazate;18:15;16:00;
+Larache;Oujda;11:15;21:30;215
+Larache;Oujda;16:30;05:21;205
+Larache;Oujda;21:45;05:45;240
+Larache;Oujda;22:30;09:15;210
+Larache;Rabat;01:15;04:00;70
+Larache;Rabat;08:00;10:00;70
+Larache;Rabat;13:00;15:35;70
+Larache;Rabat;17:00;20:15;
+Larache;Rabat;18:15;20:45;65
+Larache;Safi;01:15;10:50;200
+Larache;Safi;01:15;13:15;205
+Larache;Safi;01:15;15:15;200
+Larache;Safi;08:00;19:45;215
+Larache;Safi;08:00;21:00;215
+Larache;Safi;13:00;23:15;215
+Larache;Saidia;13:00;08:00;350
+Larache;Saidia;16:30;08:00;225
+Larache;Saidia;17:00;08:00;
+Larache;Saidia;18:15;08:00;275
+Larache;Sidi Kacem;11:15;13:15;45
+Larache;Sidi Kacem;16:30;18:55;45
+Larache;Sidi Kacem;22:30;00:40;45
+Larache;Souk Larbaa;11:15;12:15;35
+Larache;Souk Larbaa;16:30;17:55;35
+Larache;Souk Larbaa;17:00;18:20;
+Larache;Souk Larbaa;22:30;23:40;
+Larache;Tan Tan;01:15;23:00;430
+Larache;Tan Tan;01:15;05:00;420
+Larache;Tan Tan;08:00;04:10;440
+Larache;Tan Tan;08:00;07:15;430
+Larache;Tan Tan;11:15;14:00;465
+Larache;Tan Tan;17:00;14:00;
+Larache;Tan Tan;18:15;14:00;420
+Larache;Tan Tan;18:15;16:45;450
+Larache;Tanger;03:45;05:15;55
+Larache;Tanger;05:15;06:30;
+Larache;Tanger;08:45;09:50;35
+Larache;Tanger;15:20;16:30;35
+Larache;Tanger;15:30;16:30;35
+Larache;Tanger;18:50;20:15;35
+Larache;Tanger;21:55;23:15;35
+Larache;Taounate;08:00;21:00;180
+Larache;Taounate;11:15;21:00;125
+Larache;Taza;11:15;18:45;135
+Larache;Taza;11:15;21:15;135
+Larache;Taza;16:30;01:30;140
+Larache;Taza;21:45;06:30;170
+Larache;Taza;22:30;05:00;130
+Larache;Tetouan;03:45;06:15;60
+Larache;Tetouan;08:45;11:00;45
+Larache;Tetouan;12:00;14:00;35
+Larache;Tetouan;12:15;14:00;50
+Larache;Tetouan;15:30;17:30;45
+Larache;Tetouan;21:45;23:00;50
+Larache;Tiflet;13:00;18:05;85
+Marrakech;Agadir;02:45;05:30;110
+Marrakech;Agadir;03:00;06:30;115
+Marrakech;Agadir;05:00;07:20;130
+Marrakech;Agadir;06:15;09:15;110
+Marrakech;Agadir;09:00;12:00;110
+Marrakech;Agadir;11:15;14:30;110
+Marrakech;Agadir;12:00;15:45;115
+Marrakech;Agadir;14:30;18:00;110
+Marrakech;Agadir;15:30;18:30;115
+Marrakech;Agadir;16:30;20:00;110
+Marrakech;Agadir;17:15;20:30;115
+Marrakech;Agadir;17:45;21:20;115
+Marrakech;Agadir;18:30;21:00;115
+Marrakech;Agadir;22:15;01:00;115
+Marrakech;Agadir;23:40;03:00;110
+Marrakech;Al Hoceima;02:10;18:15;290
+Marrakech;Al Hoceima;08:30;05:15;300
+Marrakech;Al Hoceima;10:30;05:15;330
+Marrakech;Al Hoceima;12:00;05:15;300
+Marrakech;Al Hoceima;12:45;05:15;300
+Marrakech;Al Hoceima;13:00;05:15;290
+Marrakech;Al Hoceima;13:30;05:15;300
+Marrakech;Beni Mellal;02:00;06:00;65
+Marrakech;Beni Mellal;07:30;11:10;65
+Marrakech;Beni Mellal;23:30;03:00;65
+Marrakech;Berkane;12:00;07:25;335
+Marrakech;Berkane;12:15;07:25;350
+Marrakech;Berkane;12:45;07:25;335
+Marrakech;Berkane;13:00;07:25;325
+Marrakech;Berkane;13:30;07:25;335
+Marrakech;Berkane;15:30;07:25;350
+Marrakech;Berkane;16:00;07:25;325
+Marrakech;Casablanca FAR;02:10;05:15;90
+Marrakech;Casablanca FAR;03:00;06:30;90
+Marrakech;Casablanca FAR;03:30;06:30;100
+Marrakech;Casablanca FAR;06:00;09:45;100
+Marrakech;Casablanca FAR;08:30;12:00;100
+Marrakech;Casablanca FAR;10:30;13:45;130
+Marrakech;Casablanca FAR;12:00;15:15;100
+Marrakech;Casablanca FAR;12:45;16:15;100
+Marrakech;Casablanca FAR;13:00;15:45;90
+Marrakech;Casablanca FAR;13:30;17:00;100
+Marrakech;Casablanca FAR;15:30;19:05;100
+Marrakech;Casablanca FAR;16:00;19:30;90
+Marrakech;Casablanca FAR;16:45;20:00;90
+Marrakech;Casablanca FAR;17:30;21:00;90
+Marrakech;Casablanca FAR;19:15;22:45;100
+Marrakech;Casablanca FAR;20:45;23:59;100
+Marrakech;Casablanca Ain Sebaa;06:00;10:20;100
+Marrakech;Casablanca Ain Sebaa;15:30;19:30;100
+Marrakech;Casablanca Maarif;02:10;04:45;90
+Marrakech;Casablanca Maarif;03:00;06:00;90
+Marrakech;Casablanca Maarif;03:30;06:00;100
+Marrakech;Casablanca Maarif;06:00;09:15;100
+Marrakech;Casablanca Maarif;08:30;11:15;100
+Marrakech;Casablanca Maarif;10:30;13:15;130
+Marrakech;Casablanca Maarif;12:00;14:45;100
+Marrakech;Casablanca Maarif;12:45;15:45;100
+Marrakech;Casablanca Maarif;13:00;15:25;90
+Marrakech;Casablanca Maarif;13:30;16:30;100
+Marrakech;Casablanca Maarif;15:30;18:30;100
+Marrakech;Casablanca Maarif;16:00;19:00;90
+Marrakech;Casablanca Maarif;16:45;19:30;90
+Marrakech;Casablanca Maarif;17:30;20:30;
+Marrakech;Casablanca Maarif;19:15;22:15;100
+Marrakech;Casablanca Maarif;20:45;23:35;100
+Marrakech;Chefchaouen;02:00;15:00;290
+Marrakech;Chefchaouen;06:00;21:00;255
+Marrakech;Chefchaouen;08:15;21:00;
+Marrakech;Chefchaouen;08:30;21:00;255
+Marrakech;Dakhla;02:45;07:05;530
+Marrakech;Dakhla;03:00;07:05;535
+Marrakech;Dakhla;04:30;07:05;
+Marrakech;Dakhla;05:00;07:05;550
+Marrakech;Dakhla;06:15;07:05;530
+Marrakech;Dakhla;12:00;17:45;525
+Marrakech;Dakhla;14:30;17:45;520
+Marrakech;Dakhla;15:30;17:45;525
+Marrakech;Dakhla;16:30;15:15;500
+Marrakech;Dakhla;17:15;17:45;525
+Marrakech;Dakhla;17:45;17:45;525
+Marrakech;Dakhla;18:30;17:45;525
+Marrakech;El Hajeb;03:00;16:40;200
+Marrakech;El Hajeb;03:30;16:40;210
+Marrakech;El Hajeb;06:00;16:40;210
+Marrakech;El Hajeb;08:15;16:40;
+Marrakech;El Hajeb;10:30;00:40;245
+Marrakech;El Hajeb;12:00;00:40;215
+Marrakech;El Hajeb;12:15;00:40;
+Marrakech;El Hajeb;12:45;00:40;215
+Marrakech;El Hajeb;13:00;00:40;205
+Marrakech;El Hajeb;13:30;00:40;215
+Marrakech;El Hajeb;15:30;00:40;
+Marrakech;Errachidia;07:30;17:45;170
+Marrakech;Errachidia;12:15;04:50;305
+Marrakech;Errachidia;12:45;06:00;320
+Marrakech;Errachidia;13:00;06:00;310
+Marrakech;Errachidia;13:30;06:00;320
+Marrakech;Errachidia;15:30;06:00;335
+Marrakech;Essaouira;08:45;11:15;75
+Marrakech;Essaouira;12:30;15:00;75
+Marrakech;Fes;01:15;08:45;195
+Marrakech;Fes;02:30;09:15;265
+Marrakech;Fes;07:30;17:30;170
+Marrakech;Fes;08:15;16:00;
+Marrakech;Fes;12:15;20:30;195
+Marrakech;Fes;23:30;07:45;170
+Marrakech;Fnidek;15:30;07:00;280
+Marrakech;Fnidek;16:00;07:00;250
+Marrakech;Fnidek;16:45;07:00;250
+Marrakech;Fnidek;17:30;07:00;250
+Marrakech;Fnidek;19:15;07:00;260
+Marrakech;Guelmim;04:30;12:00;
+Marrakech;Guelmim;12:00;20:15;195
+Marrakech;Guelmim;14:30;23:25;190
+Marrakech;Guelmim;16:30;00:50;190
+Marrakech;Guelmim;16:45;01:00;190
+Marrakech;Guelmim;17:45;01:35;195
+Marrakech;Guelmim;21:30;04:20;190
+Marrakech;Guelmim;22:15;05:20;195
+Marrakech;Guelmim;23:40;07:00;190
+Marrakech;Ifrane;07:30;15:50;150
+Marrakech;Ifrane;23:30;06:30;150
+Marrakech;Kasbat Tadla;07:30;11:50;80
+Marrakech;Kelaa Sraghna;02:00;03:55;35
+Marrakech;Kelaa Sraghna;07:30;08:50;35
+Marrakech;Kelaa Sraghna;23:30;00:15;35
+Marrakech;Khemisset;01:15;10:10;205
+Marrakech;Khemisset;06:00;13:45;185
+Marrakech;Khemisset;06:00;18:55;150
+Marrakech;Khemisset;08:15;18:55;
+Marrakech;Khemisset;08:15;13:45;
+Marrakech;Khemisset;08:30;18:55;150
+Marrakech;Khemisset;10:30;18:55;180
+Marrakech;Khemisset;12:15;21:30;205
+Marrakech;Khenifra;07:30;13:50;125
+Marrakech;Khenifra;23:30;04:45;125
+Marrakech;Khouribga;03:00;11:00;140
+Marrakech;Khouribga;03:30;11:00;150
+Marrakech;Khouribga;08:30;15:00;145
+Marrakech;Khouribga;10:30;17:20;175
+Marrakech;Khouribga;12:00;19:30;145
+Marrakech;Khouribga;12:45;19:30;145
+Marrakech;Khouribga;12:45;20:45;145
+Marrakech;Khouribga;13:00;19:30;135
+Marrakech;Khouribga;13:00;20:45;135
+Marrakech;Khouribga;13:30;20:45;145
+Marrakech;Ksar El Kébir;02:10;11:10;155
+Marrakech;Laayoune;04:30;20:00;
+Marrakech;Laayoune;14:30;06:15;360
+Marrakech;Laayoune;16:30;07:45;360
+Marrakech;Laayoune;17:45;08:00;365
+Marrakech;Laayoune;21:30;11:00;360
+Marrakech;Laayoune;22:15;12:30;365
+Marrakech;Meknes;01:15;07:35;185
+Marrakech;Meknes;08:15;14:55;
+Marrakech;Meknes;12:15;19:15;185
+Marrakech;Midelt;07:30;23:50;225
+Marrakech;Midelt;10:30;03:40;300
+Marrakech;Midelt;12:00;03:40;270
+Marrakech;Midelt;12:15;02:40;260
+Marrakech;Midelt;12:15;03:40;285
+Marrakech;Midelt;12:45;03:40;270
+Marrakech;Midelt;13:00;03:40;260
+Marrakech;Midelt;13:30;03:40;270
+Marrakech;Midelt;15:30;03:40;285
+Marrakech;Mrirt;07:30;14:10;130
+Marrakech;Mrirt;23:30;05:25;130
+Marrakech;Nador;02:10;20:15;290
+Marrakech;Nador;02:30;20:15;360
+Marrakech;Nador;03:00;20:15;290
+Marrakech;Nador;03:30;20:15;300
+Marrakech;Nador;12:45;06:45;300
+Marrakech;Nador;13:00;06:45;290
+Marrakech;Nador;13:30;06:45;300
+Marrakech;Nador;15:30;06:45;320
+Marrakech;Nador;16:00;06:45;290
+Marrakech;Nador;16:45;06:45;290
+Marrakech;Ouarzazate;00:30;05:10;
+Marrakech;Ouarzazate;03:00;07:15;
+Marrakech;Ouarzazate;07:30;11:50;90
+Marrakech;Ouarzazate;10:00;14:45;90
+Marrakech;Ouarzazate;11:15;16:15;90
+Marrakech;Ouarzazate;15:15;19:45;95
+Marrakech;Oujda;03:00;18:30;320
+Marrakech;Oujda;03:30;18:30;330
+Marrakech;Oujda;06:00;21:30;330
+Marrakech;Oujda;15:30;05:21;320
+Marrakech;Oujda;15:30;07:15;390
+Marrakech;Oujda;16:00;05:21;310
+Marrakech;Oujda;16:00;07:15;380
+Marrakech;Oujda;16:45;07:15;380
+Marrakech;Oujda;17:30;07:15;380
+Marrakech;Oujda;17:30;09:15;320
+Marrakech;Rabat;01:15;05:15;150
+Marrakech;Rabat;02:00;05:50;140
+Marrakech;Rabat;02:30;06:15;190
+Marrakech;Rabat;06:00;11:30;150
+Marrakech;Rabat;08:15;12:15;
+Marrakech;Rabat;12:15;17:00;150
+Marrakech;Rabat;15:30;20:30;150
+Marrakech;Safi;11:30;14:00;50
+Marrakech;Saidia;12:00;08:00;340
+Marrakech;Saidia;12:15;08:00;360
+Marrakech;Saidia;12:45;08:00;340
+Marrakech;Saidia;13:00;08:00;330
+Marrakech;Saidia;13:30;08:00;340
+Marrakech;Saidia;15:30;08:00;360
+Marrakech;Saidia;16:00;08:00;330
+Marrakech;Souk Larbaa;01:15;10:15;180
+Marrakech;Souk Larbaa;01:15;14:10;230
+Marrakech;Souk Larbaa;02:00;10:15;170
+Marrakech;Souk Larbaa;02:10;10:15;145
+Marrakech;Souk Larbaa;02:30;10:15;220
+Marrakech;Souk Larbaa;06:00;17:20;200
+Marrakech;Souk Larbaa;08:15;17:20;
+Marrakech;Souk Larbaa;08:15;20:40;
+Marrakech;Souk Larbaa;08:30;17:20;200
+Marrakech;Tanger;02:00;09:50;240
+Marrakech;Tanger;03:30;16:30;220
+Marrakech;Tanger;06:00;16:30;220
+Marrakech;Tanger;08:15;20:15;
+Marrakech;Tanger;08:30;20:15;220
+Marrakech;Taounate;06:00;21:00;250
+Marrakech;Taounate;08:30;21:00;250
+Marrakech;Taza;02:10;14:40;255
+Marrakech;Taza;02:10;14:50;255
+Marrakech;Taza;03:00;14:50;255
+Marrakech;Taza;03:30;14:50;265
+Marrakech;Taza;06:00;18:45;265
+Marrakech;Taza;13:00;01:30;255
+Marrakech;Taza;13:30;01:30;265
+Marrakech;Taza;15:30;03:40;265
+Marrakech;Taza;16:00;03:40;255
+Marrakech;Taza;16:45;03:40;255
+Marrakech;Tetouan;02:00;11:00;250
+Marrakech;Tetouan;02:10;14:00;240
+Marrakech;Tetouan;03:00;14:00;240
+Marrakech;Tetouan;03:30;14:00;250
+Marrakech;Tetouan;06:00;17:00;280
+Marrakech;Tetouan;10:30;23:00;280
+Marrakech;Tetouan;12:00;23:00;250
+Marrakech;Tetouan;12:45;23:00;250
+Marrakech;Tetouan;13:00;23:00;240
+Marrakech;Tetouan;17:30;05:45;240
+Marrakech;Tetouan;19:15;05:45;250
+Marrakech;Tiflet;06:00;18:05;140
+Marrakech;Tiflet;08:15;18:05;
+Marrakech;Tiflet;08:30;18:05;140
+Marrakech;Tiflet;10:30;18:05;170
+Meknes;Agadir;03:00;15:45;320
+Meknes;Agadir;03:00;17:30;365
+Meknes;Agadir;04:00;17:30;365
+Meknes;Agadir;07:40;21:00;340
+Meknes;Agadir;09:15;21:00;290
+Meknes;Agadir;10:30;21:00;310
+Meknes;Agadir;13:45;03:00;310
+Meknes;Agadir;17:00;07:20;390
+Meknes;Agadir;18:00;07:20;390
+Meknes;Agadir;19:20;07:20;395
+Meknes;Agadir;19:40;06:30;300
+Meknes;Al Hoceima;11:00;18:15;130
+Meknes;Al Hoceima;22:00;05:15;130
+Meknes;Azrou;15:45;17:45;30
+Meknes;Azrou;22:45;00:10;30
+Meknes;Azrou;23:45;01:40;35
+Meknes;Beni Mellal;03:00;14:00;185
+Meknes;Beni Mellal;04:00;14:00;185
+Meknes;Beni Mellal;04:00;17:45;180
+Meknes;Beni Mellal;09:15;19:00;155
+Meknes;Beni Mellal;09:15;22:00;155
+Meknes;Beni Mellal;09:15;23:00;155
+Meknes;Beni Mellal;10:30;19:00;175
+Meknes;Beni Mellal;10:30;22:00;175
+Meknes;Beni Mellal;10:30;23:00;175
+Meknes;Beni Mellal;13:45;23:00;180
+Meknes;Berkane;18:00;07:25;155
+Meknes;Berkane;19:20;07:25;160
+Meknes;Berkane;20:10;07:25;150
+Meknes;Berkane;20:30;07:25;155
+Meknes;Berkane;22:00;07:25;155
+Meknes;Casablanca Ain Sebaa;03:00;06:00;90
+Meknes;Casablanca Ain Sebaa;04:00;06:50;90
+Meknes;Casablanca Ain Sebaa;09:15;13:05;65
+Meknes;Casablanca Ain Sebaa;10:30;13:40;85
+Meknes;Casablanca Ain Sebaa;13:45;17:00;90
+Meknes;Casablanca Maarif;10:30;17:25;95
+Meknes;Casablanca Maarif;10:30;17:25;
+Meknes;Casablanca Maarif;10:30;17:30;90
+Meknes;Casablanca Maarif;20:25;01:00;85
+Meknes;Chefchaouen;03:15;11:40;105
+Meknes;Chefchaouen;04:15;11:40;105
+Meknes;Chefchaouen;04:45;11:40;105
+Meknes;Chefchaouen;07:40;15:15;110
+Meknes;Chefchaouen;11:00;18:00;105
+Meknes;Chefchaouen;11:30;18:00;105
+Meknes;Chefchaouen;13:50;20:30;105
+Meknes;Chefchaouen;20:10;03:50;100
+Meknes;Chefchaouen;20:30;03:50;105
+Meknes;Chefchaouen;22:00;03:50;105
+Meknes;Dakhla;03:00;15:15;705
+Meknes;Dakhla;03:00;17:45;705
+Meknes;Dakhla;04:00;15:15;705
+Meknes;Dakhla;04:00;17:45;705
+Meknes;Dakhla;19:40;07:05;720
+Meknes;Dakhla;20:25;07:05;
+Meknes;El Hajeb;15:45;16:40;
+Meknes;El Hajeb;23:45;00:40;
+Meknes;Errachidia;22:45;04:50;120
+Meknes;Errachidia;23:45;06:00;125
+Meknes;Essaouira;03:00;18:00;230
+Meknes;Essaouira;03:00;19:15;230
+Meknes;Essaouira;04:00;18:00;230
+Meknes;Essaouira;04:00;19:15;230
+Meknes;Essaouira;09:15;22:00;210
+Meknes;Essaouira;10:30;22:00;230
+Meknes;Essaouira;19:40;11:00;370
+Meknes;Essaouira;19:40;11:15;260
+Meknes;Essaouira;19:40;15:00;370
+Meknes;Essaouira;20:25;11:15;255
+Meknes;Essaouira;20:25;15:00;
+Meknes;Fes;01:15;02:00;30
+Meknes;Fes;02:15;03:15;25
+Meknes;Fes;03:15;04:30;25
+Meknes;Fes;04:15;05:15;25
+Meknes;Fes;04:45;05:20;25
+Meknes;Fes;07:40;08:45;30
+Meknes;Fes;11:00;12:15;25
+Meknes;Fes;11:30;12:40;25
+Meknes;Fes;13:50;15:00;25
+Meknes;Fes;15:00;16:00;25
+Meknes;Fes;15:00;16:00;25
+Meknes;Fes;17:00;18:10;25
+Meknes;Fes;18:00;19:00;25
+Meknes;Fes;19:20;20:30;30
+Meknes;Fes;20:10;21:15;20
+Meknes;Fes;20:30;21:40;25
+Meknes;Fes;22:00;23:00;25
+Meknes;Fnidek;19:40;07:00;190
+Meknes;Fnidek;20:25;07:00;185
+Meknes;Guelmim;03:00;20:15;400
+Meknes;Guelmim;03:00;00:50;390
+Meknes;Guelmim;04:00;00:50;390
+Meknes;Guelmim;04:00;01:35;400
+Meknes;Guelmim;04:00;02:35;390
+Meknes;Guelmim;09:15;05:20;375
+Meknes;Guelmim;09:15;07:00;365
+Meknes;Guelmim;10:30;05:20;395
+Meknes;Guelmim;10:30;07:00;385
+Meknes;Guelmim;13:45;07:00;390
+Meknes;Guelmim;20:25;12:00;370
+Meknes;Ifrane;15:45;17:00;25
+Meknes;Kelaa Sraghna;01:15;14:35;170
+Meknes;Kelaa Sraghna;02:15;14:35;165
+Meknes;Kelaa Sraghna;03:15;14:35;165
+Meknes;Kelaa Sraghna;04:15;14:35;165
+Meknes;Kelaa Sraghna;04:45;14:35;165
+Meknes;Kelaa Sraghna;13:50;05:25;165
+Meknes;Kelaa Sraghna;15:00;05:25;165
+Meknes;Kelaa Sraghna;17:00;05:25;165
+Meknes;Kelaa Sraghna;18:00;05:25;165
+Meknes;Khemisset;09:15;10:10;20
+Meknes;Khemisset;20:25;21:30;20
+Meknes;Khenifra;01:15;10:10;85
+Meknes;Khenifra;02:15;10:10;80
+Meknes;Khenifra;03:15;10:10;80
+Meknes;Khenifra;04:15;10:10;80
+Meknes;Khenifra;04:45;10:10;80
+Meknes;Khenifra;15:00;23:30;80
+Meknes;Khenifra;17:00;23:30;80
+Meknes;Khenifra;18:00;23:30;80
+Meknes;Khouribga;03:00;11:00;140
+Meknes;Khouribga;04:00;11:00;140
+Meknes;Khouribga;04:00;15:00;135
+Meknes;Khouribga;09:15;17:20;110
+Meknes;Khouribga;09:15;19:30;110
+Meknes;Khouribga;09:15;20:45;110
+Meknes;Khouribga;10:30;17:20;130
+Meknes;Khouribga;10:30;19:30;130
+Meknes;Khouribga;10:30;20:45;130
+Meknes;Khouribga;13:45;20:45;135
+Meknes;Ksar El Kébir;01:30;04:30;
+Meknes;Ksar El Kébir;03:00;11:10;100
+Meknes;Ksar El Kébir;04:00;11:10;100
+Meknes;Ksar El Kébir;18:00;04:30;
+Meknes;Ksar El Kébir;19:20;04:30;
+Meknes;Ksar El Kébir;20:10;04:30;
+Meknes;Ksar El Kébir;20:30;04:30;
+Meknes;Ksar El Kébir;22:00;04:30;
+Meknes;Laayoune;20:25;20:00;555
+Meknes;Larache;01:15;03:30;110
+Meknes;Larache;01:30;05:10;65
+Meknes;Larache;11:45;15:20;65
+Meknes;Larache;17:45;21:45;65
+Meknes;Marrakech;19:40;02:45;185
+Meknes;Marrakech;20:25;04:15;180
+Meknes;Midelt;22:45;02:40;75
+Meknes;Midelt;23:45;03:40;80
+Meknes;Mrirt;02:15;08:50;70
+Meknes;Mrirt;03:15;08:50;70
+Meknes;Mrirt;04:15;08:50;70
+Meknes;Mrirt;04:45;08:50;70
+Meknes;Mrirt;17:00;21:55;70
+Meknes;Mrirt;18:00;21:55;70
+Meknes;Nador;02:15;08:45;130
+Meknes;Nador;13:50;20:15;140
+Meknes;Ouarzazate;13:45;07:15;260
+Meknes;Ouarzazate;22:45;12:00;215
+Meknes;Oujda;01:15;05:45;160
+Meknes;Oujda;03:15;09:15;140
+Meknes;Oujda;11:30;18:30;140
+Meknes;Rabat;03:00;04:55;60
+Meknes;Rabat;04:00;05:50;60
+Meknes;Rabat;09:15;12:10;35
+Meknes;Rabat;10:30;12:30;55
+Meknes;Rabat;13:45;16:10;60
+Meknes;Rabat;19:40;22:00;60
+Meknes;Rabat;20:25;23:10;55
+Meknes;Safi;03:00;13:15;195
+Meknes;Safi;03:00;15:15;190
+Meknes;Safi;04:00;13:15;195
+Meknes;Safi;04:00;15:15;190
+Meknes;Safi;09:15;19:45;170
+Meknes;Safi;09:15;21:00;170
+Meknes;Safi;10:30;19:45;190
+Meknes;Safi;10:30;21:00;190
+Meknes;Safi;10:30;23:15;190
+Meknes;Safi;13:45;23:15;195
+Meknes;Saidia;18:00;08:00;165
+Meknes;Saidia;19:20;08:00;170
+Meknes;Saidia;20:10;08:00;160
+Meknes;Saidia;20:30;08:00;165
+Meknes;Saidia;22:00;08:00;165
+Meknes;Sidi Kacem;01:30;02:20;
+Meknes;Sidi Kacem;11:45;13:10;20
+Meknes;Sidi Kacem;17:45;18:50;20
+Meknes;Souk Larbaa;01:30;03:30;45
+Meknes;Souk Larbaa;11:45;14:10;45
+Meknes;Souk Larbaa;17:45;20:40;45
+Meknes;Tan Tan;03:00;23:00;420
+Meknes;Tan Tan;03:00;03:40;410
+Meknes;Tan Tan;03:00;05:00;410
+Meknes;Tan Tan;04:00;03:40;410
+Meknes;Tan Tan;04:00;04:10;420
+Meknes;Tan Tan;04:00;05:00;410
+Meknes;Tan Tan;09:15;07:15;395
+Meknes;Tan Tan;10:30;07:15;415
+Meknes;Tan Tan;20:25;14:00;400
+Meknes;Tanger;01:15;05:15;125
+Meknes;Tanger;01:30;06:30;100
+Meknes;Tanger;11:45;16:30;100
+Meknes;Tanger;17:45;23:15;100
+Meknes;Taounate;17:00;21:00;60
+Meknes;Taza;02:15;05:00;70
+Meknes;Taza;03:15;06:30;75
+Meknes;Taza;11:00;14:40;75
+Meknes;Taza;11:30;14:50;75
+Meknes;Taza;13:50;17:10;75
+Meknes;Taza;18:00;21:15;75
+Meknes;Taza;22:00;01:30;75
+Meknes;Tetouan;01:15;06:15;130
+Meknes;Tetouan;11:45;17:30;110
+Meknes;Tiflet;09:15;11:00;25
+Midelt;Agadir;23:59;17:30;445
+Midelt;Agadir;23:59;20:00;390
+Midelt;Agadir;23:59;20:30;400
+Midelt;Agadir;23:59;21:00;395
+Midelt;Agadir;23:59;21:20;400
+Midelt;Agadir;23:59;22:00;370
+Midelt;Agadir;23:59;22:45;370
+Midelt;Al Hoceima;23:59;18:15;305
+Midelt;Azrou;23:59;02:40;45
+Midelt;Azrou;23:59;02:00;45
+Midelt;Beni Mellal;23:59;14:00;265
+Midelt;Beni Mellal;23:59;17:45;260
+Midelt;Casablanca FAR;23:59;12:00;180
+Midelt;Casablanca FAR;23:59;12:30;180
+Midelt;Casablanca FAR;23:59;07:30;170
+Midelt;Casablanca Ain Sebaa;23:59;06:50;170
+Midelt;Casablanca Maarif;23:59;12:40;175
+Midelt;Chefchaouen;23:59;11:40;165
+Midelt;Chefchaouen;23:59;15:15;165
+Midelt;Dakhla;23:59;15:15;785
+Midelt;Errachidia;02:45;04:50;50
+Midelt;Errachidia;03:45;06:00;55
+Midelt;Essaouira;23:59;18:00;310
+Midelt;Essaouira;23:59;19:15;310
+Midelt;Fes;23:59;05:20;105
+Midelt;Fes;23:59;08:45;110
+Midelt;Fes;23:59;05:15;85
+Midelt;Guelmim;23:59;00:50;470
+Midelt;Guelmim;23:59;01:35;480
+Midelt;Ifrane;23:59;07:20;110
+Midelt;Kasbat Tadla;23:59;11:25;170
+Midelt;Kasbat Tadla;23:59;16:40;250
+Midelt;Kelaa Sraghna;23:59;14:35;225
+Midelt;Khemisset;23:59;10:10;100
+Midelt;Khenifra;23:59;10:10;140
+Midelt;Khouribga;23:59;11:00;220
+Midelt;Khouribga;23:59;15:00;215
+Midelt;Ksar El Kébir;23:59;11:10;175
+Midelt;Larache;23:59;11:50;185
+Midelt;Larache;23:59;12:00;205
+Midelt;Larache;23:59;15:05;270
+Midelt;Larache;23:59;15:20;170
+Midelt;Marrakech;02:45;16:45;220
+Midelt;Marrakech;23:59;12:35;260
+Midelt;Marrakech;23:59;15:00;270
+Midelt;Marrakech;23:59;16:00;260
+Midelt;Marrakech;23:59;16:35;270
+Midelt;Marrakech;23:59;17:35;270
+Midelt;Meknes;23:59;04:10;75
+Midelt;Meknes;23:59;03:45;80
+Midelt;Mrirt;23:59;08:50;130
+Midelt;Nador;23:59;20:15;305
+Midelt;Ouarzazate;02:45;12:00;145
+Midelt;Oujda;23:59;18:30;330
+Midelt;Oujda;23:59;21:30;400
+Midelt;Rabat;23:59;05:50;135
+Midelt;Safi;23:59;13:15;275
+Midelt;Safi;23:59;15:15;270
+Midelt;Safi;23:59;16:50;270
+Midelt;Sidi Kacem;23:59;13:10;125
+Midelt;Tan Tan;23:59;03:40;490
+Midelt;Tan Tan;23:59;04:10;500
+Midelt;Tanger;23:59;16:30;205
+Midelt;Tanger;23:59;18:30;210
+Midelt;Taounate;23:59;21:00;320
+Midelt;Taza;23:59;14:40;265
+Midelt;Taza;23:59;14:50;265
+Midelt;Taza;23:59;17:10;265
+Midelt;Taza;23:59;18:45;335
+Midelt;Tetouan;23:59;13:30;185
+Midelt;Tetouan;23:59;16:50;195
+Midelt;Tetouan;23:59;17:00;350
+Midelt;Tetouan;23:59;17:30;185
+Midelt;Tiflet;23:59;11:00;105
+Mrirt;Agadir;05:30;21:00;355
+Mrirt;Agadir;09:00;20:00;240
+Mrirt;Agadir;09:00;20:30;245
+Mrirt;Agadir;09:00;21:00;245
+Mrirt;Agadir;09:00;21:20;245
+Mrirt;Agadir;09:00;00:15;240
+Mrirt;Agadir;14:15;06:30;355
+Mrirt;Agadir;14:15;07:20;410
+Mrirt;Agadir;14:15;07:45;345
+Mrirt;Agadir;22:10;09:15;240
+Mrirt;Al Hoceima;05:30;18:15;160
+Mrirt;Al Hoceima;14:15;05:15;160
+Mrirt;Azrou;05:30;06:00;
+Mrirt;Azrou;14:15;15:20;15
+Mrirt;Beni Mellal;09:00;12:46;60
+Mrirt;Beni Mellal;22:10;02:20;60
+Mrirt;Casablanca FAR;05:30;12:30;140
+Mrirt;Casablanca FAR;05:30;14:00;145
+Mrirt;Casablanca FAR;05:30;15:00;170
+Mrirt;Casablanca FAR;09:00;19:30;155
+Mrirt;Casablanca FAR;09:00;20:00;220
+Mrirt;Casablanca FAR;14:15;23:59;145
+Mrirt;Casablanca FAR;14:15;00:30;140
+Mrirt;Casablanca FAR;22:10;09:00;150
+Mrirt;Casablanca Ain Sebaa;05:30;12:00;140
+Mrirt;Casablanca Ain Sebaa;05:30;13:30;145
+Mrirt;Casablanca Ain Sebaa;05:30;14:30;170
+Mrirt;Casablanca Ain Sebaa;14:15;23:30;145
+Mrirt;Casablanca Maarif;09:00;18:45;155
+Mrirt;Casablanca Maarif;09:00;19:30;220
+Mrirt;Casablanca Maarif;09:00;20:30;
+Mrirt;Casablanca Maarif;09:00;21:30;150
+Mrirt;Casablanca Maarif;09:00;22:15;230
+Mrirt;Casablanca Maarif;09:00;23:35;230
+Mrirt;Casablanca Maarif;14:15;01:00;140
+Mrirt;Casablanca Maarif;22:10;08:40;150
+Mrirt;Casablanca Maarif;22:10;11:15;230
+Mrirt;Casablanca Maarif;22:10;13:15;260
+Mrirt;Chefchaouen;05:30;15:15;125
+Mrirt;Dakhla;09:00;15:15;630
+Mrirt;Dakhla;22:10;07:05;660
+Mrirt;Errachidia;14:15;04:50;175
+Mrirt;Errachidia;22:10;17:45;300
+Mrirt;Essaouira;22:10;11:15;205
+Mrirt;Essaouira;22:10;15:00;310
+Mrirt;Essaouira;22:10;17:00;310
+Mrirt;Fes;05:30;07:45;45
+Mrirt;Fes;14:15;17:30;45
+Mrirt;Guelmim;09:00;00:50;320
+Mrirt;Guelmim;09:00;01:00;320
+Mrirt;Guelmim;09:00;01:35;325
+Mrirt;Guelmim;09:00;04:20;320
+Mrirt;Guelmim;14:15;12:00;425
+Mrirt;Guelmim;22:10;14:50;335
+Mrirt;Guelmim;22:10;20:15;325
+Nador;Agadir;11:00;05:30;420
+Nador;Agadir;11:00;06:10;475
+Nador;Agadir;11:00;06:30;425
+Nador;Agadir;11:00;07:20;460
+Nador;Agadir;11:00;07:45;
+Nador;Agadir;11:00;09:15;405
+Nador;Agadir;22:00;15:45;430
+Nador;Agadir;22:00;17:30;475
+Nador;Agadir;22:00;20:00;420
+Nador;Agadir;22:00;20:30;425
+Nador;Agadir;22:00;22:00;400
+Nador;Al Hoceima;09:45;12:45;50
+Nador;Azrou;11:00;21:15;160
+Nador;Azrou;11:00;00:10;160
+Nador;Azrou;11:00;01:40;270
+Nador;Azrou;22:00;07:50;160
+Nador;Beni Mellal;22:00;14:00;295
+Nador;Beni Mellal;22:00;17:45;290
+Nador;Berkane;19:30;07:25;250
+Nador;Casablanca FAR;11:00;20:30;200
+Nador;Casablanca FAR;22:00;07:00;200
+Nador;Casablanca Ain Sebaa;11:00;20:00;200
+Nador;Casablanca Ain Sebaa;22:00;06:20;200
+Nador;Casablanca Maarif;11:00;23:10;210
+Nador;Casablanca Maarif;11:00;23:15;205
+Nador;Casablanca Maarif;11:00;23:15;
+Nador;Casablanca Maarif;11:00;01:00;220
+Nador;Casablanca Maarif;11:00;01:00;
+Nador;Casablanca Maarif;11:00;01:00;
+Nador;Casablanca Maarif;22:00;12:40;210
+Nador;Chefchaouen;09:45;18:30;130
+Nador;Chefchaouen;22:00;11:40;205
+Nador;Dakhla;22:00;15:15;815
+Nador;El Hajeb;11:00;00:40;
+Nador;El Hajeb;22:00;16:40;310
+Nador;Errachidia;11:00;04:50;255
+Nador;Errachidia;11:00;06:00;355
+Nador;Essaouira;22:00;18:00;340
+Nador;Essaouira;22:00;19:15;340
+Nador;Fes;11:00;16:05;125
+Nador;Fes;19:30;00:20;120
+Nador;Fes;22:00;02:45;125
+Nador;Fnidek;11:00;07:00;360
+Nador;Guelmim;11:00;12:00;500
+Nador;Guelmim;22:00;20:15;510
+Nador;Guelmim;22:00;00:50;500
+Nador;Ifrane;11:00;20:45;150
+Nador;Ifrane;22:00;07:20;150
+Nador;Kasbat Tadla;11:00;01:35;210
+Nador;Kasbat Tadla;22:00;11:25;210
+Nador;Kasbat Tadla;22:00;16:40;280
+Nador;Kelaa Sraghna;11:00;05:25;265
+Nador;Kelaa Sraghna;22:00;14:35;265
+Nador;Khemisset;11:00;21:30;175
+Nador;Khemisset;22:00;10:10;155
+Nador;Khenifra;11:00;23:30;180
+Nador;Khenifra;22:00;10:10;180
+Nador;Khouribga;22:00;11:00;250
+Nador;Khouribga;22:00;15:00;245
+Nador;Ksar El Kébir;19:30;04:30;
+Nador;Ksar El Kébir;22:00;11:10;210
+Nador;Laayoune;11:00;20:00;690
+Nador;Larache;09:45;01:10;195
+Nador;Larache;19:30;05:10;180
+Nador;Larache;22:00;08:35;235
+Nador;Larache;22:00;11:50;220
+Nador;Larache;22:00;12:00;240
+Nador;Marrakech;11:00;02:15;290
+Nador;Marrakech;11:00;02:30;320
+Nador;Marrakech;11:00;02:45;320
+Nador;Marrakech;11:00;04:15;310
+Nador;Marrakech;11:00;04:45;360
+Nador;Marrakech;22:00;11:45;300
+Nador;Marrakech;22:00;12:35;290
+Nador;Marrakech;22:00;15:00;300
+Nador;Marrakech;22:00;16:00;290
+Nador;Marrakech;22:00;16:35;320
+Nador;Meknes;11:00;19:30;155
+Nador;Meknes;11:00;20:15;150
+Nador;Meknes;19:30;01:20;130
+Ouarzazate;Agadir;23:59;06:00;145
+Ouarzazate;Azrou;12:00;02:00;205
+Ouarzazate;Azrou;12:00;02:40;200
+Ouarzazate;Azrou;23:30;17:45;295
+Ouarzazate;Casablanca FAR;08:30;17:00;165
+Ouarzazate;Casablanca FAR;11:00;20:00;155
+Ouarzazate;Casablanca FAR;22:15;06:30;165
+Ouarzazate;Casablanca FAR;23:30;07:10;165
+Ouarzazate;Casablanca Ain Sebaa;23:30;07:30;165
+Ouarzazate;Casablanca Maarif;08:30;16:30;165
+Ouarzazate;Casablanca Maarif;11:00;19:30;155
+Ouarzazate;Casablanca Maarif;22:15;06:00;165
+Ouarzazate;Casablanca Maarif;23:30;06:50;165
+Ouarzazate;Dakhla;23:59;07:05;565
+Ouarzazate;Errachidia;12:00;17:45;95
+Ouarzazate;Essaouira;23:59;11:00;215
+Ouarzazate;Essaouira;23:59;15:00;215
+Ouarzazate;Fes;12:00;05:15;225
+Ouarzazate;Fes;23:30;15:00;280
+Ouarzazate;Fes;23:30;16:00;275
+Ouarzazate;Fes;23:30;16:45;280
+Ouarzazate;Fes;23:30;18:10;275
+Ouarzazate;Fes;23:59;20:30;455
+Ouarzazate;Guelmim;23:59;12:00;235
+Ouarzazate;Guelmim;23:59;14:50;240
+Ouarzazate;Ifrane;23:30;17:00;290
+Ouarzazate;Khemisset;23:30;13:45;235
+Ouarzazate;Larache;23:30;12:00;270
+Ouarzazate;Larache;23:30;15:05;270
+Ouarzazate;Marrakech;08:30;12:45;95
+Ouarzazate;Marrakech;10:00;14:30;90
+Ouarzazate;Marrakech;11:00;16:30;90
+Ouarzazate;Marrakech;12:15;16:45;90
+Ouarzazate;Marrakech;22:15;03:20;95
+Ouarzazate;Meknes;12:00;03:45;220
+Ouarzazate;Meknes;12:00;04:10;215
+Ouarzazate;Meknes;23:30;13:40;260
+Ouarzazate;Meknes;23:30;14:55;255
+Ouarzazate;Meknes;23:30;15:30;255
+Ouarzazate;Meknes;23:30;16:45;255
+Ouarzazate;Midelt;12:00;23:50;150
+Ouarzazate;Nador;23:30;20:15;370
+Ouarzazate;Rabat;23:30;08:45;200
+Ouarzazate;Safi;23:59;14:00;260
+Ouarzazate;Safi;23:59;14:15;260
+Ouarzazate;Safi;23:59;17:20;260
+Ouarzazate;Tan Tan;23:59;14:00;275
+Ouarzazate;Tan Tan;23:59;16:45;280
+Ouarzazate;Tanger;23:30;16:30;290
+Ouarzazate;Taounate;23:30;21:00;310
+Ouarzazate;Taza;23:30;17:10;330
+Ouarzazate;Taza;23:30;18:45;330
+Oujda;Agadir;08:30;03:00;450
+Oujda;Agadir;11:00;06:30;435
+Oujda;Agadir;15:30;07:20;495
+Oujda;Agadir;15:30;09:15;410
+Oujda;Agadir;20:45;14:30;440
+Oujda;Agadir;20:45;15:45;450
+Oujda;Agadir;22:30;14:30;510
+Oujda;Agadir;22:30;15:45;520
+Oujda;Agadir;22:30;17:30;565
+Oujda;Agadir;23:30;17:30;505
+Oujda;Agadir;08:30;03:00;450
+Oujda;Agadir;11:00;06:30;435
+Oujda;Agadir;15:30;07:20;495
+Oujda;Agadir;15:30;09:15;410
+Oujda;Agadir;20:45;14:30;440
+Oujda;Agadir;20:45;15:45;450
+Oujda;Agadir;22:30;14:30;510
+Oujda;Agadir;22:30;15:45;520
+Oujda;Agadir;22:30;17:30;565
+Oujda;Agadir;23:30;17:30;505
+Oujda;Al Hoceima;08:30;18:15;150
+Oujda;Al Hoceima;11:00;18:15;145
+Oujda;Azrou;15:30;21:15;165
+Oujda;Azrou;15:30;00:10;165
+Oujda;Azrou;23:30;07:50;165
+Oujda;Beni Mellal;20:45;14:00;315
+Oujda;Beni Mellal;22:30;14:00;385
+Oujda;Beni Mellal;23:30;17:45;320
+Oujda;Beni Mellal;23:30;19:00;320
+Oujda;Berkane;05:30;07:25;25
+Oujda;Casablanca FAR;08:30;18:00;230
+Oujda;Casablanca FAR;15:30;23:59;230
+Oujda;Casablanca FAR;20:45;06:00;220
+Oujda;Casablanca FAR;22:30;06:00;290
+Oujda;Casablanca FAR;23:30;09:15;230
+Oujda;Casablanca Ain Sebaa;08:30;17:30;230
+Oujda;Casablanca Ain Sebaa;15:30;23:30;230
+Oujda;Casablanca Ain Sebaa;20:45;05:30;220
+Oujda;Casablanca Ain Sebaa;22:30;05:30;290
+Oujda;Casablanca Ain Sebaa;23:30;08:45;230
+Oujda;Casablanca Maarif;08:30;23:10;
+Oujda;Casablanca Maarif;08:30;23:15;
+Oujda;Casablanca Maarif;11:00;01:00;220
+Oujda;Chefchaouen;08:30;18:00;210
+Oujda;Chefchaouen;11:00;20:30;185
+Oujda;Chefchaouen;15:30;03:50;210
+Oujda;Chefchaouen;19:30;10:30;300
+Oujda;Chefchaouen;23:30;11:40;210
+Oujda;Dakhla;20:45;15:15;835
+Oujda;Dakhla;22:30;15:15;905
+Oujda;Dakhla;23:30;15:15;845
+Oujda;El Hajeb;08:30;00:40;345
+Oujda;El Hajeb;20:45;16:40;330
+Oujda;El Hajeb;22:30;16:40;400
+Oujda;El Hajeb;23:30;16:40;340
+Oujda;Errachidia;08:30;06:00;450
+Oujda;Errachidia;11:00;04:50;255
+Oujda;Errachidia;15:30;04:50;260
+Oujda;Essaouira;20:45;18:00;360
+Oujda;Essaouira;22:30;18:00;430
+Oujda;Essaouira;23:30;18:00;370
+Oujda;Essaouira;23:30;19:15;370
+Oujda;Fes;08:30;12:45;130
+Oujda;Fes;11:00;16:00;125
+Oujda;Fes;15:30;19:30;130
+Oujda;Fes;19:30;23:45;140
+Oujda;Fes;20:45;01:20;120
+Oujda;Fes;23:30;04:45;130
+Oujda;Fnidek;08:30;07:00;390
+Oujda;Guelmim;08:30;07:00;530
+Oujda;Guelmim;11:00;12:00;505
+Oujda;Guelmim;20:45;20:15;530
+Oujda;Guelmim;20:45;00:50;520
+Oujda;Guelmim;22:30;20:15;600
+Oujda;Guelmim;22:30;00:50;590
+Oujda;Guelmim;23:30;00:50;530
+Oujda;Guelmim;23:30;01:35;540
+Oujda;Ifrane;15:30;20:45;155
+Oujda;Ifrane;23:30;07:20;155
+Oujda;Kasbat Tadla;11:00;01:35;210
+Oujda;Kasbat Tadla;15:30;01:35;215
+Oujda;Kasbat Tadla;20:45;11:25;205
+Oujda;Kasbat Tadla;23:30;11:25;215
+Oujda;Kelaa Sraghna;11:00;05:25;265
+Oujda;Kelaa Sraghna;15:30;05:25;270
+Oujda;Kelaa Sraghna;20:45;14:35;260
+Oujda;Kelaa Sraghna;23:30;14:35;270
+Oujda;Khemisset;11:00;21:30;175
+Oujda;Khemisset;23:30;10:10;160
+Oujda;Khouribga;20:45;11:00;270
+Oujda;Khouribga;22:30;11:00;340
+Oujda;Khouribga;23:30;15:00;275
+Oujda;Khouribga;23:30;17:20;275
+Oujda;Ksar El Kébir;20:45;11:10;285
+Oujda;Ksar El Kébir;22:30;11:10;355
+Oujda;Laayoune;11:00;20:00;690
+Oujda;Larache;08:30;21:45;215
+Oujda;Larache;11:00;21:45;210
+Oujda;Larache;19:30;03:30;240
+Oujda;Larache;22:30;11:50;360
+Oujda;Larache;22:30;12:00;400
+Oujda;Marrakech;08:30;23:30;320
+Oujda;Marrakech;08:30;00:20;330
+Oujda;Marrakech;20:45;11:00;310
+Oujda;Marrakech;20:45;11:45;320
+Oujda;Marrakech;20:45;12:35;310
+Oujda;Marrakech;22:30;11:00;380
+Oujda;Marrakech;22:30;11:45;390
+Oujda;Marrakech;22:30;12:35;380
+Oujda;Marrakech;22:30;15:00;390
+Oujda;Marrakech;23:30;15:00;330
+Oujda;Meknes;08:30;17:30;155
+Oujda;Meknes;11:00;17:30;150
+Oujda;Meknes;11:00;19:30;155
+Oujda;Meknes;11:00;20:15;150
+Oujda;Meknes;15:30;22:30;155
+Oujda;Meknes;19:30;01:00;160
+Oujda;Meknes;20:45;02:50;145
+Oujda;Midelt;11:00;02:40;210
+Oujda;Midelt;15:30;02:40;215
+Oujda;Mrirt;15:30;21:55;175
+Oujda;Mrirt;23:30;08:50;175
+Oujda;Nador;11:00;20:15;155
+Oujda;Nador;23:30;06:45;160
+Oujda;Nador;23:30;08:45;155
+Oujda;Rabat;08:30;16:30;195
+Oujda;Rabat;15:30;22:20;195
+Oujda;Rabat;20:45;04:20;185
+Oujda;Rabat;22:30;04:30;255
+Oujda;Rabat;23:30;07:45;195
+Oujda;Safi;08:30;23:15;335
+Oujda;Safi;20:45;13:15;325
+Oujda;Safi;20:45;15:15;320
+Oujda;Safi;22:30;13:15;395
+Oujda;Safi;22:30;15:15;390
+Oujda;Safi;23:30;15:15;330
+Oujda;Safi;23:30;16:50;330
+Oujda;Saidia;05:30;08:00;30
+Oujda;Sidi Kacem;08:30;18:50;170
+Oujda;Sidi Kacem;11:00;18:50;165
+Oujda;Sidi Kacem;15:30;02:20;170
+Oujda;Sidi Kacem;19:30;02:20;180
+Oujda;Souk Larbaa;08:30;20:40;190
+Oujda;Souk Larbaa;11:00;20:40;185
+Oujda;Souk Larbaa;15:30;03:30;190
+Oujda;Souk Larbaa;19:30;03:30;200
+Oujda;Souk Larbaa;20:45;10:15;275
+Oujda;Souk Larbaa;22:30;10:15;345
+Oujda;Tan Tan;11:00;14:00;525
+Oujda;Tan Tan;20:45;23:00;550
+Oujda;Tan Tan;20:45;03:40;540
+Oujda;Tan Tan;22:30;23:00;620
+Oujda;Tan Tan;22:30;03:40;610
+Oujda;Tan Tan;23:30;03:40;550
+Oujda;Tan Tan;23:30;04:10;560
+Oujda;Tanger;11:00;23:15;225
+Oujda;Tanger;19:30;05:15;260
+Oujda;Taounate;08:30;21:00;165
+Oujda;Taounate;11:00;21:00;160
+Oujda;Taza;08:30;11:05;80
+Oujda;Taza;11:00;13:40;75
+Oujda;Taza;23:30;02:05;80
+Oujda;Tiflet;23:30;11:00;170
+Rabat;Agadir;00:30;07:20;290
+Rabat;Agadir;10:30;20:30;255
+Rabat;Agadir;13:30;21:00;255
+Rabat;Agadir;15:30;01:00;255
+Rabat;Agadir;21:00;05:30;240
+Rabat;Agadir;22:15;06:30;255
+Rabat;Al Hoceima;08:30;18:15;170
+Rabat;Al Hoceima;19:40;05:15;170
+Rabat;Azrou;13:00;17:45;95
+Rabat;Azrou;21:30;01:40;100
+Rabat;Beni Mellal;10:00;17:45;125
+Rabat;Beni Mellal;10:15;17:45;130
+Rabat;Beni Mellal;10:30;17:45;130
+Rabat;Beni Mellal;11:30;19:00;125
+Rabat;Beni Mellal;12:15;19:00;130
+Rabat;Beni Mellal;12:20;19:00;120
+Rabat;Beni Mellal;12:40;19:00;125
+Rabat;Beni Mellal;15:30;23:00;130
+Rabat;Beni Mellal;15:45;23:00;130
+Rabat;Beni Mellal;15:45;22:00;100
+Rabat;Beni Mellal;16:15;23:00;130
+Rabat;Berkane;22:00;07:25;200
+Rabat;Casablanca FAR;04:10;05:45;35
+Rabat;Casablanca FAR;04:30;06:00;35
+Rabat;Casablanca FAR;04:40;06:00;50
+Rabat;Casablanca FAR;05:00;06:15;50
+Rabat;Casablanca FAR;05:00;06:30;40
+Rabat;Casablanca FAR;05:20;07:00;40
+Rabat;Casablanca FAR;06:00;07:30;40
+Rabat;Casablanca FAR;08:00;09:15;40
+Rabat;Casablanca FAR;10:00;12:00;35
+Rabat;Casablanca FAR;10:15;11:45;40
+Rabat;Casablanca FAR;10:30;12:00;40
+Rabat;Casablanca FAR;11:15;12:30;35
+Rabat;Casablanca FAR;11:30;13:00;35
+Rabat;Casablanca FAR;12:15;14:00;40
+Rabat;Casablanca FAR;12:20;13:30;30
+Rabat;Casablanca FAR;12:40;14:00;35
+Rabat;Casablanca FAR;14:50;16:30;35
+Rabat;Casablanca FAR;15:30;17:00;40
+Rabat;Casablanca FAR;15:45;17:15;35
+Rabat;Casablanca FAR;15:45;17:15;40
+Rabat;Casablanca FAR;16:15;17:30;40
+Rabat;Casablanca FAR;16:45;18:00;40
+Rabat;Casablanca FAR;19:15;20:30;40
+Rabat;Casablanca FAR;20:30;22:00;30
+Rabat;Casablanca FAR;21:00;22:45;35
+Rabat;Casablanca FAR;21:30;22:50;40
+Rabat;Casablanca FAR;22:00;23:20;40
+Rabat;Casablanca FAR;22:30;23:59;40
+Rabat;Casablanca FAR;23:25;00:30;
+Rabat;Casablanca Ain Sebaa;04:10;05:10;35
+Rabat;Casablanca Ain Sebaa;04:30;05:30;35
+Rabat;Casablanca Ain Sebaa;04:40;05:30;50
+Rabat;Casablanca Ain Sebaa;05:00;05:55;50
+Rabat;Casablanca Ain Sebaa;05:00;06:00;40
+Rabat;Casablanca Ain Sebaa;05:20;06:20;
+Rabat;Casablanca Ain Sebaa;06:00;06:50;
+Rabat;Casablanca Ain Sebaa;08:00;08:45;40
+Rabat;Casablanca Ain Sebaa;10:00;11:45;35
+Rabat;Casablanca Ain Sebaa;10:15;11:15;
+Rabat;Casablanca Ain Sebaa;10:30;11:40;40
+Rabat;Casablanca Ain Sebaa;11:15;12:00;35
+Rabat;Casablanca Ain Sebaa;11:30;12:20;
+Rabat;Casablanca Ain Sebaa;12:15;13:30;40
+Rabat;Casablanca Ain Sebaa;12:20;13:05;30
+Rabat;Casablanca Ain Sebaa;12:40;13:40;35
+Rabat;Casablanca Ain Sebaa;14:50;16:05;35
+Rabat;Casablanca Ain Sebaa;15:30;16:40;40
+Rabat;Casablanca Ain Sebaa;15:45;16:40;35
+Rabat;Casablanca Ain Sebaa;15:45;16:45;
+Rabat;Casablanca Ain Sebaa;16:15;17:00;40
+Rabat;Casablanca Ain Sebaa;16:45;17:30;
+Rabat;Casablanca Ain Sebaa;19:15;20:00;40
+Rabat;Casablanca Ain Sebaa;20:30;21:20;30
+Rabat;Casablanca Ain Sebaa;21:00;22:10;35
+Rabat;Casablanca Ain Sebaa;21:30;22:30;
+Rabat;Casablanca Ain Sebaa;22:00;23:00;40
+Rabat;Casablanca Ain Sebaa;22:30;23:30;40
+Rabat;Casablanca Maarif;10:30;12:40;40
+Rabat;Casablanca Maarif;15:30;17:25;40
+Rabat;Casablanca Maarif;15:45;17:30;35
+Rabat;Casablanca Maarif;21:00;23:15;35
+Rabat;Casablanca Maarif;21:30;23:10;40
+Rabat;Casablanca Maarif;23:25;01:00;
+Rabat;Dakhla;00:30;07:05;710
+Rabat;Dakhla;05:00;15:15;665
+Rabat;Dakhla;05:20;15:15;655
+Rabat;Dakhla;06:00;15:15;655
+Rabat;Dakhla;08:00;15:15;655
+Rabat;Dakhla;08:00;17:45;655
+Rabat;Dakhla;10:30;17:45;665
+Rabat;Dakhla;13:30;17:45;665
+Rabat;Dakhla;21:00;07:05;660
+Rabat;Dakhla;22:15;07:05;675
+Rabat;Dakhla;23:25;07:05;
+Rabat;El Hajeb;13:00;16:40;75
+Rabat;El Hajeb;21:30;00:40;
+Rabat;Errachidia;14:30;04:50;175
+Rabat;Errachidia;15:30;04:50;180
+Rabat;Errachidia;17:00;04:50;155
+Rabat;Errachidia;17:05;04:50;180
+Rabat;Errachidia;19:40;04:50;180
+Rabat;Errachidia;21:30;06:00;185
+Rabat;Essaouira;00:30;11:15;265
+Rabat;Essaouira;04:10;13:15;175
+Rabat;Essaouira;08:00;18:00;180
+Rabat;Essaouira;08:00;19:15;180
+Rabat;Essaouira;10:30;22:00;185
+Rabat;Essaouira;11:15;22:00;180
+Rabat;Essaouira;11:30;22:00;180
+Rabat;Essaouira;12:15;22:00;185
+Rabat;Essaouira;12:20;22:00;175
+Rabat;Essaouira;12:40;22:00;180
+Rabat;Fes;01:00;04:30;80
+Rabat;Fes;05:30;08:45;80
+Rabat;Fes;06:30;09:15;105
+Rabat;Fes;08:30;12:15;80
+Rabat;Fes;09:00;12:40;80
+Rabat;Fes;11:30;15:00;80
+Rabat;Fes;12:30;16:00;75
+Rabat;Fes;13:30;16:45;80
+Rabat;Fes;14:30;18:10;75
+Rabat;Fes;15:30;19:00;80
+Rabat;Fes;17:00;21:15;50
+Rabat;Fes;17:05;20:30;80
+Rabat;Fes;18:30;21:30;75
+Rabat;Fes;19:40;23:00;80
+Rabat;Fes;22:00;00:51;75
+Rabat;Fes;22:45;01:50;80
+Rabat;Fnidek;01:15;07:00;130
+Rabat;Guelmim;15:30;05:20;335
+Rabat;Guelmim;23:25;12:00;330
+Rabat;Ifrane;01:00;07:20;105
+Rabat;Ifrane;13:00;17:00;90
+Rabat;Ifrane;14:30;20:45;100
+Rabat;Ifrane;15:30;20:45;105
+Rabat;Kasbat Tadla;08:00;16:40;120
+Rabat;Kasbat Tadla;10:00;16:40;115
+Rabat;Kasbat Tadla;10:15;16:40;120
+Rabat;Kasbat Tadla;10:30;16:40;120
+Rabat;Kelaa Sraghna;00:30;08:50;225
+Rabat;Kelaa Sraghna;01:00;14:35;220
+Rabat;Kelaa Sraghna;13:30;00:15;185
+Rabat;Kelaa Sraghna;15:30;00:15;185
+Rabat;Kelaa Sraghna;15:30;03:55;185
+Rabat;Kelaa Sraghna;15:45;05:25;130
+Rabat;Kelaa Sraghna;21:00;08:50;175
+Rabat;Kelaa Sraghna;21:30;08:50;185
+Rabat;Kelaa Sraghna;22:15;08:50;185
+Rabat;Kelaa Sraghna;23:25;08:50;175
+Rabat;Khenifra;01:00;10:10;135
+Rabat;Khenifra;11:30;23:30;135
+Rabat;Khenifra;12:30;23:30;130
+Rabat;Khenifra;13:30;23:30;135
+Rabat;Khenifra;14:30;23:30;130
+Rabat;Khenifra;15:30;23:30;135
+Rabat;Khenifra;15:30;04:45;275
+Rabat;Khenifra;15:45;04:45;155
+Rabat;Khenifra;22:00;10:10;130
+Rabat;Khenifra;22:45;10:10;135
+Rabat;Khouribga;06:00;11:00;90
+Rabat;Khouribga;10:00;15:00;80
+Rabat;Khouribga;10:15;15:00;85
+Rabat;Khouribga;10:30;15:00;85
+Rabat;Khouribga;12:15;17:20;85
+Rabat;Khouribga;12:20;17:20;75
+Rabat;Khouribga;12:40;17:20;80
+Rabat;Khouribga;15:30;20:45;85
+Rabat;Khouribga;15:45;20:45;85
+Rabat;Khouribga;15:45;19:30;75
+Rabat;Khouribga;16:15;20:45;85
+Rabat;Ksar El Kébir;08:30;11:10;40
+Rabat;Laayoune;15:30;12:30;510
+Rabat;Laayoune;23:25;20:00;500
+Rabat;Larache;06:00;08:35;65
+Rabat;Larache;08:30;11:50;50
+Rabat;Larache;09:30;12:00;70
+Rabat;Larache;12:30;15:05;70
+Rabat;Larache;16:00;18:30;70
+Rabat;Larache;19:00;21:30;70
+Rabat;Marrakech;00:30;04:45;190
+Rabat;Marrakech;10:30;16:35;150
+Rabat;Marrakech;13:30;18:00;150
+Rabat;Marrakech;15:30;22:00;150
+Rabat;Marrakech;21:00;02:30;140
+Rabat;Marrakech;21:30;02:30;150
+Rabat;Marrakech;22:15;02:45;150
+Rabat;Marrakech;23:25;04:15;140
+Rabat;Meknes;01:00;03:05;60
+Rabat;Meknes;05:30;07:35;60
+Rabat;Meknes;08:30;10:45;60
+Rabat;Meknes;09:00;11:15;60
+Rabat;Meknes;11:30;13:40;60
+Rabat;Meknes;12:30;14:55;55
+Rabat;Meknes;13:00;15:30;55
+Rabat;Meknes;14:30;16:45;55
+Rabat;Meknes;15:30;17:55;60
+Rabat;Meknes;17:00;20:00;35
+Rabat;Meknes;17:05;19:15;60
+Rabat;Meknes;19:40;21:45;60
+Rabat;Meknes;21:30;23:40;60
+Rabat;Midelt;17:00;02:40;110
+Rabat;Midelt;17:05;02:40;135
+Rabat;Midelt;19:40;02:40;135
+Rabat;Midelt;21:30;03:40;135
+Rabat;Mrirt;01:00;08:50;125
+Rabat;Mrirt;11:30;21:55;125
+Rabat;Mrirt;12:30;21:55;120
+Rabat;Mrirt;13:30;21:55;125
+Rabat;Mrirt;14:30;21:55;120
+Rabat;Mrirt;15:30;21:55;125
+Rabat;Mrirt;22:00;08:50;120
+Rabat;Mrirt;22:45;08:50;125
+Rabat;Nador;11:30;20:15;170
+Rabat;Nador;22:45;06:45;170
+Rabat;Ouarzazate;00:30;16:00;
+Rabat;Ouarzazate;21:30;07:15;200
+Rabat;Oujda;01:00;09:15;195
+Rabat;Oujda;09:00;18:30;195
+Rabat;Oujda;13:30;21:30;195
+Rabat;Oujda;22:00;05:21;185
+Rabat;Oujda;23:30;07:15;255
+Rabat;Safi;04:10;10:50;135
+Rabat;Safi;06:00;13:15;145
+Rabat;Safi;08:00;15:15;140
+Rabat;Safi;12:15;19:45;145
+Rabat;Safi;12:20;19:45;135
+Rabat;Safi;12:40;19:45;140
+Rabat;Safi;15:30;23:15;145
+Rabat;Safi;15:45;23:15;140
+Rabat;Safi;16:15;23:15;145
+Rabat;Safi;16:45;23:15;145
+Rabat;Saidia;22:00;08:00;210
+Rabat;Sidi Kacem;08:30;13:10;80
+Rabat;Sidi Kacem;09:00;13:10;80
+Rabat;Sidi Kacem;12:30;18:50;75
+Rabat;Sidi Kacem;13:00;18:50;75
+Rabat;Sidi Kacem;14:30;18:50;75
+Rabat;Sidi Kacem;19:40;02:20;
+Rabat;Sidi Kacem;21:30;02:20;
+Rabat;Souk Larbaa;08:30;10:15;30
+Rabat;Souk Larbaa;15:00;17:20;55
+Rabat;Tan Tan;15:30;07:15;360
+Rabat;Tan Tan;23:25;14:00;355
+Rabat;Tanger;01:15;04:45;90
+Rabat;Tanger;06:00;09:50;90
+Rabat;Tanger;12:30;16:30;90
+Rabat;Tanger;16:00;20:15;90
+Rabat;Taounate;14:30;21:00;110
+Rabat;Taza;01:00;06:30;130
+Rabat;Taza;08:30;14:40;130
+Rabat;Taza;09:00;14:50;130
+Rabat;Taza;11:30;17:10;130
+Rabat;Taza;13:30;18:45;130
+Rabat;Taza;15:30;21:15;130
+Rabat;Taza;19:40;01:30;130
+Rabat;Taza;22:45;03:40;130
+Rabat;Tiflet;17:00;18:05;15
+Safi;Agadir;11:00;17:15;115
+Safi;Agadir;15:30;22:00;115
+Safi;Agadir;17:00;22:45;115
+Safi;Al Hoceima;08:30;05:15;305
+Safi;Al Hoceima;10:00;05:15;305
+Safi;Azrou;06:15;17:45;235
+Safi;Azrou;10:00;01:40;240
+Safi;Azrou;14:30;01:40;235
+Safi;Azrou;17:30;06:00;190
+Safi;Beni Mellal;06:15;17:45;195
+Safi;Beni Mellal;06:15;19:00;195
+Safi;Beni Mellal;08:30;19:00;195
+Safi;Beni Mellal;08:30;22:00;195
+Safi;Beni Mellal;08:30;23:00;195
+Safi;Beni Mellal;10:00;19:00;195
+Safi;Beni Mellal;10:00;22:00;195
+Safi;Beni Mellal;10:00;23:00;195
+Safi;Berkane;14:30;07:25;335
+Safi;Berkane;16:00;07:25;340
+Safi;Casablanca FAR;06:15;10:30;105
+Safi;Casablanca FAR;08:30;12:30;105
+Safi;Casablanca FAR;10:00;14:00;105
+Safi;Casablanca FAR;14:30;18:30;100
+Safi;Casablanca FAR;16:00;19:30;105
+Safi;Casablanca FAR;17:30;22:00;100
+Safi;Casablanca FAR;19:40;23:15;100
+Safi;Casablanca Maarif;06:15;10:10;105
+Safi;Casablanca Maarif;08:30;12:10;105
+Safi;Casablanca Maarif;10:00;13:40;105
+Safi;Casablanca Maarif;14:30;17:55;100
+Safi;Casablanca Maarif;16:00;19:10;105
+Safi;Casablanca Maarif;17:30;21:20;100
+Safi;Casablanca Maarif;19:40;22:50;100
+Safi;Chefchaouen;06:15;21:00;260
+Safi;Chefchaouen;08:30;21:00;260
+Safi;Dakhla;06:15;15:15;720
+Safi;Dakhla;11:00;15:15;525
+Safi;Dakhla;11:00;17:45;525
+Safi;Dakhla;15:30;17:45;505
+Safi;El Hajeb;06:15;16:40;215
+Safi;El Hajeb;10:00;00:40;220
+Safi;El Hajeb;14:30;00:40;215
+Safi;Errachidia;10:00;06:00;325
+Safi;Errachidia;14:30;06:00;320
+Safi;Essaouira;11:00;13:15;55
+Safi;Essaouira;15:30;18:00;55
+Safi;Essaouira;17:00;19:15;55
+Safi;Essaouira;20:00;22:00;60
+Safi;Fes;06:15;16:45;205
+Safi;Fes;08:30;19:00;205
+Safi;Fes;08:30;19:45;230
+Safi;Fes;10:00;19:45;230
+Safi;Fes;10:00;21:15;180
+Safi;Fes;14:30;00:51;195
+Safi;Fes;14:30;01:50;200
+Safi;Fes;16:00;00:51;200
+Safi;Fes;16:00;01:50;205
+Safi;Fes;17:30;04:30;200
+Safi;Fnidek;14:30;07:00;260
+Safi;Fnidek;16:00;07:00;265
+Safi;Fnidek;17:30;07:00;260
+Safi;Guelmim;15:30;02:35;195
+Safi;Guelmim;17:30;04:20;205
+Safi;Ifrane;06:15;17:00;230
+Safi;Ifrane;17:30;06:30;200
+Safi;Kasbat Tadla;06:15;16:40;185
+Safi;Kelaa Sraghna;17:30;00:15;85
+Safi;Kelaa Sraghna;17:30;03:55;85
+Safi;Khemisset;06:15;18:55;155
+Safi;Khemisset;08:30;18:55;155
+Safi;Khemisset;10:00;18:55;155
+Safi;Khenifra;11:00;04:45;350
+Safi;Khenifra;17:30;04:45;175
+Safi;Khouribga;06:15;15:00;150
+Safi;Khouribga;06:15;17:20;150
+Safi;Khouribga;08:30;17:20;150
+Safi;Khouribga;08:30;19:30;150
+Safi;Khouribga;08:30;20:45;150
+Safi;Khouribga;10:00;17:20;150
+Safi;Khouribga;10:00;19:30;150
+Safi;Khouribga;10:00;20:45;150
+Safi;Laayoune;15:30;09:45;355
+Safi;Laayoune;17:30;11:00;370
+Safi;Larache;06:15;18:30;205
+Safi;Larache;08:30;18:30;205
+Safi;Larache;08:30;21:30;215
+Safi;Larache;10:00;21:30;215
+Safi;Larache;17:30;08:35;260
+Safi;Marrakech;17:30;20:45;50
+Safi;Meknes;06:15;15:30;190
+Safi;Meknes;06:15;16:45;190
+Safi;Meknes;06:15;17:55;195
+Safi;Meknes;08:30;17:55;195
+Safi;Meknes;08:30;20:00;170
+Safi;Meknes;10:00;20:00;170
+Safi;Meknes;10:00;21:45;195
+Safi;Meknes;14:30;23:40;190
+Safi;Meknes;16:00;03:05;195
+Safi;Meknes;17:30;03:05;190
+Safi;Midelt;10:00;03:40;275
+Safi;Midelt;14:30;03:40;270
+Safi;Mrirt;11:00;05:25;355
+Safi;Mrirt;17:30;05:25;180
+Safi;Nador;14:30;06:45;300
+Safi;Nador;16:00;06:45;305
+Safi;Oujda;06:15;21:30;335
+Safi;Oujda;14:30;05:21;320
+Safi;Oujda;14:30;07:15;390
+Safi;Oujda;14:30;09:15;330
+Safi;Oujda;16:00;05:21;325
+Safi;Oujda;16:00;07:15;395
+Safi;Oujda;16:00;09:15;335
+Safi;Oujda;17:30;09:15;330
+Safi;Rabat;06:15;12:45;140
+Safi;Rabat;06:15;13:15;145
+Safi;Rabat;08:30;14:50;140
+Safi;Rabat;08:30;15:20;145
+Safi;Rabat;08:30;15:45;140
+Safi;Rabat;10:00;16:50;135
+Safi;Rabat;14:30;21:15;140
+Safi;Rabat;16:00;21:51;140
+Safi;Rabat;16:00;22:40;145
+Safi;Rabat;16:00;23:20;155
+Safi;Saidia;14:30;08:00;340
+Safi;Saidia;16:00;08:00;345
+Safi;Souk Larbaa;06:15;17:20;205
+Safi;Souk Larbaa;08:30;17:20;205
+Safi;Tan Tan;15:30;05:00;215
+Safi;Tan Tan;17:30;06:00;250
+Safi;Taounate;06:15;21:00;255
+Safi;Taza;06:15;18:45;270
+Safi;Taza;06:15;21:15;270
+Safi;Taza;08:30;21:15;270
+Safi;Taza;08:30;01:30;270
+Safi;Taza;10:00;01:30;270
+Safi;Taza;14:30;03:40;265
+Safi;Taza;14:30;06:30;265
+Safi;Taza;16:00;03:40;270
+Safi;Taza;16:00;06:30;270
+Safi;Taza;17:30;06:30;265
+Safi;Tetouan;08:30;23:00;255
+Safi;Tetouan;10:00;23:00;255
+Safi;Tetouan;14:30;05:45;250
+Safi;Tetouan;15:30;11:00;465
+Safi;Tetouan;16:00;05:45;255
+Safi;Tetouan;17:30;05:45;250
+Safi;Tiflet;06:15;18:05;145
+Safi;Tiflet;08:30;18:05;145
+Safi;Tiflet;10:00;18:05;145
+Saidia;Agadir;18:45;14:30;460
+Saidia;Agadir;18:45;15:45;470
+Saidia;Agadir;18:45;17:30;515
+Saidia;Agadir;18:45;20:00;460
+Saidia;Agadir;18:45;22:00;440
+Saidia;Al Hoceima;18:45;18:15;380
+Saidia;Azrou;18:45;07:50;175
+Saidia;Beni Mellal;18:45;14:00;335
+Saidia;Berkane;18:45;19:15;20
+Saidia;Casablanca FAR;18:45;06:00;240
+Saidia;Casablanca Ain Sebaa;18:45;05:30;240
+Saidia;Dakhla;18:45;15:15;855
+Saidia;El Hajeb;18:45;16:40;350
+Saidia;Essaouira;18:45;18:00;380
+Saidia;Fes;18:45;01:20;140
+Saidia;Guelmim;18:45;20:15;550
+Saidia;Guelmim;18:45;00:50;540
+Saidia;Ifrane;18:45;07:20;165
+Saidia;Kasbat Tadla;18:45;11:25;225
+Saidia;Kelaa Sraghna;18:45;14:35;280
+Saidia;Khenifra;18:45;10:10;195
+Saidia;Khouribga;18:45;11:00;290
+Saidia;Ksar El Kébir;18:45;11:10;250
+Saidia;Larache;18:45;08:35;275
+Saidia;Larache;18:45;11:50;260
+Saidia;Larache;18:45;12:00;280
+Saidia;Larache;18:45;15:05;340
+Saidia;Marrakech;18:45;11:00;330
+Saidia;Marrakech;18:45;11:45;340
+Saidia;Marrakech;18:45;12:35;330
+Saidia;Marrakech;18:45;15:00;340
+Saidia;Marrakech;18:45;16:00;330
+Saidia;Meknes;18:45;02:50;165
+Saidia;Meknes;18:45;07:35;270
+Saidia;Mrirt;18:45;08:50;185
+Saidia;Nador;18:45;06:45;265
+Saidia;Nador;18:45;08:45;260
+Saidia;Oujda;18:45;20:30;30
+Saidia;Rabat;18:45;04:20;210
+Saidia;Safi;18:45;13:15;345
+Saidia;Safi;18:45;15:15;340
+Saidia;Souk Larbaa;18:45;10:15;240
+Saidia;Tan Tan;18:45;23:00;570
+Saidia;Tan Tan;18:45;03:40;560
+Saidia;Tanger;18:45;09:50;300
+Saidia;Tanger;18:45;16:30;360
+Saidia;Taza;18:45;02:05;110
+Saidia;Taza;18:45;03:40;190
+Saidia;Taza;18:45;05:00;185
+Saidia;Taza;18:45;06:30;190
+Saidia;Tetouan;18:45;11:00;325
+Saidia;Tetouan;18:45;14:00;320
+Saidia;Tetouan;18:45;17:00;420
+Sidi Kacem;Agadir;13:15;05:30;420
+Sidi Kacem;Agadir;13:20;06:30;350
+Sidi Kacem;Agadir;13:20;06:30;
+Sidi Kacem;Agadir;13:20;07:20;405
+Sidi Kacem;Agadir;13:20;07:45;340
+Sidi Kacem;Agadir;13:20;07:45;
+Sidi Kacem;Agadir;13:20;09:15;320
+Sidi Kacem;Al Hoceima;19:00;05:15;150
+Sidi Kacem;Azrou;00:45;07:50;
+Sidi Kacem;Azrou;13:20;17:45;
+Sidi Kacem;Azrou;19:00;00:10;50
+Sidi Kacem;Azrou;19:00;01:40;55
+Sidi Kacem;Berkane;19:00;07:25;170
+Sidi Kacem;Casablanca FAR;00:45;06:30;
+Sidi Kacem;Casablanca FAR;00:45;07:30;
+Sidi Kacem;Casablanca FAR;00:45;09:15;
+Sidi Kacem;Casablanca Ain Sebaa;00:45;06:00;
+Sidi Kacem;Casablanca Ain Sebaa;00:45;06:50;
+Sidi Kacem;Casablanca Ain Sebaa;00:45;08:45;
+Sidi Kacem;Casablanca Ain Sebaa;13:15;22:10;200
+Sidi Kacem;Casablanca Maarif;13:15;23:15;200
+Sidi Kacem;Casablanca Maarif;13:20;01:00;135
+Sidi Kacem;Casablanca Maarif;13:20;01:00;
+Sidi Kacem;Chefchaouen;00:45;11:40;
+Sidi Kacem;Chefchaouen;02:30;15:00;
+Sidi Kacem;Chefchaouen;19:00;03:50;120
+Sidi Kacem;El Hajeb;13:20;16:40;
+Sidi Kacem;El Hajeb;19:00;00:40;
+Sidi Kacem;Errachidia;13:20;04:50;170
+Sidi Kacem;Errachidia;19:00;04:50;140
+Sidi Kacem;Errachidia;19:00;06:00;145
+Sidi Kacem;Fes;00:45;03:15;
+Sidi Kacem;Fes;13:20;16:00;40
+Sidi Kacem;Fes;19:00;21:40;40
+Sidi Kacem;Fnidek;19:00;07:00;115
+Sidi Kacem;Ifrane;13:20;17:00;
+Sidi Kacem;Kasbat Tadla;00:45;11:25;
+Sidi Kacem;Kasbat Tadla;13:20;01:35;125
+Sidi Kacem;Kelaa Sraghna;00:45;14:35;180
+Sidi Kacem;Kelaa Sraghna;13:20;05:25;180
+Sidi Kacem;Khemisset;00:45;10:10;70
+Sidi Kacem;Khemisset;13:20;21:30;90
+Sidi Kacem;Khemisset;13:20;21:30;
+Sidi Kacem;Khenifra;00:45;10:10;95
+Sidi Kacem;Khenifra;13:20;23:30;95
+Sidi Kacem;Ksar El Kébir;02:30;04:30;
+Sidi Kacem;Ksar El Kébir;19:00;04:30;
+Sidi Kacem;Laayoune;13:20;20:00;605
+Sidi Kacem;Larache;02:30;05:10;
+Sidi Kacem;Larache;13:15;15:20;45
+Sidi Kacem;Larache;19:00;21:45;45
+Sidi Kacem;Marrakech;00:45;16:00;210
+Sidi Kacem;Marrakech;13:20;02:45;235
+Sidi Kacem;Marrakech;13:20;02:45;
+Sidi Kacem;Marrakech;13:20;04:15;230
+Sidi Kacem;Marrakech;13:20;04:15;
+Sidi Kacem;Marrakech;13:20;04:45;305
+Sidi Kacem;Marrakech;13:20;06:00;210
+Sidi Kacem;Meknes;00:45;02:05;
+Sidi Kacem;Meknes;13:20;14:45;
+Sidi Kacem;Meknes;19:00;20:20;20
+Sidi Kacem;Midelt;19:00;02:40;95
+Sidi Kacem;Midelt;19:00;03:40;100
+Sidi Kacem;Mrirt;00:45;08:50;85
+Sidi Kacem;Mrirt;13:20;21:55;85
+Sidi Kacem;Nador;00:45;08:45;150
+Sidi Kacem;Nador;19:00;06:45;165
+Sidi Kacem;Oujda;00:45;09:15;160
+Sidi Kacem;Oujda;13:20;21:30;170
+Sidi Kacem;Oujda;19:00;05:21;160
+Sidi Kacem;Oujda;19:00;05:45;180
+Sidi Kacem;Rabat;00:45;04:55;
+Sidi Kacem;Rabat;00:45;05:50;
+Sidi Kacem;Saidia;19:00;08:00;180
+Sidi Kacem;Souk Larbaa;02:30;03:30;
+Sidi Kacem;Souk Larbaa;13:15;14:10;20
+Sidi Kacem;Souk Larbaa;19:00;20:40;20
+Sidi Kacem;Tan Tan;13:20;14:00;440
+Sidi Kacem;Tan Tan;13:20;14:00;
+Sidi Kacem;Tanger;02:30;06:30;
+Sidi Kacem;Tanger;13:15;16:30;80
+Sidi Kacem;Tanger;19:00;23:15;80
+Sidi Kacem;Taza;00:45;05:00;80
+Sidi Kacem;Taza;13:20;18:45;90
+Sidi Kacem;Taza;19:00;01:30;95
+Sidi Kacem;Tetouan;02:30;09:00;
+Sidi Kacem;Tetouan;13:15;17:30;90
+Sidi Kacem;Tiflet;00:45;11:00;80
+Souk Larbaa;Agadir;12:30;06:30;345
+Souk Larbaa;Agadir;14:15;05:30;395
+Souk Larbaa;Agadir;18:30;05:30;270
+Souk Larbaa;Agadir;18:30;06:10;330
+Souk Larbaa;Agadir;18:30;06:30;285
+Souk Larbaa;Agadir;18:30;07:20;320
+Souk Larbaa;Agadir;18:30;07:45;
+Souk Larbaa;Al Hoceima;18:00;05:15;175
+Souk Larbaa;Azrou;12:30;17:45;75
+Souk Larbaa;Azrou;12:30;21:15;95
+Souk Larbaa;Azrou;18:00;00:10;75
+Souk Larbaa;Azrou;18:00;01:40;80
+Souk Larbaa;Azrou;18:30;01:40;130
+Souk Larbaa;Azrou;23:45;07:50;
+Souk Larbaa;Berkane;18:00;07:25;190
+Souk Larbaa;Berkane;18:30;07:25;230
+Souk Larbaa;Casablanca FAR;18:30;22:00;55
+Souk Larbaa;Casablanca Ain Sebaa;18:30;21:20;55
+Souk Larbaa;Casablanca Maarif;18:30;23:10;70
+Souk Larbaa;Casablanca Maarif;18:30;23:15;65
+Souk Larbaa;Casablanca Maarif;18:30;01:00;
+Souk Larbaa;Chefchaouen;17:30;21:00;55
+Souk Larbaa;El Hajeb;12:30;16:40;
+Souk Larbaa;El Hajeb;18:00;00:40;
+Souk Larbaa;El Hajeb;18:30;00:40;
+Souk Larbaa;Errachidia;12:30;04:50;190
+Souk Larbaa;Errachidia;18:00;04:50;165
+Souk Larbaa;Errachidia;18:00;06:00;170
+Souk Larbaa;Errachidia;18:30;06:00;215
+Souk Larbaa;Fes;12:30;16:00;60
+Souk Larbaa;Fes;18:00;21:40;60
+Souk Larbaa;Fes;23:45;03:15;
+Souk Larbaa;Fnidek;18:30;07:00;160
+Souk Larbaa;Guelmim;12:30;12:00;415
+Souk Larbaa;Guelmim;18:30;12:00;360
+Souk Larbaa;Ifrane;12:30;17:00;70
+Souk Larbaa;Ifrane;23:45;07:20;
+Souk Larbaa;Kelaa Sraghna;12:30;05:25;200
+Souk Larbaa;Kelaa Sraghna;23:45;14:35;
+Souk Larbaa;Khemisset;12:30;21:30;65
+Souk Larbaa;Khemisset;23:45;10:10;
+Souk Larbaa;Ksar El Kébir;03:40;04:30;
+Souk Larbaa;Ksar El Kébir;10:25;11:10;
+Souk Larbaa;Laayoune;12:30;20:00;625
+Souk Larbaa;Larache;03:40;05:10;
+Souk Larbaa;Larache;10:25;11:50;
+Souk Larbaa;Larache;14:15;15:20;35
+Souk Larbaa;Larache;20:45;21:45;35
+Souk Larbaa;Marrakech;18:30;02:30;180
+Souk Larbaa;Marrakech;18:30;02:45;180
+Souk Larbaa;Marrakech;18:30;04:15;170
+Souk Larbaa;Marrakech;18:30;04:45;220
+Souk Larbaa;Meknes;12:30;14:45;45
+Souk Larbaa;Meknes;18:00;20:20;45
+Souk Larbaa;Meknes;23:45;02:05;
+Souk Larbaa;Midelt;12:30;02:40;145
+Souk Larbaa;Midelt;18:00;02:40;120
+Souk Larbaa;Midelt;18:00;03:40;125
+Souk Larbaa;Midelt;18:30;03:40;165
+Souk Larbaa;Mrirt;12:30;21:55;105
+Souk Larbaa;Mrirt;23:45;08:50;
+Souk Larbaa;Nador;18:00;06:45;185
+Souk Larbaa;Nador;18:30;06:45;200
+Souk Larbaa;Nador;23:45;08:45;170
+Souk Larbaa;Oujda;12:30;21:30;190
+Souk Larbaa;Oujda;18:00;05:21;180
+Souk Larbaa;Oujda;18:00;05:45;205
+Souk Larbaa;Oujda;18:30;09:15;285
+Souk Larbaa;Oujda;23:45;09:15;
+Souk Larbaa;Rabat;18:30;20:15;30
+Souk Larbaa;Saidia;18:00;08:00;200
+Souk Larbaa;Saidia;18:30;08:00;240
+Souk Larbaa;Sidi Kacem;12:30;13:15;20
+Souk Larbaa;Sidi Kacem;18:00;18:55;
+Souk Larbaa;Sidi Kacem;23:45;00:40;
+Souk Larbaa;Tan Tan;12:30;14:00;445
+Souk Larbaa;Tan Tan;18:30;14:00;385
+Souk Larbaa;Tanger;03:40;06:30;
+Souk Larbaa;Tanger;14:15;16:30;55
+Souk Larbaa;Tanger;20:45;23:15;55
+Souk Larbaa;Taounate;12:30;21:00;105
+Souk Larbaa;Taza;12:30;18:45;110
+Souk Larbaa;Taza;12:30;21:15;110
+Souk Larbaa;Taza;18:00;01:30;120
+Souk Larbaa;Taza;18:00;03:40;110
+Souk Larbaa;Taza;23:45;06:30;
+Souk Larbaa;Taza;23:45;05:00;
+Souk Larbaa;Tetouan;10:25;14:00;
+Souk Larbaa;Tetouan;14:15;17:30;65
+Souk Larbaa;Tiflet;23:45;11:00;
+Tan Tan;Agadir;00:40;06:15;130
+Tan Tan;Agadir;01:30;06:40;
+Tan Tan;Agadir;02:45;09:15;
+Tan Tan;Agadir;03:00;10:15;
+Tan Tan;Agadir;04:30;11:00;
+Tan Tan;Agadir;04:30;11:30;
+Tan Tan;Agadir;05:45;11:30;
+Tan Tan;Agadir;08:30;15:45;135
+Tan Tan;Agadir;12:00;18:00;130
+Tan Tan;Agadir;14:45;22:30;
+Tan Tan;Agadir;20:00;02:15;
+Tan Tan;Agadir;22:10;04:45;
+Tan Tan;Al Hoceima;02:45;05:15;
+Tan Tan;Azrou;02:45;01:40;
+Tan Tan;Azrou;08:30;06:00;365
+Tan Tan;Azrou;12:00;06:00;380
+Tan Tan;Azrou;14:45;15:20;
+Tan Tan;Azrou;20:00;15:20;
+Tan Tan;Azrou;20:00;17:45;
+Tan Tan;Azrou;22:10;17:45;
+Tan Tan;Azrou;22:10;21:15;
+Tan Tan;Azrou;22:10;00:10;
+Tan Tan;Beni Mellal;02:45;22:00;
+Tan Tan;Beni Mellal;02:45;23:00;
+Tan Tan;Beni Mellal;14:45;06:00;
+Tan Tan;Beni Mellal;20:00;17:45;
+Tan Tan;Beni Mellal;20:00;19:00;
+Tan Tan;Beni Mellal;20:00;22:00;
+Tan Tan;Beni Mellal;22:10;22:00;
+Tan Tan;Berkane;02:45;07:25;
+Tan Tan;Casablanca FAR;02:45;15:45;
+Tan Tan;Casablanca FAR;04:30;22:00;
+Tan Tan;Casablanca FAR;08:30;22:45;330
+Tan Tan;Casablanca FAR;20:00;09:45;
+Tan Tan;Casablanca Ain Sebaa;00:40;19:30;325
+Tan Tan;Casablanca Ain Sebaa;01:30;19:30;
+Tan Tan;Casablanca Ain Sebaa;02:45;17:40;
+Tan Tan;Casablanca Ain Sebaa;02:45;19:30;
+Tan Tan;Casablanca Ain Sebaa;03:00;19:30;
+Tan Tan;Casablanca Ain Sebaa;04:30;19:30;
+Tan Tan;Casablanca Ain Sebaa;20:00;13:05;
+Tan Tan;Casablanca Ain Sebaa;20:00;13:30;
+Tan Tan;Casablanca Ain Sebaa;20:00;13:40;
+Tan Tan;Casablanca Ain Sebaa;20:00;10:20;
+Tan Tan;Casablanca Ain Sebaa;22:10;16:05;
+Tan Tan;Casablanca Ain Sebaa;22:10;16:40;
+Tan Tan;Casablanca Maarif;02:45;15:25;
+Tan Tan;Casablanca Maarif;04:30;21:20;
+Tan Tan;Casablanca Maarif;08:30;22:15;330
+Tan Tan;Casablanca Maarif;20:00;09:15;
+Tan Tan;Chefchaouen;20:00;21:00;
+Tan Tan;Chefchaouen;22:10;21:00;
+Tan Tan;Dakhla;03:45;15:15;320
+Tan Tan;Dakhla;03:45;17:45;320
+Tan Tan;Dakhla;05:15;17:45;320
+Tan Tan;Dakhla;17:00;07:05;325
+Tan Tan;El Hajeb;02:45;00:40;
+Tan Tan;El Hajeb;20:00;16:40;
+Tan Tan;El Hajeb;22:10;16:40;
+Tan Tan;Errachidia;02:45;06:00;
+Tan Tan;Errachidia;14:45;17:45;
+Tan Tan;Errachidia;20:00;17:45;
+Tan Tan;Essaouira;00:40;11:00;200
+Tan Tan;Essaouira;00:40;15:00;300
+Tan Tan;Essaouira;01:30;11:00;
+Tan Tan;Essaouira;01:30;15:00;
+Tan Tan;Essaouira;02:45;15:00;
+Tan Tan;Essaouira;02:45;17:00;
+Tan Tan;Essaouira;03:00;15:00;
+Tan Tan;Essaouira;03:00;17:00;
+Tan Tan;Essaouira;04:30;17:00;
+Tan Tan;Essaouira;04:30;15:00;
+Tan Tan;Essaouira;05:45;17:00;
+Tan Tan;Essaouira;22:10;11:00;
+Tan Tan;Essaouira;22:10;11:15;
+Tan Tan;Fes;00:40;20:30;440
+Tan Tan;Fes;01:30;20:30;
+Tan Tan;Fes;02:45;21:30;
+Tan Tan;Fes;02:45;23:00;
+Tan Tan;Fes;08:30;07:45;415
+Tan Tan;Fes;08:30;08:45;445
+Tan Tan;Fes;12:00;07:45;410
+Tan Tan;Fes;12:00;08:45;440
+Tan Tan;Fes;12:00;09:15;495
+Tan Tan;Fes;14:45;09:15;
+Tan Tan;Fes;20:00;16:00;
+Tan Tan;Fes;20:00;16:45;
+Tan Tan;Fes;20:00;16:45;
+Tan Tan;Fes;22:10;16:45;
+Tan Tan;Fes;22:10;18:10;
+Tan Tan;Fes;22:10;19:00;
+Tan Tan;Fes;22:10;16:00;
+Tan Tan;Fnidek;04:30;07:00;
+Tan Tan;Fnidek;08:30;07:00;490
+Tan Tan;Guelmim;00:40;02:15;50
+Tan Tan;Guelmim;01:30;02:55;
+Tan Tan;Guelmim;02:45;03:45;
+Tan Tan;Guelmim;03:00;05:00;
+Tan Tan;Guelmim;04:30;06:00;
+Tan Tan;Guelmim;04:30;07:30;
+Tan Tan;Guelmim;05:45;07:45;
+Tan Tan;Guelmim;08:30;10:15;55
+Tan Tan;Guelmim;12:00;13:45;50
+Tan Tan;Guelmim;14:45;17:10;
+Tan Tan;Guelmim;20:00;21:50;
+Tan Tan;Guelmim;22:10;00:15;
+Tan Tan;Ifrane;08:30;06:30;375
+Tan Tan;Ifrane;12:00;06:30;390
+Tan Tan;Ifrane;14:45;15:50;
+Tan Tan;Ifrane;20:00;15:50;
+Tan Tan;Ifrane;20:00;17:00;
+Tan Tan;Ifrane;22:10;17:00;
+Tan Tan;Ifrane;22:10;20:45;
+Tan Tan;Kasbat Tadla;14:45;11:50;
+Tan Tan;Kasbat Tadla;20:00;11:50;
+Tan Tan;Kasbat Tadla;20:00;16:40;
+Tan Tan;Kelaa Sraghna;08:30;00:15;260
+Tan Tan;Kelaa Sraghna;12:00;00:15;275
+Tan Tan;Kelaa Sraghna;12:00;03:55;275
+Tan Tan;Kelaa Sraghna;12:00;03:55;
+Tan Tan;Kelaa Sraghna;14:45;08:50;
+Tan Tan;Kelaa Sraghna;14:45;03:55;
+Tan Tan;Kelaa Sraghna;20:00;08:50;
+Tan Tan;Khemisset;20:00;13:45;
+Tan Tan;Khemisset;20:00;18:55;
+Tan Tan;Khemisset;22:10;18:55;
+Tan Tan;Khemisset;22:10;21:30;
+Tan Tan;Khemisset;22:10;13:45;
+Tan Tan;Khenifra;08:30;04:45;350
+Tan Tan;Khenifra;12:00;04:45;365
+Tan Tan;Khenifra;14:45;13:50;
+Tan Tan;Khenifra;20:00;13:50;
+Tan Tan;Khenifra;22:10;23:30;
+Tan Tan;Khouribga;02:45;19:30;
+Tan Tan;Khouribga;02:45;20:45;
+Tan Tan;Khouribga;14:45;10:25;
+Tan Tan;Khouribga;20:00;15:00;
+Tan Tan;Khouribga;20:00;17:20;
+Tan Tan;Khouribga;20:00;19:30;
+Tan Tan;Khouribga;22:10;19:30;
+Tan Tan;Laayoune;01:25;06:15;140
+Tan Tan;Laayoune;02:55;07:30;140
+Tan Tan;Laayoune;03:45;07:45;140
+Tan Tan;Laayoune;03:45;08:20;140
+Tan Tan;Laayoune;04:15;08:00;145
+Tan Tan;Laayoune;05:15;09:45;140
+Tan Tan;Laayoune;06:10;10:45;140
+Tan Tan;Laayoune;06:10;11:00;140
+Tan Tan;Laayoune;07:30;12:30;
+Tan Tan;Laayoune;14:15;20:00;140
+Tan Tan;Laayoune;17:00;22:35;145
+Tan Tan;Larache;02:45;21:30;
+Tan Tan;Larache;12:00;08:35;445
+Tan Tan;Larache;20:00;15:05;
+Tan Tan;Larache;20:00;18:30;
+Tan Tan;Larache;22:10;18:30;
+Tan Tan;Larache;22:10;21:45;
+Tan Tan;Marrakech;00:40;10:00;225
+Tan Tan;Marrakech;01:30;11:10;
+Tan Tan;Marrakech;02:45;12:45;
+Tan Tan;Marrakech;08:30;19:00;225
+Tan Tan;Marrakech;14:45;01:45;
+Tan Tan;Marrakech;20:00;05:45;
+Tan Tan;Marrakech;22:10;08:00;
+Tan Tan;Meknes;02:45;21:45;
+Tan Tan;Meknes;02:45;23:40;
+Tan Tan;Meknes;20:00;14:55;
+Tan Tan;Meknes;20:00;15:30;
+Tan Tan;Meknes;20:00;16:45;
+Tan Tan;Meknes;22:10;15:30;
+Tan Tan;Meknes;22:10;16:45;
+Tan Tan;Meknes;22:10;17:30;
+Tan Tan;Meknes;22:10;17:55;
+Tan Tan;Meknes;22:10;19:15;
+Tan Tan;Meknes;22:10;14:55;
+Tan Tan;Midelt;02:45;03:40;
+Tan Tan;Midelt;22:10;02:40;
+Tan Tan;Mrirt;08:30;05:25;355
+Tan Tan;Mrirt;12:00;05:25;370
+Tan Tan;Mrirt;14:45;14:10;
+Tan Tan;Mrirt;20:00;14:10;
+Tan Tan;Mrirt;22:10;21:55;
+Tan Tan;Nador;02:45;06:45;
+Tan Tan;Ouarzazate;00:40;16:00;
+Tan Tan;Ouarzazate;01:30;16:00;
+Tan Tan;Ouarzazate;02:45;16:00;
+Tan Tan;Ouarzazate;22:10;16:00;
+Tan Tan;Rabat;20:00;11:30;
+Tan Tan;Rabat;22:10;12:15;
+Tan Tan;Safi;01:30;14:00;
+Tan Tan;Safi;04:30;17:20;
+Tan Tan;Saidia;02:45;08:00;
+Tan Tan;Sidi Kacem;22:10;18:50;
+Tan Tan;Souk Larbaa;20:00;17:20;
+Tan Tan;Souk Larbaa;22:10;17:20;
+Tan Tan;Souk Larbaa;22:10;20:40;
+Tan Tan;Tanger;12:00;09:50;470
+Tan Tan;Tanger;20:00;16:30;
+Tan Tan;Tanger;20:00;20:15;
+Tan Tan;Tanger;22:10;20:15;
+Tan Tan;Tanger;22:10;23:15;
+Tan Tan;Taounate;20:00;21:00;
+Tan Tan;Taounate;22:10;21:00;
+Tan Tan;Taza;02:45;01:30;
+Tan Tan;Taza;02:45;03:40;
+Tan Tan;Taza;04:30;06:30;
+Tan Tan;Taza;20:00;18:45;
+Tan Tan;Taza;20:00;21:15;
+Tan Tan;Taza;22:10;18:45;
+Tan Tan;Taza;22:10;21:15;
+Tan Tan;Tetouan;02:45;23:00;
+Tan Tan;Tetouan;04:30;05:45;
+Tan Tan;Tetouan;08:30;05:45;480
+Tan Tan;Tetouan;12:00;11:00;480
+Tan Tan;Tetouan;20:00;17:00;
+Tan Tan;Tiflet;20:00;18:05;
+Tan Tan;Tiflet;22:10;18:05;
+Tanger;Agadir;09:45;06:30;400
+Tanger;Agadir;11:00;01:00;345
+Tanger;Agadir;11:00;03:00;340
+Tanger;Agadir;12:15;07:20;485
+Tanger;Agadir;12:15;09:15;400
+Tanger;Agadir;17:00;05:30;340
+Tanger;Agadir;23:59;14:30;340
+Tanger;Agadir;23:59;15:45;350
+Tanger;Agadir;23:59;17:15;320
+Tanger;Agadir;23:59;17:30;395
+Tanger;Agadir;23:59;21:00;430
+Tanger;Al Hoceima;11:00;05:15;260
+Tanger;Al Hoceima;12:15;05:15;235
+Tanger;Al Hoceima;15:00;05:15;230
+Tanger;Al Hoceima;23:59;18:15;260
+Tanger;Azrou;09:45;17:45;130
+Tanger;Azrou;09:45;21:15;155
+Tanger;Azrou;12:15;21:15;155
+Tanger;Azrou;12:15;00:10;155
+Tanger;Azrou;15:00;00:10;130
+Tanger;Azrou;15:00;01:40;135
+Tanger;Azrou;17:00;01:40;190
+Tanger;Azrou;20:30;07:50;180
+Tanger;Azrou;21:15;07:50;155
+Tanger;Azrou;23:59;07:50;155
+Tanger;Beni Mellal;11:00;22:00;190
+Tanger;Beni Mellal;11:00;23:00;210
+Tanger;Beni Mellal;23:59;14:00;215
+Tanger;Berkane;12:15;07:25;250
+Tanger;Berkane;15:00;07:25;250
+Tanger;Berkane;17:00;07:25;290
+Tanger;Casablanca FAR;11:00;16:30;120
+Tanger;Casablanca FAR;17:00;22:45;120
+Tanger;Casablanca FAR;23:59;05:45;120
+Tanger;Casablanca Ain Sebaa;11:00;16:05;120
+Tanger;Casablanca Ain Sebaa;17:00;22:10;120
+Tanger;Casablanca Ain Sebaa;23:59;05:10;120
+Tanger;Casablanca Maarif;11:00;17:25;130
+Tanger;Casablanca Maarif;11:00;17:30;125
+Tanger;Casablanca Maarif;17:00;23:15;120
+Tanger;Chefchaouen;08:15;10:30;55
+Tanger;Chefchaouen;10:00;13:00;50
+Tanger;Chefchaouen;12:15;15:00;50
+Tanger;Dakhla;17:00;07:05;760
+Tanger;El Hajeb;09:45;16:40;
+Tanger;El Hajeb;15:00;00:40;
+Tanger;El Hajeb;17:00;00:40;
+Tanger;Errachidia;09:45;04:50;250
+Tanger;Errachidia;12:15;04:50;250
+Tanger;Errachidia;15:00;04:50;220
+Tanger;Errachidia;15:00;06:00;225
+Tanger;Errachidia;17:00;06:00;275
+Tanger;Essaouira;17:00;11:00;410
+Tanger;Essaouira;17:00;15:00;410
+Tanger;Essaouira;23:59;13:15;260
+Tanger;Essaouira;23:59;18:00;260
+Tanger;Fes;09:45;16:00;120
+Tanger;Fes;12:15;19:30;120
+Tanger;Fes;15:00;21:40;120
+Tanger;Fes;20:30;02:00;145
+Tanger;Fes;21:15;03:15;120
+Tanger;Fes;23:59;05:20;120
+Tanger;Fnidek;05:00;07:00;35
+Tanger;Guelmim;09:45;12:00;470
+Tanger;Guelmim;11:00;05:20;425
+Tanger;Guelmim;11:00;07:00;420
+Tanger;Guelmim;17:00;12:00;420
+Tanger;Guelmim;17:00;14:50;435
+Tanger;Guelmim;23:59;20:15;430
+Tanger;Ifrane;09:45;17:00;125
+Tanger;Ifrane;09:45;20:45;145
+Tanger;Ifrane;12:15;20:45;145
+Tanger;Ifrane;20:30;07:20;170
+Tanger;Ifrane;21:15;07:20;145
+Tanger;Ifrane;23:59;07:20;145
+Tanger;Kasbat Tadla;09:45;01:35;205
+Tanger;Kasbat Tadla;12:15;01:35;205
+Tanger;Kasbat Tadla;20:30;11:25;230
+Tanger;Kasbat Tadla;21:15;11:25;205
+Tanger;Kasbat Tadla;23:59;11:25;205
+Tanger;Kelaa Sraghna;09:45;05:25;260
+Tanger;Kelaa Sraghna;12:15;05:25;260
+Tanger;Kelaa Sraghna;20:30;14:35;285
+Tanger;Kelaa Sraghna;21:15;14:35;260
+Tanger;Kelaa Sraghna;23:59;14:35;260
+Tanger;Khemisset;09:45;21:30;120
+Tanger;Khemisset;11:00;18:55;115
+Tanger;Khemisset;21:15;10:10;150
+Tanger;Khemisset;23:59;10:10;120
+Tanger;Khenifra;09:45;23:30;175
+Tanger;Khenifra;12:15;23:30;175
+Tanger;Khenifra;20:30;10:10;200
+Tanger;Khenifra;21:15;10:10;175
+Tanger;Khenifra;23:59;10:10;175
+Tanger;Khouribga;11:00;19:30;165
+Tanger;Khouribga;11:00;20:45;165
+Tanger;Khouribga;23:59;11:00;170
+Tanger;Ksar El Kébir;10:00;17:50;65
+Tanger;Ksar El Kébir;12:15;17:50;65
+Tanger;Ksar El Kébir;20:30;04:30;
+Tanger;Laayoune;09:45;20:00;685
+Tanger;Larache;09:45;11:10;35
+Tanger;Larache;15:00;16:25;35
+Tanger;Larache;17:00;18:10;35
+Tanger;Larache;20:30;21:40;55
+Tanger;Larache;21:15;22:15;35
+Tanger;Larache;23:59;01:00;35
+Tanger;Larache;23:59;01:10;35
+Tanger;Marrakech;11:00;21:30;220
+Tanger;Marrakech;11:00;22:00;240
+Tanger;Marrakech;11:00;23:30;210
+Tanger;Marrakech;11:00;00:20;220
+Tanger;Marrakech;11:00;02:15;210
+Tanger;Marrakech;17:00;02:30;240
+Tanger;Marrakech;23:59;11:00;210
+Tanger;Marrakech;23:59;11:45;220
+Tanger;Marrakech;23:59;12:35;210
+Tanger;Marrakech;23:59;15:00;220
+Tanger;Marrakech;23:59;16:00;290
+Tanger;Meknes;09:45;14:45;100
+Tanger;Meknes;15:00;20:20;100
+Tanger;Meknes;20:30;01:00;125
+Tanger;Meknes;21:15;02:05;100
+Tanger;Meknes;23:59;04:45;100
+Tanger;Mrirt;09:45;21:55;165
+Tanger;Mrirt;12:15;21:55;165
+Tanger;Mrirt;20:30;08:50;190
+Tanger;Mrirt;21:15;08:50;165
+Tanger;Mrirt;23:59;08:50;165
+Tanger;Nador;15:00;06:45;245
+Tanger;Nador;17:00;06:45;260
+Tanger;Nador;21:15;08:45;220
+Tanger;Ouarzazate;17:00;07:15;290
+Tanger;Ouarzazate;17:00;16:00;
+Tanger;Oujda;05:30;20:30;260
+Tanger;Oujda;08:15;20:30;250
+Tanger;Oujda;09:45;21:30;250
+Tanger;Oujda;15:00;05:21;240
+Tanger;Oujda;20:30;05:45;260
+Tanger;Oujda;21:15;09:15;240
+Tanger;Rabat;11:00;14:30;90
+Tanger;Rabat;17:00;20:45;90
+Tanger;Rabat;23:59;04:00;90
+Tanger;Safi;11:00;23:15;225
+Tanger;Safi;23:59;10:50;220
+Tanger;Safi;23:59;13:15;225
+Tanger;Safi;23:59;15:15;220
+Tanger;Saidia;12:15;08:00;260
+Tanger;Saidia;15:00;08:00;260
+Tanger;Saidia;17:00;08:00;300
+Tanger;Sidi Kacem;09:45;13:15;80
+Tanger;Sidi Kacem;15:00;18:55;80
+Tanger;Sidi Kacem;21:15;00:40;80
+Tanger;Souk Larbaa;09:45;12:15;55
+Tanger;Souk Larbaa;15:00;17:55;55
+Tanger;Souk Larbaa;21:15;23:40;55
+Tanger;Tan Tan;09:45;14:00;500
+Tanger;Tan Tan;11:00;07:15;450
+Tanger;Tan Tan;17:00;14:00;445
+Tanger;Tan Tan;17:00;16:45;475
+Tanger;Tan Tan;23:59;23:00;450
+Tanger;Taounate;09:45;21:00;160
+Tanger;Taza;09:45;18:45;170
+Tanger;Taza;09:45;21:15;170
+Tanger;Taza;15:00;01:30;175
+Tanger;Taza;15:00;03:40;170
+Tanger;Taza;20:30;06:30;195
+Tanger;Taza;21:15;05:00;160
+Tanger;Tetouan;05:00;05:45;25
+Tanger;Tetouan;05:30;06:15;35
+Tanger;Tetouan;08:15;09:00;25
+Tanger;Tetouan;10:00;11:00;25
+Tanger;Tetouan;12:15;13:15;25
+Tanger;Tetouan;16:45;17:30;25
+Tanger;Tiflet;11:00;18:05;105
+Tanger;Tiflet;23:59;11:00;125
+Taounate;Agadir;06:30;21:00;345
+Taounate;Agadir;06:30;21:20;380
+Taounate;Agadir;06:30;01:00;380
+Taounate;Al Hoceima;06:30;18:15;150
+Taounate;Azrou;06:30;17:45;205
+Taounate;Beni Mellal;06:30;19:00;240
+Taounate;Beni Mellal;06:30;22:00;240
+Taounate;Beni Mellal;06:30;23:00;240
+Taounate;Casablanca Ain Sebaa;06:30;12:00;150
+Taounate;Casablanca Maarif;06:30;17:25;150
+Taounate;Casablanca Maarif;06:30;17:25;
+Taounate;Casablanca Maarif;06:30;17:30;145
+Taounate;Chefchaouen;06:30;15:15;115
+Taounate;Chefchaouen;06:30;18:00;115
+Taounate;Chefchaouen;06:30;21:00;230
+Taounate;El Hajeb;06:30;16:40;185
+Taounate;Essaouira;06:30;22:00;295
+Taounate;Fes;06:30;08:00;35
+Taounate;Guelmim;06:30;01:35;460
+Taounate;Guelmim;06:30;05:20;460
+Taounate;Ifrane;06:30;17:00;200
+Taounate;Khemisset;06:30;13:45;145
+Taounate;Khouribga;06:30;17:20;195
+Taounate;Khouribga;06:30;19:30;195
+Taounate;Khouribga;06:30;20:45;195
+Taounate;Larache;06:30;15:05;180
+Taounate;Larache;06:30;15:20;120
+Taounate;Larache;06:30;18:30;180
+Taounate;Marrakech;06:30;17:35;250
+Taounate;Marrakech;06:30;18:00;250
+Taounate;Marrakech;06:30;19:45;280
+Taounate;Marrakech;06:30;21:30;250
+Taounate;Marrakech;06:30;22:00;250
+Taounate;Meknes;06:30;11:30;60
+Taounate;Meknes;06:30;13:30;60
+Taounate;Meknes;06:30;13:40;170
+Taounate;Meknes;06:30;14:55;165
+Taounate;Nador;06:30;20:15;280
+Taounate;Oujda;06:30;18:30;165
+Taounate;Rabat;06:30;11:00;110
+Taounate;Safi;06:30;19:45;255
+Taounate;Safi;06:30;21:00;255
+Taounate;Sidi Kacem;06:30;13:10;75
+Taounate;Souk Larbaa;06:30;14:10;95
+Taounate;Souk Larbaa;06:30;17:20;165
+Taounate;Tan Tan;06:30;04:10;480
+Taounate;Tan Tan;06:30;07:15;480
+Taounate;Taza;06:30;14:40;85
+Taounate;Taza;06:30;14:50;85
+Taounate;Tetouan;06:30;23:00;300
+Taounate;Tiflet;06:30;18:05;125
+Taza;Agadir;02:15;17:30;440
+Taza;Agadir;07:30;21:00;360
+Taza;Agadir;10:15;03:00;385
+Taza;Agadir;11:15;03:00;385
+Taza;Agadir;13:45;06:30;360
+Taza;Agadir;14:30;05:30;385
+Taza;Agadir;14:30;06:10;440
+Taza;Agadir;14:30;06:30;360
+Taza;Agadir;14:30;07:20;415
+Taza;Agadir;14:30;07:45;
+Taza;Agadir;23:30;15:45;395
+Taza;Al Hoceima;01:40;05:15;70
+Taza;Al Hoceima;14:45;18:15;70
+Taza;Azrou;02:15;07:50;85
+Taza;Azrou;10:15;17:45;105
+Taza;Azrou;13:45;21:15;85
+Taza;Azrou;14:30;21:15;85
+Taza;Azrou;23:30;07:50;85
+Taza;Beni Mellal;02:15;17:45;255
+Taza;Beni Mellal;02:15;19:00;255
+Taza;Beni Mellal;07:30;19:00;255
+Taza;Beni Mellal;07:30;22:00;255
+Taza;Beni Mellal;07:30;23:00;255
+Taza;Beni Mellal;10:15;23:00;255
+Taza;Beni Mellal;23:30;14:00;260
+Taza;Berkane;23:00;07:25;175
+Taza;Casablanca FAR;02:15;09:15;165
+Taza;Casablanca FAR;07:30;14:00;165
+Taza;Casablanca FAR;10:15;17:30;165
+Taza;Casablanca FAR;11:15;18:00;165
+Taza;Casablanca FAR;14:30;20:30;165
+Taza;Casablanca FAR;23:30;06:30;165
+Taza;Casablanca Ain Sebaa;02:15;08:45;165
+Taza;Casablanca Ain Sebaa;07:30;13:30;165
+Taza;Casablanca Ain Sebaa;10:15;17:00;165
+Taza;Casablanca Ain Sebaa;11:15;17:30;
+Taza;Casablanca Ain Sebaa;14:30;20:00;165
+Taza;Casablanca Ain Sebaa;23:30;06:00;165
+Taza;Casablanca Maarif;07:30;17:25;
+Taza;Casablanca Maarif;10:15;23:10;
+Taza;Casablanca Maarif;10:15;23:15;
+Taza;Casablanca Maarif;11:15;23:10;
+Taza;Casablanca Maarif;11:15;23:15;
+Taza;Casablanca Maarif;13:45;01:00;145
+Taza;Casablanca Maarif;14:30;23:10;
+Taza;Casablanca Maarif;14:30;23:15;
+Taza;Casablanca Maarif;14:30;01:00;145
+Taza;Casablanca Maarif;14:30;01:00;
+Taza;Chefchaouen;02:15;11:40;130
+Taza;Chefchaouen;07:30;15:15;130
+Taza;Chefchaouen;07:30;18:00;130
+Taza;Chefchaouen;10:15;18:00;130
+Taza;Chefchaouen;11:15;18:00;130
+Taza;Chefchaouen;13:45;20:30;120
+Taza;Dakhla;02:15;15:15;780
+Taza;Dakhla;02:15;17:45;780
+Taza;Dakhla;23:30;15:15;780
+Taza;El Hajeb;10:15;16:40;
+Taza;Errachidia;07:30;06:00;385
+Taza;Errachidia;10:15;06:00;385
+Taza;Errachidia;11:15;06:00;385
+Taza;Errachidia;13:45;04:50;180
+Taza;Errachidia;14:30;04:50;180
+Taza;Essaouira;02:15;18:00;305
+Taza;Essaouira;02:15;19:15;305
+Taza;Essaouira;07:30;22:00;310
+Taza;Essaouira;23:30;18:00;305
+Taza;Essaouira;23:30;19:15;305
+Taza;Fes;02:15;04:45;50
+Taza;Fes;07:30;09:00;50
+Taza;Fes;10:15;12:15;50
+Taza;Fes;11:15;12:45;50
+Taza;Fes;13:45;16:00;50
+Taza;Fes;14:30;16:05;50
+Taza;Fes;23:00;00:20;45
+Taza;Fes;23:30;01:45;50
+Taza;Fnidek;11:15;07:00;325
+Taza;Fnidek;14:30;07:00;325
+Taza;Guelmim;02:15;00:50;465
+Taza;Guelmim;02:15;01:35;475
+Taza;Guelmim;02:15;02:35;465
+Taza;Guelmim;07:30;05:20;475
+Taza;Guelmim;07:30;07:00;465
+Taza;Guelmim;10:15;07:00;465
+Taza;Guelmim;11:15;07:00;465
+Taza;Guelmim;13:45;12:00;430
+Taza;Guelmim;14:30;12:00;465
+Taza;Guelmim;23:30;20:15;475
+Taza;Ifrane;02:15;07:20;75
+Taza;Ifrane;10:15;17:00;100
+Taza;Ifrane;13:45;20:45;75
+Taza;Ifrane;14:30;20:45;75
+Taza;Ifrane;23:30;07:20;75
+Taza;Kasbat Tadla;02:15;11:25;135
+Taza;Kasbat Tadla;13:45;01:35;135
+Taza;Kasbat Tadla;14:30;01:35;135
+Taza;Kasbat Tadla;23:30;11:25;135
+Taza;Kelaa Sraghna;02:15;14:35;190
+Taza;Kelaa Sraghna;13:45;05:25;190
+Taza;Kelaa Sraghna;14:30;05:25;190
+Taza;Kelaa Sraghna;23:30;14:35;190
+Taza;Khemisset;02:15;10:10;80
+Taza;Khemisset;13:45;21:30;100
+Taza;Khemisset;14:30;21:30;100
+Taza;Khenifra;02:15;10:10;105
+Taza;Khenifra;13:45;23:30;105
+Taza;Khenifra;14:30;23:30;105
+Taza;Khenifra;23:30;10:10;105
+Taza;Khouribga;02:15;15:00;210
+Taza;Khouribga;02:15;17:20;210
+Taza;Khouribga;07:30;17:20;210
+Taza;Khouribga;07:30;19:30;210
+Taza;Khouribga;07:30;20:45;210
+Taza;Khouribga;10:15;20:45;210
+Taza;Khouribga;23:30;11:00;215
+Taza;Ksar El Kébir;23:00;04:30;
+Taza;Laayoune;13:45;20:00;615
+Taza;Laayoune;14:30;20:00;615
+Taza;Larache;07:30;15:20;135
+Taza;Larache;13:45;21:45;135
+Taza;Larache;23:00;05:10;130
+Taza;Marrakech;02:15;15:00;265
+Taza;Marrakech;07:30;18:00;245
+Taza;Marrakech;07:30;19:45;295
+Taza;Marrakech;11:15;23:30;255
+Taza;Marrakech;13:45;02:45;245
+Taza;Marrakech;14:30;02:15;255
+Taza;Marrakech;14:30;02:30;265
+Taza;Marrakech;14:30;02:45;245
+Taza;Marrakech;23:30;11:00;255
+Taza;Marrakech;23:30;11:45;265
+Taza;Meknes;10:15;13:30;75
+Taza;Meknes;23:00;01:20;70
+Taza;Meknes;23:30;02:50;75
+Taza;Midelt;13:45;02:40;135
+Taza;Midelt;14:30;02:40;135
+Taza;Mrirt;02:15;08:50;95
+Taza;Mrirt;13:45;21:55;95
+Taza;Mrirt;14:30;21:55;95
+Taza;Mrirt;23:30;08:50;95
+Taza;Nador;03:45;06:45;80
+Taza;Nador;05:05;08:45;75
+Taza;Nador;17:15;20:15;80
+Taza;Ouarzazate;10:15;07:15;330
+Taza;Ouarzazate;11:15;07:15;330
+Taza;Ouarzazate;14:30;07:15;330
+Taza;Oujda;06:40;09:15;80
+Taza;Oujda;15:00;18:30;80
+Taza;Oujda;17:45;20:30;75
+Taza;Oujda;19:00;21:30;80
+Taza;Rabat;02:15;07:45;130
+Taza;Rabat;07:30;12:10;130
+Taza;Rabat;10:15;16:10;130
+Taza;Rabat;11:15;16:30;130
+Taza;Rabat;14:30;19:00;130
+Taza;Rabat;23:30;04:55;130
+Taza;Safi;02:15;15:15;265
+Taza;Safi;02:15;16:50;265
+Taza;Safi;07:30;19:45;270
+Taza;Safi;07:30;21:00;270
+Taza;Safi;07:30;23:15;270
+Taza;Safi;10:15;23:15;270
+Taza;Safi;11:15;23:15;270
+Taza;Safi;23:30;13:15;270
+Taza;Safi;23:30;15:15;265
+Taza;Safi;23:30;16:50;265
+Taza;Saidia;23:00;08:00;185
+Taza;Sidi Kacem;07:30;13:10;90
+Taza;Sidi Kacem;13:45;18:50;90
+Taza;Sidi Kacem;23:00;02:20;80
+Taza;Souk Larbaa;07:30;14:10;110
+Taza;Souk Larbaa;13:45;20:40;110
+Taza;Souk Larbaa;23:00;03:30;100
+Taza;Tan Tan;02:15;03:40;485
+Taza;Tan Tan;02:15;04:10;495
+Taza;Tan Tan;02:15;05:00;485
+Taza;Tan Tan;07:30;07:15;495
+Taza;Tan Tan;13:45;14:00;450
+Taza;Tan Tan;14:30;14:00;485
+Taza;Tan Tan;23:30;23:00;495
+Taza;Tan Tan;23:30;03:40;485
+Taza;Tanger;13:45;23:15;160
+Taza;Tanger;23:00;06:30;160
+Taza;Taounate;10:15;21:00;85
+Taza;Taounate;11:15;21:00;85
+Taza;Taounate;13:45;21:00;85
+Taza;Taounate;14:30;21:00;85
+Taza;Tetouan;02:15;13:30;150
+Taza;Tetouan;07:30;16:50;160
+Taza;Tetouan;07:30;17:30;150
+Taza;Tetouan;07:30;19:40;150
+Taza;Tetouan;10:15;19:40;150
+Taza;Tetouan;11:15;19:40;150
+Taza;Tetouan;13:45;22:00;160
+Taza;Tetouan;23:00;09:00;185
+Taza;Tetouan;23:00;11:00;185
+Taza;Tiflet;02:15;11:00;90
+Tetouan;Agadir;06:00;21:20;380
+Tetouan;Agadir;06:00;01:00;380
+Tetouan;Agadir;11:00;03:00;370
+Tetouan;Agadir;11:30;06:30;410
+Tetouan;Agadir;13:30;07:20;465
+Tetouan;Agadir;13:30;09:15;380
+Tetouan;Agadir;15:00;06:10;380
+Tetouan;Agadir;15:00;07:45;
+Tetouan;Agadir;15:30;05:30;350
+Tetouan;Agadir;17:30;07:45;
+Tetouan;Agadir;23:59;14:30;400
+Tetouan;Agadir;23:59;15:45;410
+Tetouan;Agadir;23:59;17:30;455
+Tetouan;Al Hoceima;05:00;12:35;115
+Tetouan;Azrou;06:00;17:45;205
+Tetouan;Azrou;08:30;17:45;130
+Tetouan;Azrou;09:30;21:15;145
+Tetouan;Azrou;11:30;21:15;135
+Tetouan;Azrou;13:30;21:15;135
+Tetouan;Azrou;13:30;00:10;135
+Tetouan;Azrou;15:00;01:40;180
+Tetouan;Azrou;15:30;01:40;215
+Tetouan;Azrou;19:15;07:50;175
+Tetouan;Azrou;23:15;07:50;135
+Tetouan;Beni Mellal;06:00;17:45;240
+Tetouan;Beni Mellal;06:00;19:00;240
+Tetouan;Beni Mellal;06:00;22:00;240
+Tetouan;Beni Mellal;11:00;23:00;240
+Tetouan;Beni Mellal;23:59;14:00;275
+Tetouan;Berkane;11:00;07:25;385
+Tetouan;Berkane;15:00;07:25;280
+Tetouan;Berkane;15:30;07:25;315
+Tetouan;Casablanca FAR;06:00;11:45;150
+Tetouan;Casablanca FAR;11:00;17:15;150
+Tetouan;Casablanca FAR;15:00;22:00;105
+Tetouan;Casablanca FAR;15:30;22:45;140
+Tetouan;Casablanca FAR;17:30;23:20;150
+Tetouan;Casablanca FAR;23:59;06:15;180
+Tetouan;Casablanca Ain Sebaa;06:00;11:15;150
+Tetouan;Casablanca Ain Sebaa;11:00;16:45;150
+Tetouan;Casablanca Ain Sebaa;15:00;21:20;105
+Tetouan;Casablanca Ain Sebaa;15:30;22:10;140
+Tetouan;Casablanca Ain Sebaa;17:30;23:00;150
+Tetouan;Casablanca Ain Sebaa;23:59;05:55;180
+Tetouan;Casablanca Maarif;06:00;17:25;
+Tetouan;Casablanca Maarif;11:00;23:10;
+Tetouan;Casablanca Maarif;15:00;23:10;
+Tetouan;Casablanca Maarif;15:00;01:00;
+Tetouan;Casablanca Maarif;15:30;23:15;140
+Tetouan;Casablanca Maarif;17:30;01:00;
+Tetouan;Chefchaouen;05:00;06:15;25
+Tetouan;Chefchaouen;09:30;10:30;30
+Tetouan;Chefchaouen;11:30;13:00;25
+Tetouan;Chefchaouen;13:30;15:00;25
+Tetouan;Chefchaouen;16:30;18:00;25
+Tetouan;Dakhla;15:30;07:05;770
+Tetouan;Dakhla;23:59;15:15;795
+Tetouan;El Hajeb;08:30;16:40;
+Tetouan;El Hajeb;11:00;00:40;265
+Tetouan;El Hajeb;15:30;00:40;
+Tetouan;Errachidia;08:30;04:50;230
+Tetouan;Errachidia;09:30;04:50;240
+Tetouan;Errachidia;11:00;06:00;295
+Tetouan;Errachidia;11:30;04:50;230
+Tetouan;Errachidia;13:30;04:50;230
+Tetouan;Errachidia;15:00;06:00;265
+Tetouan;Errachidia;15:30;06:00;300
+Tetouan;Essaouira;06:00;22:00;295
+Tetouan;Essaouira;15:30;11:00;420
+Tetouan;Essaouira;15:30;15:00;420
+Tetouan;Essaouira;23:59;18:00;320
+Tetouan;Fes;08:30;16:00;100
+Tetouan;Fes;09:30;15:30;110
+Tetouan;Fes;11:30;17:30;100
+Tetouan;Fes;13:30;19:30;100
+Tetouan;Fes;16:30;22:30;100
+Tetouan;Fes;19:15;02:00;140
+Tetouan;Fes;23:15;05:20;100
+Tetouan;Fnidek;06:00;07:00;20
+Tetouan;Guelmim;06:00;01:35;460
+Tetouan;Guelmim;06:00;05:20;445
+Tetouan;Guelmim;11:00;07:00;450
+Tetouan;Guelmim;11:30;12:00;480
+Tetouan;Guelmim;15:00;12:00;410
+Tetouan;Guelmim;15:30;12:00;445
+Tetouan;Guelmim;15:30;14:50;445
+Tetouan;Guelmim;17:30;12:00;440
+Tetouan;Guelmim;23:59;20:15;490
+Tetouan;Guelmim;23:59;00:50;480
+Tetouan;Ifrane;08:30;17:00;125
+Tetouan;Ifrane;08:30;20:45;125
+Tetouan;Ifrane;09:30;20:45;135
+Tetouan;Ifrane;11:30;20:45;125
+Tetouan;Ifrane;13:30;20:45;125
+Tetouan;Ifrane;19:15;07:20;165
+Tetouan;Ifrane;23:15;07:20;125
+Tetouan;Kasbat Tadla;06:00;16:40;230
+Tetouan;Kasbat Tadla;08:30;01:35;185
+Tetouan;Kasbat Tadla;09:30;01:35;195
+Tetouan;Kasbat Tadla;11:30;01:35;185
+Tetouan;Kasbat Tadla;13:30;01:35;185
+Tetouan;Kasbat Tadla;19:15;11:25;225
+Tetouan;Kasbat Tadla;23:15;11:25;185
+Tetouan;Kelaa Sraghna;08:30;05:25;240
+Tetouan;Kelaa Sraghna;09:30;05:25;250
+Tetouan;Kelaa Sraghna;11:30;05:25;240
+Tetouan;Kelaa Sraghna;13:30;05:25;240
+Tetouan;Kelaa Sraghna;15:30;08:50;285
+Tetouan;Kelaa Sraghna;19:15;14:35;280
+Tetouan;Kelaa Sraghna;23:15;14:35;240
+Tetouan;Khemisset;06:00;18:55;200
+Tetouan;Khemisset;08:30;21:30;120
+Tetouan;Khemisset;09:30;21:30;160
+Tetouan;Khemisset;11:30;21:30;150
+Tetouan;Khemisset;19:15;10:10;170
+Tetouan;Khemisset;23:15;10:10;120
+Tetouan;Khouribga;06:00;15:00;195
+Tetouan;Khouribga;06:00;17:20;195
+Tetouan;Khouribga;06:00;19:30;195
+Tetouan;Khouribga;11:00;20:45;195
+Tetouan;Khouribga;23:59;11:00;230
+Tetouan;Ksar El Kébir;15:00;17:50;40
+Tetouan;Laayoune;08:30;20:00;665
+Tetouan;Laayoune;09:30;20:00;675
+Tetouan;Laayoune;11:30;20:00;665
+Tetouan;Larache;06:00;07:45;50
+Tetouan;Larache;08:30;11:10;45
+Tetouan;Larache;11:00;12:55;50
+Tetouan;Larache;15:00;16:45;35
+Tetouan;Larache;15:30;18:10;45
+Tetouan;Larache;19:15;21:40;60
+Tetouan;Larache;23:15;01:10;45
+Tetouan;Marrakech;06:00;17:35;250
+Tetouan;Marrakech;06:00;18:00;250
+Tetouan;Marrakech;11:00;23:30;240
+Tetouan;Marrakech;11:00;00:20;250
+Tetouan;Marrakech;15:00;02:30;205
+Tetouan;Marrakech;15:00;04:15;195
+Tetouan;Marrakech;15:30;02:30;250
+Tetouan;Marrakech;17:30;04:15;240
+Tetouan;Marrakech;23:59;11:00;270
+Tetouan;Marrakech;23:59;11:45;280
+Tetouan;Marrakech;23:59;12:35;270
+Tetouan;Meknes;08:30;14:45;100
+Tetouan;Meknes;19:15;01:00;130
+Tetouan;Meknes;23:15;04:45;100
+Tetouan;Midelt;08:30;02:40;185
+Tetouan;Midelt;09:30;02:40;195
+Tetouan;Midelt;11:00;03:40;245
+Tetouan;Midelt;11:30;02:40;185
+Tetouan;Midelt;13:30;02:40;185
+Tetouan;Midelt;15:00;03:40;215
+Tetouan;Midelt;15:30;03:40;250
+Tetouan;Mrirt;08:30;21:55;145
+Tetouan;Mrirt;09:30;21:55;155
+Tetouan;Mrirt;11:30;21:55;145
+Tetouan;Mrirt;13:30;21:55;145
+Tetouan;Mrirt;19:15;08:50;185
+Tetouan;Mrirt;23:15;08:50;145
+Tetouan;Nador;05:00;16:00;150
+Tetouan;Nador;15:30;08:45;245
+Tetouan;Nador;17:00;08:45;245
+Tetouan;Nador;19:15;08:45;255
+Tetouan;Ouarzazate;11:00;07:15;310
+Tetouan;Ouarzazate;15:00;07:15;280
+Tetouan;Ouarzazate;15:30;07:15;315
+Tetouan;Ouarzazate;15:30;16:00;
+Tetouan;Oujda;09:30;20:30;225
+Tetouan;Oujda;19:15;05:45;270
+Tetouan;Rabat;06:00;10:00;110
+Tetouan;Rabat;11:00;15:35;110
+Tetouan;Rabat;15:00;20:15;80
+Tetouan;Rabat;15:30;20:45;115
+Tetouan;Rabat;17:30;21:50;110
+Tetouan;Rabat;23:59;04:45;140
+Tetouan;Safi;06:00;19:45;255
+Tetouan;Safi;06:00;21:00;255
+Tetouan;Safi;11:00;23:15;255
+Tetouan;Safi;23:59;13:15;285
+Tetouan;Safi;23:59;15:15;280
+Tetouan;Saidia;11:00;08:00;390
+Tetouan;Saidia;15:00;08:00;290
+Tetouan;Saidia;15:30;08:00;325
+Tetouan;Sidi Kacem;08:30;13:15;90
+Tetouan;Sidi Kacem;17:00;00:40;105
+Tetouan;Sidi Kacem;19:15;00:40;115
+Tetouan;Souk Larbaa;08:30;12:15;65
+Tetouan;Souk Larbaa;15:00;18:20;50
+Tetouan;Tan Tan;06:00;04:10;480
+Tetouan;Tan Tan;06:00;07:15;470
+Tetouan;Tan Tan;09:30;14:00;510
+Tetouan;Tan Tan;11:30;14:00;500
+Tetouan;Tan Tan;15:00;14:00;435
+Tetouan;Tan Tan;15:30;14:00;470
+Tetouan;Tan Tan;15:30;16:45;485
+Tetouan;Tan Tan;17:30;14:00;465
+Tetouan;Tan Tan;23:59;23:00;510
+Tetouan;Tan Tan;23:59;03:40;500
+Tetouan;Tanger;08:30;09:30;25
+Tetouan;Tanger;15:30;16:45;25
+Tetouan;Tanger;17:00;18:30;25
+Tetouan;Tanger;19:15;20:10;35
+Tetouan;Tanger;22:15;23:15;25
+Tetouan;Tanger;23:15;23:59;25
+Tetouan;Taounate;06:00;21:00;300
+Tetouan;Taza;08:30;18:45;150
+Tetouan;Taza;08:30;21:15;150
+Tetouan;Taza;09:30;17:30;165
+Tetouan;Taza;11:30;21:15;150
+Tetouan;Taza;13:30;01:30;150
+Tetouan;Taza;16:30;01:30;150
+Tetouan;Taza;16:30;03:40;150
+Tetouan;Taza;16:30;05:00;145
+Tetouan;Taza;17:00;05:00;185
+Tetouan;Taza;19:15;05:00;185
+Tetouan;Taza;19:15;06:30;190
+Tetouan;Tiflet;06:00;18:05;190
+Tetouan;Tiflet;19:15;11:00;180
+Tetouan;Tiflet;23:15;11:00;125
+Tiflet;Agadir;11:10;01:00;270
+Tiflet;Agadir;11:10;03:00;260
+Tiflet;Al Hoceima;11:10;05:15;240
+Tiflet;Al Hoceima;18:15;05:15;155
+Tiflet;Azrou;11:10;17:45;110
+Tiflet;Azrou;18:15;00:10;55
+Tiflet;Azrou;18:15;01:40;60
+Tiflet;Beni Mellal;11:10;19:00;130
+Tiflet;Beni Mellal;11:10;22:00;130
+Tiflet;Beni Mellal;11:10;23:00;130
+Tiflet;Berkane;18:15;07:25;170
+Tiflet;Casablanca FAR;11:10;13:30;40
+Tiflet;Casablanca Ain Sebaa;11:10;13:05;40
+Tiflet;Casablanca Maarif;11:10;17:25;55
+Tiflet;Casablanca Maarif;11:10;17:25;
+Tiflet;Casablanca Maarif;11:10;17:30;50
+Tiflet;Chefchaouen;11:10;21:00;135
+Tiflet;Chefchaouen;18:15;03:50;120
+Tiflet;El Hajeb;11:10;16:40;90
+Tiflet;El Hajeb;18:15;00:40;
+Tiflet;Errachidia;18:15;04:50;145
+Tiflet;Errachidia;18:15;06:00;150
+Tiflet;Essaouira;11:10;22:00;185
+Tiflet;Fes;18:15;21:15;40
+Tiflet;Guelmim;11:10;05:20;350
+Tiflet;Guelmim;11:10;07:00;340
+Tiflet;Ifrane;11:10;17:00;105
+Tiflet;Khemisset;18:15;18:55;15
+Tiflet;Khouribga;11:10;17:20;85
+Tiflet;Khouribga;11:10;19:30;85
+Tiflet;Khouribga;11:10;20:45;85
+Tiflet;Ksar El Kébir;18:15;04:30;
+Tiflet;Larache;11:10;18:30;85
+Tiflet;Larache;11:10;21:30;150
+Tiflet;Larache;18:15;03:30;135
+Tiflet;Larache;18:15;05:10;90
+Tiflet;Marrakech;11:10;18:00;165
+Tiflet;Marrakech;11:10;19:45;170
+Tiflet;Marrakech;11:10;21:30;140
+Tiflet;Marrakech;11:10;22:00;140
+Tiflet;Meknes;18:15;20:00;25
+Tiflet;Midelt;18:15;02:40;100
+Tiflet;Midelt;18:15;03:40;105
+Tiflet;Nador;18:15;06:45;165
+Tiflet;Rabat;11:10;12:10;15
+Tiflet;Safi;11:10;19:45;145
+Tiflet;Safi;11:10;21:00;145
+Tiflet;Safi;11:10;23:15;145
+Tiflet;Saidia;18:15;08:00;180
+Tiflet;Sidi Kacem;18:15;02:20;80
+Tiflet;Sidi Kacem;18:15;02:20;
+Tiflet;Souk Larbaa;11:10;17:20;70
+Tiflet;Souk Larbaa;18:15;03:30;70
+Tiflet;Tan Tan;11:10;07:15;
+Tiflet;Tanger;11:10;20:15;105
+Tiflet;Tanger;18:15;05:15;150
+Tiflet;Tanger;18:15;06:30;125
+Tiflet;Taounate;11:10;21:00;125
+Tiflet;Taza;18:15;01:30;100
+Tiflet;Taza;18:15;03:40;90
+Tiflet;Tetouan;11:10;23:00;190
+Tiflet;Tetouan;18:15;05:00;140
+Tiflet;Tetouan;18:15;06:15;155
